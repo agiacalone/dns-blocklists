@@ -58,6 +58,7 @@ https://gitlab.com/quidsup/notrack-annoyance-blocklist/-/raw/master/notrack-anno
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-blocklist.txt
 https://gitlab.com/quidsup/notrack-blocklists/raw/master/notrack-malware.txt
 https://hblock.molinero.dev/hosts_adblock.txt
+https://hinweishelden.com/hinweise/
 https://hole.cert.pl/domains/domains.txt
 https://hole.cert.pl/domains/v2/domains.txt
 https://hostfiles.frogeye.fr/firstparty-trackers.txt
