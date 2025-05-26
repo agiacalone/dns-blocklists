@@ -561,6 +561,13 @@
       }
     },
     {
+      "PK": "cpolar.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "crontab.guru",
       "action": {
         "do": 1,

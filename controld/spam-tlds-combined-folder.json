@@ -931,6 +931,13 @@
       }
     },
     {
+      "PK": "cpolar.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.credit",
       "action": {
         "do": 0,
