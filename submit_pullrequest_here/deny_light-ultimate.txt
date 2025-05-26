@@ -1,5 +1,12 @@
 # Domains to be added to the light, normal, pro, pro++ and ultimate list.
 
+# https://github.com/hagezi/dns-blocklists/issues/6329
+# https://github.com/bentonow/bento-js-sdk
+# Tracking:
+app.bentonow.com
+fast.bentonow.com
+track.bentonow.com
+
 # https://github.com/hagezi/dns-blocklists/issues/6222
 cc-api-data.adobe.io
 
