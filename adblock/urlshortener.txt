@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 26 May 2025 09:00 UTC
-! Version: 2025.0526.0900.11
+! Last modified: 26 May 2025 22:27 UTC
+! Version: 2025.0526.2227.44
 ! Syntax: AdBlock
-! Number of entries: 5869
+! Number of entries: 5871
 !
 ||0.gp^
 ||00oo.lol^
@@ -1386,6 +1386,7 @@
 ||dl-protect.info^
 ||dl-protect.link^
 ||dld.bz^
+||dlink.me^
 ||dlkv.top^
 ||dlsh.it^
 ||dlvr.it^
@@ -1902,6 +1903,7 @@
 ||glblctzn.me^
 ||gldr.co^
 ||glmr.co^
+||glnk.io^
 ||glo.bo^
 ||glo.wf^
 ||glowin88.site^
@@ -3457,7 +3459,6 @@
 ||onlineclothes.live^
 ||onlinekassirjessica.life^
 ||onlyfansamairanidiaz.live^
-||onlyfanscaycoleman.live^
 ||onon.in^
 ||onx.la^
 ||oo0oo.icu^
@@ -3744,6 +3745,7 @@
 ||pxicz.com^
 ||pxl.fm^
 ||pxlcrv.co^
+||pxlme.me^
 ||pxu.co^
 ||py.md^
 ||py6.ru^
@@ -3983,7 +3985,6 @@
 ||rnm.me^
 ||rntyu.com^
 ||robertdray2.live^
-||robloxgroup.life^
 ||robloxtech.live^
 ||rog.gg^
 ||roge.rs^
@@ -4685,6 +4686,7 @@
 ||teliget.live^
 ||tellurl.com^
 ||telnet-service.net^
+||www.temporary-url.com^
 ||temu.to^
 ||ter.li^
 ||terabox.in^
@@ -5286,7 +5288,6 @@
 ||videopro.live^
 ||vig.fit^
 ||vigilink.com^
-||vim-tiktok.live^
 ||vincenaja46.live^
 ||vineland.dj^
 ||vip-gacha99.info^
@@ -5645,6 +5646,7 @@
 ||xor.tw^
 ||xortly.com^
 ||xoxourl.com^
+||xpixl.me^
 ||xpmas.sbs^
 ||xpr.li^
 ||xprt.re^

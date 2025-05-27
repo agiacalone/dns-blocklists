@@ -20,10 +20,12 @@ https://cybercrime-tracker.net/all.php
 https://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://dl.red.flag.domains/red.flag.domains.txt
 https://downloads.majestic.com/majestic_million.csv
+https://easylist-downloads.adblockplus.org/abpindo.txt
 https://easylist-downloads.adblockplus.org/advblock.txt
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
 https://easylist-downloads.adblockplus.org/bulgarian_list.txt
 https://easylist-downloads.adblockplus.org/easylistchina.txt
+https://easylist-downloads.adblockplus.org/easylistczechslovak.txt
 https://easylist-downloads.adblockplus.org/easylistdutch.txt
 https://easylist-downloads.adblockplus.org/easylistgermany.txt
 https://easylist-downloads.adblockplus.org/easylistitaly.txt
@@ -197,6 +199,7 @@ https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperim
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersAdGuardHome.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/BrowseWebsitesWithoutLoggingInAGH.txt
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SerboCroatianList.txt
+https://raw.githubusercontent.com/DandelionSprout/Swedish-List-for-Adblock-Plus/refs/heads/main/Swedish%20List%20for%20All-Nordic.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-ipv4.txt
 https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt
@@ -209,12 +212,17 @@ https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/ea
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_admiral.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
+https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easyprivacy/easyprivacy_trackingservers_admiral.txt
 https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
@@ -284,6 +292,7 @@ https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Fre
 https://raw.githubusercontent.com/LennyFox/Blocklists/master/Block_non_latin_TLDs.txt
 https://raw.githubusercontent.com/logroid/adaway-hosts/master/hosts.txt
 https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/gambling-hosts.txt
+https://raw.githubusercontent.com/MajkiIT/polish-ads-filter/master/polish-pihole-filters/hostfile.txt
 https://raw.githubusercontent.com/marco-acorte/antispam-it/main/antispam-it.txt
 https://raw.githubusercontent.com/MasterKia/PersianBlocker/main/PersianBlockerHosts.txt
 https://raw.githubusercontent.com/matomo-org/referrer-spam-list/master/spammers.txt
@@ -360,6 +369,9 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.tx
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters/filters-2025.txt
+https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
+https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
+https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/refs/heads/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/refs/heads/main/privacy/privacy.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
@@ -387,6 +399,7 @@ https://raw.githubusercontent.com/zakird/crux-top-lists/main/data/global/current
 https://ressources.anj.fr/blocage_sites_illegaux/blocage_sites_illegaux.csv
 https://safelyweb.com/scams-database
 https://schoolwebproxy.com/1000-proxies-for-school-chromebook-2025/
+https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt

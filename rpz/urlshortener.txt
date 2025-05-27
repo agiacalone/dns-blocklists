@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748250000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748298420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 May 2025 09:00 UTC
-; Version: 2025.0526.0900.11
+; Last modified: 26 May 2025 22:27 UTC
+; Version: 2025.0526.2227.44
 ; Syntax: RPZ
-; Number of entries: 11738
+; Number of entries: 11742
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -3058,6 +3058,8 @@ teknut.com CNAME .
 *.teknut.com CNAME .
 tellurl.com CNAME .
 *.tellurl.com CNAME .
+www.temporary-url.com CNAME .
+*.www.temporary-url.com CNAME .
 terijoss.com CNAME .
 *.terijoss.com CNAME .
 tfushort.com CNAME .
@@ -5350,6 +5352,8 @@ gh.io CNAME .
 *.gh.io CNAME .
 git.io CNAME .
 *.git.io CNAME .
+glnk.io CNAME .
+*.glnk.io CNAME .
 grem.io CNAME .
 *.grem.io CNAME .
 hex.io CNAME .
@@ -6448,8 +6452,6 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
-robloxgroup.life CNAME .
-*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -7190,8 +7192,6 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
-onlyfanscaycoleman.live CNAME .
-*.onlyfanscaycoleman.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .
@@ -7340,8 +7340,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-vim-tiktok.live CNAME .
-*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7776,6 +7774,8 @@ direct.me CNAME .
 *.direct.me CNAME .
 dkly.me CNAME .
 *.dkly.me CNAME .
+dlink.me CNAME .
+*.dlink.me CNAME .
 drinks.me CNAME .
 *.drinks.me CNAME .
 dsre.me CNAME .
@@ -7960,6 +7960,8 @@ prolinks.me CNAME .
 *.prolinks.me CNAME .
 ptxt.me CNAME .
 *.ptxt.me CNAME .
+pxlme.me CNAME .
+*.pxlme.me CNAME .
 qrcc.me CNAME .
 *.qrcc.me CNAME .
 qrisni.me CNAME .
@@ -8118,6 +8120,8 @@ xdu.me CNAME .
 *.xdu.me CNAME .
 xib.me CNAME .
 *.xib.me CNAME .
+xpixl.me CNAME .
+*.xpixl.me CNAME .
 xt3.me CNAME .
 *.xt3.me CNAME .
 xtre.me CNAME .
