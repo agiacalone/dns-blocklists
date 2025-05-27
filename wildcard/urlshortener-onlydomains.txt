@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 May 2025 22:27 UTC
-# Version: 2025.0526.2227.44
+# Last modified: 27 May 2025 10:39 UTC
+# Version: 2025.0527.1039.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 5871
+# Number of entries: 5881
 #
 0.gp
 00oo.lol
@@ -1836,6 +1836,7 @@ go.gcash.com
 gclnk.com
 gdanstum.net
 s.gdngs.de
+gdtikx.com
 gdurl.com
 ge.tt
 geetlink.com
@@ -3458,6 +3459,7 @@ onion.com
 onlineclothes.live
 onlinekassirjessica.life
 onlyfansamairanidiaz.live
+onlyfanscaycoleman.live
 onon.in
 onx.la
 oo0oo.icu
@@ -3840,6 +3842,8 @@ qzr1.com
 qzr2.com
 qzxva.com
 r-7.co
+r-txt.com
+r-txt.org
 r2c.one
 r2slotamp.xyz
 rabde.sbs
@@ -3871,6 +3875,7 @@ rcknr.io
 rckstr.bz
 rcl.ink
 rcld.io
+rcsurvey.live
 rd.gt
 rdar.li
 rdbl.co
@@ -3984,6 +3989,7 @@ rnly.info
 rnm.me
 rntyu.com
 robertdray2.live
+robloxgroup.life
 robloxtech.live
 rog.gg
 roge.rs
@@ -4097,6 +4103,7 @@ sc.link
 sc.mp
 sc.org
 sc1o.com
+scbet88vvip.org
 scbetgacorr.org
 sched.co
 schoolstorehms.live
@@ -4564,6 +4571,7 @@ su.pr
 sub-slave-28.info
 sub2unlock.net
 sujanaarch.life
+sukatobrut.xyz
 sulejalan.online
 sumal.ly
 sumpahdokteruph52.live
@@ -4817,6 +4825,7 @@ tipeos.com
 tisfri.se
 titaniumlinks.com
 titleagentmarketing.com
+titok.website
 tiurl.link
 tixxh.com
 tj.wtf
@@ -5287,6 +5296,7 @@ vid.lu
 videopro.live
 vig.fit
 vigilink.com
+vim-tiktok.live
 vincenaja46.live
 vineland.dj
 vip-gacha99.info

@@ -1,6 +1,23 @@
 # Domains to be removed from the nsfw list.
+*.archive.org
+*.codeberg.org
+*.discord.com
+*.discord.gg
+*.disroot.org
+*.fmhy.net
+*.github.com
+*.github.io
+*.gitlab.com
+*.google.com
+*.greasyfork.org
+*.imagelabs.net
 *.netflix.net
 *.nflxvideo.net
+*.pastebin.com
+*.redd.it
+*.reddit.com
+*.rentry.co
+*.t.me
 catflix.su
 channel5.com
 do7go.com

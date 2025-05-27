@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 May 2025 02:47 UTC
-# Version: 2025.0527.0247.10
+# Last modified: 27 May 2025 15:18 UTC
+# Version: 2025.0527.1518.27
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1436
+# Number of entries: 1431
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -34,20 +34,16 @@ local=/3jjxxl.tech/
 local=/dns.3wv.de/
 local=/dns.4-the.win/
 local=/doh.42l.fr/
-local=/dns.444723.xyz/
 local=/ns2.4netguides.org/
 local=/alidns.51top.info/
 local=/dns.52306.org/
 local=/family.5ososea.com/
 local=/kids.5ososea.com/
 local=/dns.688447.xyz/
-local=/doh.774445.xyz/
-local=/dns.775467.xyz/
 local=/dns.7vpn.com/
 local=/dns.853852.xyz/
 local=/dns.886886886.xyz/
 local=/dns.888654.xyz/
-local=/dns.8887744.xyz/
 local=/8888.google/
 local=/dns.9999.sg/
 local=/dns.a47.me/
@@ -137,7 +133,6 @@ local=/dns.baishiyuan.cn/
 local=/fr-dns1.bancuh.com/
 local=/jp-dns1.bancuh.com/
 local=/sg-dns1.bancuh.com/
-local=/doh.battle.christmas/
 local=/bazooki-infra.dev/
 local=/dns.beardic.cn/
 local=/antivirus.bebasid.com/

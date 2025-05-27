@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 May 2025 02:48 UTC
-# Version: 2025.0527.0248.35
+# Last modified: 27 May 2025 15:19 UTC
+# Version: 2025.0527.1519.55
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4340
+# Number of entries: 4338
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -109,7 +109,6 @@ local=/dns.4-the.win/
 local=/notfound-google.404.mn/
 local=/doh.42l.fr/
 local=/bannana.web-doge.42web.io/
-local=/dns.444723.xyz/
 local=/46sdzf3zdg1dxg2.us/
 local=/4everproxy.com/
 local=/ns2.4netguides.org/
@@ -127,8 +126,6 @@ local=/dns.688447.xyz/
 local=/i-ready.69.mu/
 local=/71745718.online/
 local=/7713.info/
-local=/doh.774445.xyz/
-local=/dns.775467.xyz/
 local=/777schoolutilities.website/
 local=/777surfer.info/
 local=/dns.7vpn.com/
@@ -136,7 +133,6 @@ local=/dns.853852.xyz/
 local=/87826100.xyz/
 local=/dns.886886886.xyz/
 local=/dns.888654.xyz/
-local=/dns.8887744.xyz/
 local=/8888.google/
 local=/8proxy.com/
 local=/8v9m.com/
@@ -361,6 +357,7 @@ local=/doh1.b-cdn.net/
 local=/doh2.b-cdn.net/
 local=/freevpnme.b-cdn.net/
 local=/hola-client-cdn4.b-cdn.net/
+local=/b-dns.se/
 local=/dns.b33.space/
 local=/i.am.selling.b33r.us/
 local=/dns.b612.me/
@@ -374,10 +371,10 @@ local=/fr-dns1.bancuh.com/
 local=/jp-dns1.bancuh.com/
 local=/sg-dns1.bancuh.com/
 local=/base99.com/
-local=/doh.battle.christmas/
 local=/plant-selection.baumgardner.us/
 local=/bazooki-infra.dev/
 local=/bdns.io/
+local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
@@ -3429,6 +3426,7 @@ local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu2-browse.startpage.com/
 local=/error.proxy.startpage.com/
+local=/proxy2.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
 local=/us-browse.startpage.com/

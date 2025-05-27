@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 26 May 2025 22:27 UTC
-# Version: 2025.0526.2227.44
+# Last modified: 27 May 2025 10:39 UTC
+# Version: 2025.0527.1039.05
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5871
+# Number of entries: 5881
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1836,6 +1836,7 @@ local=/go.gcash.com/
 local=/gclnk.com/
 local=/gdanstum.net/
 local=/s.gdngs.de/
+local=/gdtikx.com/
 local=/gdurl.com/
 local=/ge.tt/
 local=/geetlink.com/
@@ -3458,6 +3459,7 @@ local=/onion.com/
 local=/onlineclothes.live/
 local=/onlinekassirjessica.life/
 local=/onlyfansamairanidiaz.live/
+local=/onlyfanscaycoleman.live/
 local=/onon.in/
 local=/onx.la/
 local=/oo0oo.icu/
@@ -3840,6 +3842,8 @@ local=/qzr1.com/
 local=/qzr2.com/
 local=/qzxva.com/
 local=/r-7.co/
+local=/r-txt.com/
+local=/r-txt.org/
 local=/r2c.one/
 local=/r2slotamp.xyz/
 local=/rabde.sbs/
@@ -3871,6 +3875,7 @@ local=/rcknr.io/
 local=/rckstr.bz/
 local=/rcl.ink/
 local=/rcld.io/
+local=/rcsurvey.live/
 local=/rd.gt/
 local=/rdar.li/
 local=/rdbl.co/
@@ -3984,6 +3989,7 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
+local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4097,6 +4103,7 @@ local=/sc.link/
 local=/sc.mp/
 local=/sc.org/
 local=/sc1o.com/
+local=/scbet88vvip.org/
 local=/scbetgacorr.org/
 local=/sched.co/
 local=/schoolstorehms.live/
@@ -4564,6 +4571,7 @@ local=/su.pr/
 local=/sub-slave-28.info/
 local=/sub2unlock.net/
 local=/sujanaarch.life/
+local=/sukatobrut.xyz/
 local=/sulejalan.online/
 local=/sumal.ly/
 local=/sumpahdokteruph52.live/
@@ -4817,6 +4825,7 @@ local=/tipeos.com/
 local=/tisfri.se/
 local=/titaniumlinks.com/
 local=/titleagentmarketing.com/
+local=/titok.website/
 local=/tiurl.link/
 local=/tixxh.com/
 local=/tj.wtf/
@@ -5287,6 +5296,7 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
+local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/

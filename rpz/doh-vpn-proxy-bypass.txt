@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748314080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748359140 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 May 2025 02:48 UTC
-; Version: 2025.0527.0248.35
+; Last modified: 27 May 2025 15:19 UTC
+; Version: 2025.0527.1519.55
 ; Syntax: RPZ
-; Number of entries: 8680
+; Number of entries: 8676
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -450,8 +450,6 @@ hudzonlzzzzzhj.zavoj.ch CNAME .
 *.hudzonlzzzzzhj.zavoj.ch CNAME .
 tststststststststststststststststststststs.zavoj.ch CNAME .
 *.tststststststststststststststststststststs.zavoj.ch CNAME .
-doh.battle.christmas CNAME .
-*.doh.battle.christmas CNAME .
 familyfirst.church CNAME .
 *.familyfirst.church CNAME .
 adguard.ruby.ci CNAME .
@@ -2898,6 +2896,8 @@ eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
 error.proxy.startpage.com CNAME .
 *.error.proxy.startpage.com CNAME .
+proxy2.startpage.com CNAME .
+*.proxy2.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
@@ -6482,6 +6482,8 @@ auditing.lepetitprince.com.np CNAME .
 *.auditing.lepetitprince.com.np CNAME .
 use.purplefolder.com.np CNAME .
 *.use.purplefolder.com.np CNAME .
+bdns.nu CNAME .
+*.bdns.nu CNAME .
 onion.nu CNAME .
 *.onion.nu CNAME .
 unblocked.nu CNAME .
@@ -7674,6 +7676,8 @@ myatris.sbs CNAME .
 *.myatris.sbs CNAME .
 oxywebproxy.sbs CNAME .
 *.oxywebproxy.sbs CNAME .
+b-dns.se CNAME .
+*.b-dns.se CNAME .
 dns.haka.se CNAME .
 *.dns.haka.se CNAME .
 ipredator.se CNAME .
@@ -8430,14 +8434,8 @@ dns.354688.xyz CNAME .
 *.dns.354688.xyz CNAME .
 3dcosas.xyz CNAME .
 *.3dcosas.xyz CNAME .
-dns.444723.xyz CNAME .
-*.dns.444723.xyz CNAME .
 dns.688447.xyz CNAME .
 *.dns.688447.xyz CNAME .
-doh.774445.xyz CNAME .
-*.doh.774445.xyz CNAME .
-dns.775467.xyz CNAME .
-*.dns.775467.xyz CNAME .
 dns.853852.xyz CNAME .
 *.dns.853852.xyz CNAME .
 87826100.xyz CNAME .
@@ -8446,8 +8444,6 @@ dns.886886886.xyz CNAME .
 *.dns.886886886.xyz CNAME .
 dns.888654.xyz CNAME .
 *.dns.888654.xyz CNAME .
-dns.8887744.xyz CNAME .
-*.dns.8887744.xyz CNAME .
 aaronzweb.xyz CNAME .
 *.aaronzweb.xyz CNAME .
 doh.abraservice.xyz CNAME .

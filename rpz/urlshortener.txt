@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748298420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748342340 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 26 May 2025 22:27 UTC
-; Version: 2025.0526.2227.44
+; Last modified: 27 May 2025 10:39 UTC
+; Version: 2025.0527.1039.05
 ; Syntax: RPZ
-; Number of entries: 11742
+; Number of entries: 11762
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2106,6 +2106,8 @@ go.gcash.com CNAME .
 *.go.gcash.com CNAME .
 gclnk.com CNAME .
 *.gclnk.com CNAME .
+gdtikx.com CNAME .
+*.gdtikx.com CNAME .
 gdurl.com CNAME .
 *.gdurl.com CNAME .
 geetlink.com CNAME .
@@ -2750,6 +2752,8 @@ qzr2.com CNAME .
 *.qzr2.com CNAME .
 qzxva.com CNAME .
 *.qzxva.com CNAME .
+r-txt.com CNAME .
+*.r-txt.com CNAME .
 raceclip.com CNAME .
 *.raceclip.com CNAME .
 rainonit.com CNAME .
@@ -6452,6 +6456,8 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
+robloxgroup.life CNAME .
+*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -7192,6 +7198,8 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
+onlyfanscaycoleman.live CNAME .
+*.onlyfanscaycoleman.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .
@@ -7238,6 +7246,8 @@ rankgenius.live CNAME .
 *.rankgenius.live CNAME .
 rbhouse.live CNAME .
 *.rbhouse.live CNAME .
+rcsurvey.live CNAME .
+*.rcsurvey.live CNAME .
 recruiment.live CNAME .
 *.recruiment.live CNAME .
 redem.live CNAME .
@@ -7340,6 +7350,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -8932,12 +8944,16 @@ qrcd.org CNAME .
 *.qrcd.org CNAME .
 qxxxp.org CNAME .
 *.qxxxp.org CNAME .
+r-txt.org CNAME .
+*.r-txt.org CNAME .
 rdcrss.org CNAME .
 *.rdcrss.org CNAME .
 redditlink.org CNAME .
 *.redditlink.org CNAME .
 sc.org CNAME .
 *.sc.org CNAME .
+scbet88vvip.org CNAME .
+*.scbet88vvip.org CNAME .
 scbetgacorr.org CNAME .
 *.scbetgacorr.org CNAME .
 sdnl.org CNAME .
@@ -11468,6 +11484,8 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
+titok.website CNAME .
+*.titok.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .
@@ -11734,6 +11752,8 @@ srturl.xyz CNAME .
 *.srturl.xyz CNAME .
 stke.xyz CNAME .
 *.stke.xyz CNAME .
+sukatobrut.xyz CNAME .
+*.sukatobrut.xyz CNAME .
 short.swurl.xyz CNAME .
 *.short.swurl.xyz CNAME .
 tinyy.xyz CNAME .
