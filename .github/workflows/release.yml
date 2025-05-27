@@ -93,7 +93,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           labels: scheduled-next-release
-          issue_number: ${{ fromJson(steps.find_issues.outputs.result)[0] }}
+          number: ${{ fromJson(steps.find_issues.outputs.result)[0] }}
 
       - name: add fixed-pending-release
         if: steps.find_issues.outputs.result != '[]'
@@ -101,7 +101,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           labels: fixed-pending-release
-          issue_number: ${{ fromJson(steps.find_issues.outputs.result)[0] }}
+          number: ${{ fromJson(steps.find_issues.outputs.result)[0] }}
     needs: [release, close-issues]
 
   stale:
