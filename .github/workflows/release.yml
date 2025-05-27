@@ -67,15 +67,52 @@ jobs:
           message: "This issue has been fixed in release [${releaseTag}](${releaseUrl})"
     needs: release
 
+  relabel-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: search for scheduled-next-release
+        uses: actions/github-script@v7
+        id: find_issues
+        with:
+          script: |
+            const issues = await github.paginate(
+              github.rest.issues.listForRepo,
+              {
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                state: 'open',
+                labels: 'scheduled-next-release',
+                per_page: 100,
+              }
+            );
+            return issues.map(issue => issue.number);
+
+      - name: remove scheduled-next-release
+        if: steps.find_issues.outputs.result != '[]'
+        uses: actions-ecosystem/action-remove-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: scheduled-next-release
+          issue_number: ${{ fromJson(steps.find_issues.outputs.result)[0] }}
+
+      - name: add fixed-pending-release
+        if: steps.find_issues.outputs.result != '[]'
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: fixed-pending-release
+          issue_number: ${{ fromJson(steps.find_issues.outputs.result)[0] }}
+    needs: [release, close-issues]
+
   stale:
     runs-on: ubuntu-latest
     steps:
     - uses: DeMoorJasper/stale@v2.0.1
       with:
         repo-token: ${{ github.token }}
-        stale-message: 'This issue has been inactive for 7 days. Please add a comment to keep it open. Otherwise, it will be closed in 7 days.'
-        days-before-stale: 7
-        days-before-close: 7
+        stale-message: 'This issue has been inactive for 5 days. Please add a comment to keep it open. Otherwise, it will be closed in 2 days.'
+        days-before-stale: 5
+        days-before-close: 2
         stale-label: 'no-issue-activity'
     needs: release
         
