@@ -38,6 +38,7 @@
 *.vip.com
 *.whitestuff.com
 agilantsolutions.com
+alphabet.com
 americanthinker.com
 anichin.top
 arsenal.com

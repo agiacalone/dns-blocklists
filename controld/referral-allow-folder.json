@@ -29,35 +29,175 @@
       }
     },
     {
-      "PK": "aax*.amazon.cn",
+      "PK": "aax-eu.amazon.ae",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "aax*.amazon.com",
+      "PK": "aax-eu.amazon.com",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "aax-eu.amazon.*",
+      "PK": "aax-eu.amazon.com.be",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "aax-fe.amazon.*",
+      "PK": "aax-eu.amazon.com.tr",
       "action": {
         "do": 1,
         "status": 1
       }
     },
     {
-      "PK": "aax-*-retail-direct.amazon-adsystem.com",
+      "PK": "aax-eu.amazon.co.uk",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.co.za",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.de",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.eg",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.es",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.fr",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.in",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.it",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.nl",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.pl",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.sa",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu.amazon.se",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-eu-retail-direct.amazon-adsystem.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-fe.amazon.co.jp",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-fe.amazon.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-fe.amazon.com.au",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-fe.amazon.sg",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-fe-retail-direct.amazon-adsystem.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-us-east-retail-direct.amazon-adsystem.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-us-east-retail-direct.amazon.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "aax-us-iad.amazon.com",
       "action": {
         "do": 1,
         "status": 1
@@ -477,7 +617,14 @@
       }
     },
     {
-      "PK": "assoc-redirect.amazon.*",
+      "PK": "assoc-redirect.amazon.com",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "assoc-redirect.amazon.co.uk",
       "action": {
         "do": 1,
         "status": 1

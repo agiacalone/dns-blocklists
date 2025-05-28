@@ -69,6 +69,7 @@ https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/greensnow.ipset
 https://lists.cyberhost.uk/malware.txt
 https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-dnscrypt-blocked-ips.txt
+https://nirbytes.com/post/1000-proxies-for-school-chromebook-2025/
 https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt
 https://osint.digitalside.it/Threat-Intel/lists/latestdomains.txt 
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&mimetype=plaintext&useip=0.0.0.0
@@ -284,6 +285,7 @@ https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/hilltopads-do
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/istripper-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/kitty-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/macupload-domains.txt
+https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/malware-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/popads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/propellerads-domains.txt
 https://raw.githubusercontent.com/LanikSJ/ubo-filters/main/filters/toradvertising-domains.txt
