@@ -4,11 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:08 UTC
-# Version: 2025.0524.0008.09
+# Last modified: 27 May 2025 19:09 UTC
+# Version: 2025.0527.1909.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 613
+# Number of entries: 625
 #
+0.0.0.0 227.amazon-adsystem.com
 0.0.0.0 3px.axp.amazon-adsystem.com
 0.0.0.0 aan.amazon.co.jp
 0.0.0.0 aan.amazon.com
@@ -48,8 +49,12 @@
 0.0.0.0 aax-eu-rtb.amazon-adsystem.com
 0.0.0.0 aax-eu-test1.amazon-adsystem.com
 0.0.0.0 aax-events-cell01.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell01-cf.ap-southeast.aps.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.ap-southeast.3px.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.ap-southeast.3px.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.ap-southeast.aps.axp.amazon-adsystem.com
+0.0.0.0 aax-events-cell02-cf.eu-south.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-events-cell02.eu-south.ono.axp.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-fe-rtb.amazon-adsystem.com
@@ -129,6 +134,7 @@
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
 0.0.0.0 alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com
 0.0.0.0 alt1-3ps.amazon-adsystem.com
+0.0.0.0 analytics.aps.amazon-adsystem.com
 0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.gamma-toolbox.aps.amazon-adsystem.com
 0.0.0.0 api.us-east-1.aiv-delivery.net
@@ -170,6 +176,7 @@
 0.0.0.0 assoc-msdk-eu.amazon-adsystem.com
 0.0.0.0 assoc-msdk-us.amazon-adsystem.com
 0.0.0.0 at-beta.amazon-adsystem.com
+0.0.0.0 ateu.amazon-adsystem.com
 0.0.0.0 atfe.amazon-adsystem.com
 0.0.0.0 at-gamma-us-east.amazon-adsystem.com
 0.0.0.0 atue.amazon-adsystem.com
@@ -207,6 +214,7 @@
 0.0.0.0 cell5001.iad.stv.event-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 cell5002.pdx.stv.bid-na.ads-gamma.aps.amazon-adsystem.com
 0.0.0.0 cell5002.pdx.stv.event-na.ads-gamma.aps.amazon-adsystem.com
+0.0.0.0 cell7001.iad.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.spp.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 cell7001.iad.stv.bid-na.ads.aps.amazon-adsystem.com
@@ -230,6 +238,7 @@
 0.0.0.0 c.gamma-toolbox.aps.amazon-adsystem.com
 0.0.0.0 client.aps.amazon-adsystem.com
 0.0.0.0 client.rum.us-east-1.amazonaws.com
+0.0.0.0 com.amazon-adsystem.com
 0.0.0.0 config.aps.amazon-adsystem.com
 0.0.0.0 c.toolbox.aps.amazon-adsystem.com
 0.0.0.0 d3p8zr0ffa9t17.cloudfront.net
@@ -386,6 +395,7 @@
 0.0.0.0 monitoring.il-central-1.amazonaws.com
 0.0.0.0 monitoring.me-central-1.amazonaws.com
 0.0.0.0 monitoring.me-south-1.amazonaws.com
+0.0.0.0 monitoring.prod.cloudwatch.amazonaws.com
 0.0.0.0 monitoring.sa-east-1.amazonaws.com
 0.0.0.0 monitoring.us-east-1.amazonaws.com
 0.0.0.0 monitoring.us-east-2.amazonaws.com
@@ -420,6 +430,7 @@
 0.0.0.0 pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pg.event-na.ads.aps.amazon-adsystem.com
 0.0.0.0 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 ppp.amazon-adsystem.com
 0.0.0.0 pri1-3ps.amazon-adsystem.com
 0.0.0.0 pri1-id-eu.amazon-adsystem.com
 0.0.0.0 pri1-id-fe.amazon-adsystem.com
@@ -457,6 +468,7 @@
 0.0.0.0 rum.us-west-2.amazonaws.com
 0.0.0.0 s2.paa-reporting-advertising.amazon
 0.0.0.0 s2s-iad.pg.bid-na.ads.aps.amazon-adsystem.com
+0.0.0.0 s2s-pdx.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.pg.bid-na.ads.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.bid-na.ads-beta.aps.amazon-adsystem.com
 0.0.0.0 s2s.spp.event-na.ads-beta.aps.amazon-adsystem.com

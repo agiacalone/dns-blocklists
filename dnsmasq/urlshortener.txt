@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 May 2025 10:39 UTC
-# Version: 2025.0527.1039.05
+# Last modified: 27 May 2025 22:32 UTC
+# Version: 2025.0527.2232.14
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5881
+# Number of entries: 5885
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1515,6 +1515,7 @@ local=/editricity.xyz/
 local=/edl.io/
 local=/edliratahiri05.life/
 local=/edm.to/
+local=/edmno1.info/
 local=/edne.tw/
 local=/edu.nl/
 local=/eeatu.com/
@@ -3459,7 +3460,6 @@ local=/onion.com/
 local=/onlineclothes.live/
 local=/onlinekassirjessica.life/
 local=/onlyfansamairanidiaz.live/
-local=/onlyfanscaycoleman.live/
 local=/onon.in/
 local=/onx.la/
 local=/oo0oo.icu/
@@ -3852,6 +3852,8 @@ local=/radly.ir/
 local=/raic.hu/
 local=/rainonit.com/
 local=/rajamahjong.site/
+local=/rajaolympus.pro/
+local=/rajasurga.link/
 local=/rakaug.com/
 local=/ramcourier.live/
 local=/qs.rams-app.com/
@@ -3989,7 +3991,6 @@ local=/rnly.info/
 local=/rnm.me/
 local=/rntyu.com/
 local=/robertdray2.live/
-local=/robloxgroup.life/
 local=/robloxtech.live/
 local=/rog.gg/
 local=/roge.rs/
@@ -4153,6 +4154,7 @@ local=/seo-expert.live/
 local=/seoexperts.life/
 local=/seogilak.lol/
 local=/seq.vc/
+local=/serius.win/
 local=/serveracts.net/
 local=/serverpa.rs/
 local=/servicecenter.life/
@@ -4353,6 +4355,8 @@ local=/shrtfly.com/
 local=/shrtm.nu/
 local=/shrturl.site/
 local=/shrturll.com/
+local=/shrtxb4d.live/
+local=/shrtxtus.wiki/
 local=/shrunken.com/
 local=/shrunkin.com/
 local=/shss-ares.live/
@@ -4448,6 +4452,7 @@ local=/smsng.news/
 local=/smsng.us/
 local=/smtvj.com/
 local=/smu.gs/
+local=/smurl.fr/
 local=/smurl.link/
 local=/sn.im/
 local=/snapchats.life/
@@ -5296,7 +5301,6 @@ local=/vid.lu/
 local=/videopro.live/
 local=/vig.fit/
 local=/vigilink.com/
-local=/vim-tiktok.live/
 local=/vincenaja46.live/
 local=/vineland.dj/
 local=/vip-gacha99.info/

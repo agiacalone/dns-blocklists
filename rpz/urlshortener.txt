@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748342340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748385120 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 27 May 2025 10:39 UTC
-; Version: 2025.0527.1039.05
+; Last modified: 27 May 2025 22:32 UTC
+; Version: 2025.0527.2232.14
 ; Syntax: RPZ
-; Number of entries: 11762
+; Number of entries: 11770
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -4184,6 +4184,8 @@ s-url.fr CNAME .
 *.s-url.fr CNAME .
 shurl.fr CNAME .
 *.shurl.fr CNAME .
+smurl.fr CNAME .
+*.smurl.fr CNAME .
 start.fr CNAME .
 *.start.fr CNAME .
 tnlnk.fr CNAME .
@@ -5012,6 +5014,8 @@ ebooktruyen.info CNAME .
 *.ebooktruyen.info CNAME .
 edda-noun-i-145.info CNAME .
 *.edda-noun-i-145.info CNAME .
+edmno1.info CNAME .
+*.edmno1.info CNAME .
 elizabethblog.info CNAME .
 *.elizabethblog.info CNAME .
 epuu.info CNAME .
@@ -6456,8 +6460,6 @@ rice-v-ave.life CNAME .
 *.rice-v-ave.life CNAME .
 rivera-quinones-luis-manuel-5.life CNAME .
 *.rivera-quinones-luis-manuel-5.life CNAME .
-robloxgroup.life CNAME .
-*.robloxgroup.life CNAME .
 ronald-adams-1.life CNAME .
 *.ronald-adams-1.life CNAME .
 samueledwardrotimi7inc.life CNAME .
@@ -6786,6 +6788,8 @@ q8at.link CNAME .
 *.q8at.link CNAME .
 quee.link CNAME .
 *.quee.link CNAME .
+rajasurga.link CNAME .
+*.rajasurga.link CNAME .
 replug.link CNAME .
 *.replug.link CNAME .
 retont.link CNAME .
@@ -7198,8 +7202,6 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
-onlyfanscaycoleman.live CNAME .
-*.onlyfanscaycoleman.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .
@@ -7292,6 +7294,8 @@ shopwoolworths.live CNAME .
 *.shopwoolworths.live CNAME .
 shortlinkid.live CNAME .
 *.shortlinkid.live CNAME .
+shrtxb4d.live CNAME .
+*.shrtxb4d.live CNAME .
 shss-ares.live CNAME .
 *.shss-ares.live CNAME .
 silasasanti0543.live CNAME .
@@ -7350,8 +7354,6 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
-vim-tiktok.live CNAME .
-*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -9188,6 +9190,8 @@ nathanaeldan.pro CNAME .
 *.nathanaeldan.pro CNAME .
 qlink.pro CNAME .
 *.qlink.pro CNAME .
+rajaolympus.pro CNAME .
+*.rajaolympus.pro CNAME .
 shortify.pro CNAME .
 *.shortify.pro CNAME .
 sipetir.pro CNAME .
@@ -11498,6 +11502,8 @@ cvfmiij.wiki CNAME .
 *.cvfmiij.wiki CNAME .
 davidbombal.wiki CNAME .
 *.davidbombal.wiki CNAME .
+shrtxtus.wiki CNAME .
+*.shrtxtus.wiki CNAME .
 w.wiki CNAME .
 *.w.wiki CNAME .
 0987.win CNAME .
@@ -11526,6 +11532,8 @@ okeegas.win CNAME .
 *.okeegas.win CNAME .
 putar.win CNAME .
 *.putar.win CNAME .
+serius.win CNAME .
+*.serius.win CNAME .
 shorturl.win CNAME .
 *.shorturl.win CNAME .
 ss777.win CNAME .

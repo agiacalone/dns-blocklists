@@ -4,11 +4,12 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:08 UTC
-# Version: 2025.0524.0008.09
+# Last modified: 27 May 2025 19:09 UTC
+# Version: 2025.0527.1909.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 348
+# Number of entries: 353
 #
+local=/227.amazon-adsystem.com/
 local=/aan.amazon.co.jp/
 local=/aan.amazon.com/
 local=/aan.amazon.co.uk/
@@ -118,6 +119,7 @@ local=/assoc-msdk-cn.amazon-adsystem.com/
 local=/assoc-msdk-eu.amazon-adsystem.com/
 local=/assoc-msdk-us.amazon-adsystem.com/
 local=/at-beta.amazon-adsystem.com/
+local=/ateu.amazon-adsystem.com/
 local=/atfe.amazon-adsystem.com/
 local=/at-gamma-us-east.amazon-adsystem.com/
 local=/atue.amazon-adsystem.com/
@@ -135,6 +137,7 @@ local=/c.amazon-adsystem.com/
 local=/cdn-a.amazon-adsystem.com/
 local=/cdn-d.amazon-adsystem.com/
 local=/cdn-t.amazon-adsystem.com/
+local=/com.amazon-adsystem.com/
 local=/d3p8zr0ffa9t17.cloudfront.net/
 local=/da-cdn.amazon-adsystem.com/
 local=/device-metrics-us-2.amazon.com/
@@ -232,6 +235,7 @@ local=/monitoring.eu-west-3.amazonaws.com/
 local=/monitoring.il-central-1.amazonaws.com/
 local=/monitoring.me-central-1.amazonaws.com/
 local=/monitoring.me-south-1.amazonaws.com/
+local=/monitoring.prod.cloudwatch.amazonaws.com/
 local=/monitoring.sa-east-1.amazonaws.com/
 local=/monitoring.us-east-1.amazonaws.com/
 local=/monitoring.us-east-2.amazonaws.com/
@@ -255,6 +259,7 @@ local=/mshopbugsnag.irm.amazon.dev/
 local=/new-telemetry.insights.video.a2z.com/
 local=/origin-sq-tungsten-ts.amazon-adsystem.com/
 local=/paa-reporting-advertising.amazon/
+local=/ppp.amazon-adsystem.com/
 local=/pri1-3ps.amazon-adsystem.com/
 local=/pri1-id-eu.amazon-adsystem.com/
 local=/pri1-id-fe.amazon-adsystem.com/

@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 May 2025 15:18 UTC
-# Version: 2025.0527.1518.27
+# Last modified: 28 May 2025 02:44 UTC
+# Version: 2025.0528.0244.57
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 177
 #
@@ -77,11 +77,11 @@
 0.0.0.0 dns.dooks.uk dot.pub dns.dotnet.win dns.dremaxx.de droyd.top doh.dscloud.me agh.dshubham.xyz home27.duckdns.org jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org osefcorp.duckdns.org punono.duckdns.org tuandns.duckdns.org tungdnsne.duckdns.org dukun.de dns.dyn1.de ueni.dyndns.org dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net adguard.easez.net easyhandshake.com dns.eddi.net doh.eddi.net dns.edgeburnmedia.com edgy-dns.com dns.editechstudio.com dns.tuna.tsinghua.edu.cn
-0.0.0.0 adguard.ef67daisuki.club dns.efficientdocuments.com hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr adguard.ender.fr home.enjoymylife.net dns.enzonix.com
-0.0.0.0 bl.eq.md shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org armorrush.eu.org dns.fullaccesstointernet.jp.eu.org
-0.0.0.0 dns.mayx.eu.org arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun jp1.f7b6h9.tk dns.f97.xyz pdns.faelix.net
-0.0.0.0 rdns.faelix.net dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click dns.farshidhakimy.de ns0.fdn.fr ns1.fdn.fr
-0.0.0.0 dns.fehlsprache.de fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net dot.ffmuc.net dns.ffnw.de fidelius.top dns.filipccz.eu
+0.0.0.0 adguard.ef67daisuki.club hole.elbschloss.xyz dns.elemental.software eliatofani.ovh dns.eliv.kr adguard.ender.fr home.enjoymylife.net dns.enzonix.com bl.eq.md
+0.0.0.0 shield1.eranext.net doh.ersei.net dns.esnube.es eth.link opennic1.eth-services.de arashi.eu.org armorrush.eu.org dns.fullaccesstointernet.jp.eu.org dns.mayx.eu.org
+0.0.0.0 arashi.net.eu.org sukidayo.eu.org dns.extrawdw.net fra1.eyecay.xyz dns.f4a.fun jp1.f7b6h9.tk dns.f97.xyz pdns.faelix.net rdns.faelix.net
+0.0.0.0 dns.faked.org dns.falkenthal.org dnsvps.familiamv.net dns.fancyorg.at farewellkou.click dns.farshidhakimy.de ns0.fdn.fr ns1.fdn.fr dns.fehlsprache.de
+0.0.0.0 fezgate.ovh ag.ff0x.ca 2.dnscrypt-cert.ffmuc.net doh.ffmuc.net dot.ffmuc.net dns.ffnw.de fidelius.top dns.filipccz.eu dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is dns.flightspace.net dns01.flm9.net ns1.flodns.net ns2.flodns.net resolv.flokinet.net dns.floriantinney.de agh.fltn.us dns.flwagners.com
 0.0.0.0 dns.flymc.cc biying.flymlc.com gateway.fomichev.cloud dns.freopc.fr dns.freyja.pw dns.froth.zone doh.funil.de doh.funtopia.tv dns.furrydns.de
 0.0.0.0 doh.futa.app doh.futa.gg cluster-0.gac.edu cluster-1.gac.edu dns.gamban.com adguard.gambini.org dns.beta.gandi.net adg.geili.me geshido.vpn.geshido.ru
