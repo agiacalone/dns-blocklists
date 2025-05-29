@@ -253,6 +253,13 @@
       }
     },
     {
+      "PK": "*.cc",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.center",
       "action": {
         "do": 0,
@@ -1122,6 +1129,13 @@
     },
     {
       "PK": "*.ong",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.online",
       "action": {
         "do": 0,
         "status": 1

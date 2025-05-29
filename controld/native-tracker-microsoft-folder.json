@@ -1093,6 +1093,13 @@
       }
     },
     {
+      "PK": "dual-s-ring.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "eaus2watcab01.blob.core.windows.net",
       "action": {
         "do": 0,
@@ -2403,6 +2410,13 @@
     },
     {
       "PK": "s-ring-fallback.msedge.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "s-ring.msedge.net",
       "action": {
         "do": 0,
         "status": 1

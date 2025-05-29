@@ -862,6 +862,13 @@
       }
     },
     {
+      "PK": "fanbox.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "fap.bar",
       "action": {
         "do": 1,
@@ -1290,6 +1297,13 @@
     },
     {
       "PK": "iimwf.biz",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "imxyz.top",
       "action": {
         "do": 1,
         "status": 1
@@ -2283,6 +2297,13 @@
       }
     },
     {
+      "PK": "postimg.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "precure.ml",
       "action": {
         "do": 1,
@@ -2403,6 +2424,13 @@
     },
     {
       "PK": "rafael.phd",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rapidcdn.cc",
       "action": {
         "do": 1,
         "status": 1
@@ -2626,6 +2654,13 @@
       }
     },
     {
+      "PK": "shottr.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "shrinkme.ink",
       "action": {
         "do": 1,
@@ -2683,6 +2718,13 @@
     },
     {
       "PK": "skin.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "skystone.games",
       "action": {
         "do": 1,
         "status": 1
@@ -3144,6 +3186,13 @@
       }
     },
     {
+      "PK": "vern.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "via.life",
       "action": {
         "do": 1,
@@ -3180,6 +3229,13 @@
     },
     {
       "PK": "vsdb.top",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wallhaven.cc",
       "action": {
         "do": 1,
         "status": 1
@@ -3411,6 +3467,13 @@
     },
     {
       "PK": "yts.monster",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zcyph.cc",
       "action": {
         "do": 1,
         "status": 1
