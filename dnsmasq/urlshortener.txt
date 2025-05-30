@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 28 May 2025 22:30 UTC
-# Version: 2025.0528.2230.20
+# Last modified: 29 May 2025 22:35 UTC
+# Version: 2025.0529.2235.33
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5890
+# Number of entries: 5888
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2271,7 +2271,6 @@ local=/infy.com/
 local=/inicio.link/
 local=/inlnk.ru/
 local=/inmusic.to/
-local=/insd.io/
 local=/insdr.life/
 local=/inshort.ly/
 local=/insig.ht/
@@ -4034,7 +4033,6 @@ local=/bio.rub3n.io/
 local=/rupilinks.com/
 local=/rusd.in/
 local=/rushgiving.com/
-local=/rushtix.co/
 local=/rusuhkali.xyz/
 local=/rvtv.io/
 local=/rvwd.co/

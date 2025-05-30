@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748485080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748572920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 May 2025 02:18 UTC
-; Version: 2025.0529.0218.21
+; Last modified: 30 May 2025 02:42 UTC
+; Version: 2025.0530.0242.35
 ; Syntax: RPZ
 ; Number of entries: 20252
 ;
@@ -7239,8 +7239,6 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
-videocop.com CNAME .
-*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -14463,6 +14461,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
