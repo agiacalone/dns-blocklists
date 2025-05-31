@@ -4,12 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 May 2025 19:09 UTC
-# Version: 2025.0527.1909.08
+# Last modified: 30 May 2025 23:18 UTC
+# Version: 2025.0530.2318.32
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 625
+# Number of entries: 622
 #
-227.amazon-adsystem.com
 3px.axp.amazon-adsystem.com
 aan.amazon.co.jp
 aan.amazon.com
@@ -238,7 +237,6 @@ cell8002.pdx.stv.event-na.ads.aps.amazon-adsystem.com
 c.gamma-toolbox.aps.amazon-adsystem.com
 client.aps.amazon-adsystem.com
 client.rum.us-east-1.amazonaws.com
-com.amazon-adsystem.com
 config.aps.amazon-adsystem.com
 c.toolbox.aps.amazon-adsystem.com
 d3p8zr0ffa9t17.cloudfront.net
@@ -430,7 +428,6 @@ paa-reporting-advertising.amazon
 pg.bid-na.ads.aps.amazon-adsystem.com
 pg.event-na.ads.aps.amazon-adsystem.com
 pins-test.spp.bid-na.ads.aps.amazon-adsystem.com
-ppp.amazon-adsystem.com
 pri1-3ps.amazon-adsystem.com
 pri1-id-eu.amazon-adsystem.com
 pri1-id-fe.amazon-adsystem.com

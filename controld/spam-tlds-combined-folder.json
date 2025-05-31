@@ -805,13 +805,6 @@
       }
     },
     {
-      "PK": "cloudcdn.monster",
-      "action": {
-        "do": 1,
-        "status": 1
-      }
-    },
-    {
       "PK": "cloudns.biz",
       "action": {
         "do": 1,
@@ -2164,6 +2157,13 @@
     },
     {
       "PK": "insomnia.rest",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "instructions.online",
       "action": {
         "do": 1,
         "status": 1

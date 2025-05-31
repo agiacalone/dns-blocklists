@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 29 May 2025 22:35 UTC
-# Version: 2025.0529.2235.33
+# Last modified: 30 May 2025 22:28 UTC
+# Version: 2025.0530.2228.26
 # Syntax: Domains (without subdomains)
-# Number of entries: 5888
+# Number of entries: 5893
 #
 0.gp
 00oo.lol
@@ -477,7 +477,6 @@ amz.run
 amzn.com
 amzn.id
 amzn.pw
-amzn.to
 an.to
 an-up-gop-u-ram.life
 ana.ms
@@ -1643,6 +1642,7 @@ f5url.com
 f5yo.com
 fa.by
 fa-st.co
+face-time-apple.live
 facebookid.live
 facebookvideos.live
 fadurl.com
@@ -2101,6 +2101,8 @@ hnpa.top
 hnsl.mn
 go.hny.co
 ho.io
+hoakhanh.life
+hoaminh.live
 hobbyajans.live
 hocmai.link
 hodroffs.com
@@ -2791,6 +2793,7 @@ linkye.net
 lintlink.com
 linux.mom
 lionl.ink
+liquid.loans
 lisar.lisaraeswan.com
 listaderoger.live
 lit-bin-ny-65.info
@@ -3461,6 +3464,7 @@ onion.com
 onlineclothes.live
 onlinekassirjessica.life
 onlyfansamairanidiaz.live
+onlyfanscaycoleman.live
 onon.in
 onx.la
 oo0oo.icu
@@ -3995,6 +3999,7 @@ rnm.me
 rntyu.com
 robertdray2.live
 robloxgroup.life
+robloxtech.live
 rog.gg
 roge.rs
 roids.top
@@ -4832,7 +4837,6 @@ tipeos.com
 tisfri.se
 titaniumlinks.com
 titleagentmarketing.com
-titok.website
 tiurl.link
 tixxh.com
 tj.wtf
@@ -5303,6 +5307,7 @@ vid.lu
 videopro.live
 vig.fit
 vigilink.com
+vim-tiktok.live
 vincenaja46.live
 vineland.dj
 vip-gacha99.info

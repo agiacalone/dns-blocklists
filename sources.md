@@ -189,7 +189,6 @@ https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/lg.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
-https://raw.githubusercontent.com/clsfo/reflect4-domains/refs/heads/main/reflect4-domains.txt
 https://raw.githubusercontent.com/craiu/mobiletrackers/master/list.txt
 https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt
 https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
@@ -223,7 +222,6 @@ https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easypriva
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_admiral.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers_international.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt
-https://raw.githubusercontent.com/easylist/easylist/refs/heads/master/easyprivacy/easyprivacy_trackingservers_admiral.txt
 https://raw.githubusercontent.com/easylist/listefr/master/liste_fr.txt
 https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt
 https://raw.githubusercontent.com/easylist-thailand/easylist-thailand/master/subscription/easylist-thailand.txt
@@ -245,6 +243,7 @@ https://raw.githubusercontent.com/fmhy/FMHYFilterlist/main/filterlist-basic-abp.
 https://raw.githubusercontent.com/gioxx/xfiles/master/filtri.txt
 https://raw.githubusercontent.com/Hakame-kun/uBlock-Filters-Indonesia/master/uBlock%20Indo/ubindo.txt
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
+https://raw.githubusercontent.com/hufilter/hufilter/master/sections/ads.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_domains.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/Alternative%20list%20formats/antimalware_ips.txt
 https://raw.githubusercontent.com/iam-py-test/my_filters_001/main/antidynamicdns.txt
@@ -376,8 +375,6 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/refs/heads/master/filters
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/ads/ads.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/combined/combined.txt
 https://raw.githubusercontent.com/ukrainianfilters/lists/main/privacy/privacy.txt
-https://raw.githubusercontent.com/ukrainianfilters/lists/refs/heads/main/ads/ads.txt
-https://raw.githubusercontent.com/ukrainianfilters/lists/refs/heads/main/privacy/privacy.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_lite.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
 https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
@@ -407,7 +404,6 @@ https://secure.fanboy.co.nz/fanboy-agegate.txt
 https://secure.fanboy.co.nz/fanboy-annoyance.txt
 https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
 https://secure.fanboy.co.nz/fanboy-social.txt
-https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
 https://stanev.org/abp/adblock_bg.txt
 https://threatfox.abuse.ch/downloads/hostfile
 https://threatview.io/Downloads/DOMAIN-High-Confidence-Feed.txt

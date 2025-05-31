@@ -8,13 +8,6 @@
   },
   "rules": [
     {
-      "PK": "227.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "aan.amazon.co.jp",
       "action": {
         "do": 0,
@@ -904,13 +897,6 @@
       }
     },
     {
-      "PK": "com.amazon-adsystem.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "d3p8zr0ffa9t17.cloudfront.net",
       "action": {
         "do": 0,
@@ -1752,13 +1738,6 @@
     },
     {
       "PK": "paa-reporting-advertising.amazon",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ppp.amazon-adsystem.com",
       "action": {
         "do": 0,
         "status": 1

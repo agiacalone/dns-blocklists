@@ -1,6 +1,8 @@
 # Domains to be added to the badware hoster list.
+000free.us
 000webhost.com
 000webhostapp.com
+000webhotapp.com
 111mb.de
 22web.org
 24.eu
@@ -162,6 +164,7 @@ webwave.dev
 weebly.com
 weeblysite.com
 wixsite.com
+xsph.ru
 xtreemhost.com
 yola.com
 yolasite.com

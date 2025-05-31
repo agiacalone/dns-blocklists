@@ -5,8 +5,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2025 03:00 UTC
-# Version: 2025.0530.0300.20
+# Last modified: 30 May 2025 22:25 UTC
+# Version: 2025.0530.2225.34
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 1592
 #
@@ -658,6 +658,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -1600,5 +1601,4 @@
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 dns.zfsystem.tech
 0.0.0.0 doh.zknt.org
-0.0.0.0 zougloub.eu
 0.0.0.0 dns.zzuhacker.cn

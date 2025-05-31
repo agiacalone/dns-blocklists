@@ -4,12 +4,11 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 May 2025 19:09 UTC
-# Version: 2025.0527.1909.08
+# Last modified: 30 May 2025 23:18 UTC
+# Version: 2025.0530.2318.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 353
+# Number of entries: 350
 #
-local=/227.amazon-adsystem.com/
 local=/aan.amazon.co.jp/
 local=/aan.amazon.com/
 local=/aan.amazon.co.uk/
@@ -137,7 +136,6 @@ local=/c.amazon-adsystem.com/
 local=/cdn-a.amazon-adsystem.com/
 local=/cdn-d.amazon-adsystem.com/
 local=/cdn-t.amazon-adsystem.com/
-local=/com.amazon-adsystem.com/
 local=/d3p8zr0ffa9t17.cloudfront.net/
 local=/da-cdn.amazon-adsystem.com/
 local=/device-metrics-us-2.amazon.com/
@@ -259,7 +257,6 @@ local=/mshopbugsnag.irm.amazon.dev/
 local=/new-telemetry.insights.video.a2z.com/
 local=/origin-sq-tungsten-ts.amazon-adsystem.com/
 local=/paa-reporting-advertising.amazon/
-local=/ppp.amazon-adsystem.com/
 local=/pri1-3ps.amazon-adsystem.com/
 local=/pri1-id-eu.amazon-adsystem.com/
 local=/pri1-id-fe.amazon-adsystem.com/

@@ -624,6 +624,13 @@
       }
     },
     {
+      "PK": "locationv16-normal-useastred.tiktokv.eu",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "location-v6-i18n.tiktokv.com",
       "action": {
         "do": 0,
@@ -2214,6 +2221,13 @@
     },
     {
       "PK": "pc-mon-va.byteoversea.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "rtc-logger16-normal-useastred.tiktokv.eu",
       "action": {
         "do": 0,
         "status": 1

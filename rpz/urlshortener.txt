@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748558100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748644080 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 29 May 2025 22:35 UTC
-; Version: 2025.0529.2235.33
+; Last modified: 30 May 2025 22:28 UTC
+; Version: 2025.0530.2228.26
 ; Syntax: RPZ
-; Number of entries: 11776
+; Number of entries: 11786
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -6276,6 +6276,8 @@ hellosliponi.life CNAME .
 *.hellosliponi.life CNAME .
 hellowork.life CNAME .
 *.hellowork.life CNAME .
+hoakhanh.life CNAME .
+*.hoakhanh.life CNAME .
 ice-bath-studio.life CNAME .
 *.ice-bath-studio.life CNAME .
 insdr.life CNAME .
@@ -7036,6 +7038,8 @@ eventhivek.live CNAME .
 *.eventhivek.live CNAME .
 ezzs.live CNAME .
 *.ezzs.live CNAME .
+face-time-apple.live CNAME .
+*.face-time-apple.live CNAME .
 facebookid.live CNAME .
 *.facebookid.live CNAME .
 facebookvideos.live CNAME .
@@ -7078,6 +7082,8 @@ henesyphotos.live CNAME .
 *.henesyphotos.live CNAME .
 hfwrental.live CNAME .
 *.hfwrental.live CNAME .
+hoaminh.live CNAME .
+*.hoaminh.live CNAME .
 hobbyajans.live CNAME .
 *.hobbyajans.live CNAME .
 humanityforgaza.live CNAME .
@@ -7208,6 +7214,8 @@ onlineclothes.live CNAME .
 *.onlineclothes.live CNAME .
 onlyfansamairanidiaz.live CNAME .
 *.onlyfansamairanidiaz.live CNAME .
+onlyfanscaycoleman.live CNAME .
+*.onlyfanscaycoleman.live CNAME .
 oostra.live CNAME .
 *.oostra.live CNAME .
 oururl.live CNAME .
@@ -7272,6 +7280,8 @@ rjtgoyal92.live CNAME .
 *.rjtgoyal92.live CNAME .
 robertdray2.live CNAME .
 *.robertdray2.live CNAME .
+robloxtech.live CNAME .
+*.robloxtech.live CNAME .
 rouletteonline.live CNAME .
 *.rouletteonline.live CNAME .
 roush-jims.live CNAME .
@@ -7358,6 +7368,8 @@ vendoagora.live CNAME .
 *.vendoagora.live CNAME .
 videopro.live CNAME .
 *.videopro.live CNAME .
+vim-tiktok.live CNAME .
+*.vim-tiktok.live CNAME .
 vincenaja46.live CNAME .
 *.vincenaja46.live CNAME .
 vulganai.live CNAME .
@@ -7420,6 +7432,8 @@ to.lk CNAME .
 *.to.lk CNAME .
 va.lk CNAME .
 *.va.lk CNAME .
+liquid.loans CNAME .
+*.liquid.loans CNAME .
 00oo.lol CNAME .
 *.00oo.lol CNAME .
 5k.lol CNAME .
@@ -10422,8 +10436,6 @@ alnk.to CNAME .
 *.alnk.to CNAME .
 amba.to CNAME .
 *.amba.to CNAME .
-amzn.to CNAME .
-*.amzn.to CNAME .
 an.to CNAME .
 *.an.to CNAME .
 anon.to CNAME .
@@ -11494,8 +11506,6 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
-titok.website CNAME .
-*.titok.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .

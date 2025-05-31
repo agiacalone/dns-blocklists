@@ -29,4 +29,3 @@ udp64.de
 vpn64.de
 wan64.de
 work.gd
-xsph.ru
