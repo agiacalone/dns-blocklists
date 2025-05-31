@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748644080 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748687400 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 30 May 2025 22:28 UTC
-; Version: 2025.0530.2228.26
+; Last modified: 31 May 2025 10:30 UTC
+; Version: 2025.0531.1030.23
 ; Syntax: RPZ
-; Number of entries: 11786
+; Number of entries: 11800
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -310,6 +310,8 @@ livehotdisini.baby CNAME .
 *.livehotdisini.baby CNAME .
 berde.bar CNAME .
 *.berde.bar CNAME .
+hqxxx.bar CNAME .
+*.hqxxx.bar CNAME .
 vypij.bar CNAME .
 *.vypij.bar CNAME .
 233.be CNAME .
@@ -1110,6 +1112,8 @@ dtdg.co CNAME .
 *.dtdg.co CNAME .
 dub.co CNAME .
 *.dub.co CNAME .
+eaash.co CNAME .
+*.eaash.co CNAME .
 edgs.co CNAME .
 *.edgs.co CNAME .
 efie.co CNAME .
@@ -3044,6 +3048,8 @@ swiftation.com CNAME .
 *.swiftation.com CNAME .
 swifttopia.com CNAME .
 *.swifttopia.com CNAME .
+sydkings.com CNAME .
+*.sydkings.com CNAME .
 t-iny.com CNAME .
 *.t-iny.com CNAME .
 t2mio.com CNAME .
@@ -7094,6 +7100,8 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
+illuminatiracers.live CNAME .
+*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .
@@ -7452,6 +7460,8 @@ idfk.lol CNAME .
 *.idfk.lol CNAME .
 indahnyaberbagi.lol CNAME .
 *.indahnyaberbagi.lol CNAME .
+kingplate.lol CNAME .
+*.kingplate.lol CNAME .
 luto.lol CNAME .
 *.luto.lol CNAME .
 rotf.lol CNAME .
@@ -8376,6 +8386,8 @@ chkurl.net CNAME .
 *.chkurl.net CNAME .
 cjb.net CNAME .
 *.cjb.net CNAME .
+clicktracker.net CNAME .
+*.clicktracker.net CNAME .
 clikx.net CNAME .
 *.clikx.net CNAME .
 cloudradar.net CNAME .
@@ -8686,6 +8698,8 @@ rtube.nl CNAME .
 *.rtube.nl CNAME .
 sejr.nl CNAME .
 *.sejr.nl CNAME .
+shatu.nl CNAME .
+*.shatu.nl CNAME .
 smallurl.nl CNAME .
 *.smallurl.nl CNAME .
 tlil.nl CNAME .

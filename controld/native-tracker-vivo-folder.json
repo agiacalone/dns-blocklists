@@ -1471,6 +1471,13 @@
       }
     },
     {
+      "PK": "tr-gdpr-vgc-datacenter.vivoglobal.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "tr-onrt-stsdk.vivoglobal.com",
       "action": {
         "do": 0,

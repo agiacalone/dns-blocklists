@@ -251,6 +251,7 @@
 @@||slide.new^
 @@||poe.ninja^
 @@||protomedia.ninja^
+@@||dancewave.online^
 @@||eufh.online^
 @@||instructions.online^
 @@||toast.ooo^

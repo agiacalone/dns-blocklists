@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2025 22:28 UTC
-# Version: 2025.0530.2228.26
+# Last modified: 31 May 2025 10:30 UTC
+# Version: 2025.0531.1030.23
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 5893
+# Number of entries: 5900
 #
 *.0.gp
 *.00oo.lol
@@ -1063,6 +1063,7 @@
 *.clickmeter.com
 *.clicksfly.com
 *.clicktosee.live
+*.clicktracker.net
 *.clickurl.link
 *.clicky.me
 *.clikk.in
@@ -1487,6 +1488,7 @@
 *.e2share.in
 *.e37.eu
 *.e7.al
+*.eaash.co
 *.l.ead.me
 *.earn4link.in
 *.earnshorter.com
@@ -2127,6 +2129,7 @@
 *.hpxjl.com
 *.hqsee.sbs
 *.hqstreams7.info
+*.hqxxx.bar
 *.hrbl.me
 *.hrbrg.co
 *.hrdcx.top
@@ -2242,6 +2245,7 @@
 *.ilix.in
 *.ilk.ir
 *.illin.is
+*.illuminatiracers.live
 *.iln.io
 *.ilnk.io
 *.ilofi.sbs
@@ -2511,6 +2515,7 @@
 *.kilat.ink
 *.kilat.io
 *.kimmel.trade
+*.kingplate.lol
 *.kings.tn
 *.kingurl.xyz
 *.kinnto.me
@@ -4187,6 +4192,7 @@
 *.sharepointshorturl.com
 *.sharetabs.com
 *.shareus.io
+*.shatu.nl
 *.shelbyknox.com
 *.go.shell.com
 *.sheve.me
@@ -4629,6 +4635,7 @@
 *.sy.pe
 *.sy.to
 *.syb.la
+*.sydkings.com
 *.syl83otk.live
 *.synd.co
 *.syr.us

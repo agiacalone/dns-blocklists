@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2025 22:28 UTC
-# Version: 2025.0530.2228.26
+# Last modified: 31 May 2025 10:30 UTC
+# Version: 2025.0531.1030.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5893
+# Number of entries: 5900
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -1063,6 +1063,7 @@ local=/clickhub.cc/
 local=/clickmeter.com/
 local=/clicksfly.com/
 local=/clicktosee.live/
+local=/clicktracker.net/
 local=/clickurl.link/
 local=/clicky.me/
 local=/clikk.in/
@@ -1487,6 +1488,7 @@ local=/e.vg/
 local=/e2share.in/
 local=/e37.eu/
 local=/e7.al/
+local=/eaash.co/
 local=/l.ead.me/
 local=/earn4link.in/
 local=/earnshorter.com/
@@ -2127,6 +2129,7 @@ local=/hpe.to/
 local=/hpxjl.com/
 local=/hqsee.sbs/
 local=/hqstreams7.info/
+local=/hqxxx.bar/
 local=/hrbl.me/
 local=/hrbrg.co/
 local=/hrdcx.top/
@@ -2242,6 +2245,7 @@ local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/
+local=/illuminatiracers.live/
 local=/iln.io/
 local=/ilnk.io/
 local=/ilofi.sbs/
@@ -2511,6 +2515,7 @@ local=/kick.is/
 local=/kilat.ink/
 local=/kilat.io/
 local=/kimmel.trade/
+local=/kingplate.lol/
 local=/kings.tn/
 local=/kingurl.xyz/
 local=/kinnto.me/
@@ -4187,6 +4192,7 @@ local=/sharem.tech/
 local=/sharepointshorturl.com/
 local=/sharetabs.com/
 local=/shareus.io/
+local=/shatu.nl/
 local=/shelbyknox.com/
 local=/go.shell.com/
 local=/sheve.me/
@@ -4629,6 +4635,7 @@ local=/sxzlj.top/
 local=/sy.pe/
 local=/sy.to/
 local=/syb.la/
+local=/sydkings.com/
 local=/syl83otk.live/
 local=/synd.co/
 local=/syr.us/
