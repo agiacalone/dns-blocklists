@@ -253,13 +253,6 @@
       }
     },
     {
-      "PK": "asia-weather.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "az.appstore.vivo.com.cn",
       "action": {
         "do": 0,
@@ -296,13 +289,6 @@
     },
     {
       "PK": "cl-vcode-od.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "cl-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -443,13 +429,6 @@
     },
     {
       "PK": "co-vcode-or.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "co-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -611,13 +590,6 @@
     },
     {
       "PK": "eu-vcode-or.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "eu-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -869,13 +841,6 @@
       }
     },
     {
-      "PK": "in-weather.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "kz-cname-sin01-bigdata.vivoglobal.com",
       "action": {
         "do": 0,
@@ -995,13 +960,6 @@
       }
     },
     {
-      "PK": "kz-weather.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "monitor-stsdk.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1101,13 +1059,6 @@
     },
     {
       "PK": "mx-vcode-or.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "mx-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1
@@ -1317,13 +1268,6 @@
       }
     },
     {
-      "PK": "ru-weather.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "sca-cota.vivoglobal.com",
       "action": {
         "do": 0,
@@ -1416,13 +1360,6 @@
     },
     {
       "PK": "sca-vcode-or.vivoglobal.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "sca-weather.vivoglobal.com",
       "action": {
         "do": 0,
         "status": 1

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748702460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748747160 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 May 2025 14:41 UTC
-; Version: 2025.0531.1441.36
+; Last modified: 01 Jun 2025 03:06 UTC
+; Version: 2025.0601.0306.38
 ; Syntax: RPZ
 ; Number of entries: 20254
 ;
@@ -9031,6 +9031,8 @@ tracker.jordan.im CNAME .
 *.tracker.jordan.im CNAME .
 bt.orzx.im CNAME .
 *.bt.orzx.im CNAME .
+tracker.plx.im CNAME .
+*.tracker.plx.im CNAME .
 soap2day.im CNAME .
 *.soap2day.im CNAME .
 strikeout.im CNAME .
@@ -14463,8 +14465,6 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
-free4pc.org CNAME .
-*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .

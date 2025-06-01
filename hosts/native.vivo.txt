@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 13:25 UTC
-# Version: 2025.0531.1325.31
+# Last modified: 31 May 2025 22:02 UTC
+# Version: 2025.0531.2202.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 235
+# Number of entries: 226
 #
 0.0.0.0 vhs.wwstat.com.eo.unicomcdn.com.cn
 0.0.0.0 az.appstore.vivo.com.cn
@@ -48,13 +48,11 @@
 0.0.0.0 asia-vcode-or.vivoglobal.com
 0.0.0.0 asia-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 asia-vpushort-stsdk.vivoglobal.com
-0.0.0.0 asia-weather.vivoglobal.com
 0.0.0.0 cl-domaincfg.vivoglobal.com
 0.0.0.0 cl-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 cl-st-sl.vivoglobal.com
 0.0.0.0 cl-vcode-api.vivoglobal.com
 0.0.0.0 cl-vcode-od.vivoglobal.com
-0.0.0.0 cl-weather.vivoglobal.com
 0.0.0.0 cname-ali-asia-stsdk.vivoglobal.com
 0.0.0.0 cname-asia-st-exappupgrade.vivoglobal.com
 0.0.0.0 cname-asia-stsdk09.vivoglobal.com
@@ -75,7 +73,6 @@
 0.0.0.0 co-vcode-api.vivoglobal.com
 0.0.0.0 co-vcode-od.vivoglobal.com
 0.0.0.0 co-vcode-or.vivoglobal.com
-0.0.0.0 co-weather.vivoglobal.com
 0.0.0.0 de-err-up.vivoglobal.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
 0.0.0.0 de-gdpr-vcode-od.vivoglobal.com
@@ -98,7 +95,6 @@
 0.0.0.0 eu-vcode-api.vivoglobal.com
 0.0.0.0 eu-vcode-od.vivoglobal.com
 0.0.0.0 eu-vcode-or.vivoglobal.com
-0.0.0.0 eu-weather.vivoglobal.com
 0.0.0.0 ex-adreq-asia.vivoglobal.com
 0.0.0.0 ex-adreq-in.vivoglobal.com
 0.0.0.0 ex-romsp-unifyconfig.vivoglobal.com
@@ -133,7 +129,6 @@
 0.0.0.0 in-vcode-or.vivoglobal.com
 0.0.0.0 in-vpushonrt-stsdk.vivoglobal.com
 0.0.0.0 in-vpushort-stsdk.vivoglobal.com
-0.0.0.0 in-weather.vivoglobal.com
 0.0.0.0 kz-cname-sin01-bigdata.vivoglobal.com
 0.0.0.0 kz-err-up.vivoglobal.com
 0.0.0.0 kz-monitor-stsdk.vivoglobal.com
@@ -151,7 +146,6 @@
 0.0.0.0 kz-vcode-api.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com
-0.0.0.0 kz-weather.vivoglobal.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
 0.0.0.0 mx-cota.vivoglobal.com
 0.0.0.0 mx-domaincfg.vivoglobal.com
@@ -167,7 +161,6 @@
 0.0.0.0 mx-vcode-api.vivoglobal.com
 0.0.0.0 mx-vcode-od.vivoglobal.com
 0.0.0.0 mx-vcode-or.vivoglobal.com
-0.0.0.0 mx-weather.vivoglobal.com
 0.0.0.0 onrt-stsdk.vivoglobal.com
 0.0.0.0 ort-stsdk.vivoglobal.com
 0.0.0.0 pnrt-stsdk.vivoglobal.com
@@ -197,7 +190,6 @@
 0.0.0.0 ru-vcode-api.vivoglobal.com
 0.0.0.0 ru-vcode-od.vivoglobal.com
 0.0.0.0 ru-vcode-or.vivoglobal.com
-0.0.0.0 ru-weather.vivoglobal.com
 0.0.0.0 sca-cota.vivoglobal.com
 0.0.0.0 sca-domaincfg.vivoglobal.com
 0.0.0.0 sca-err-up.vivoglobal.com
@@ -212,7 +204,6 @@
 0.0.0.0 sca-vcode-api.vivoglobal.com
 0.0.0.0 sca-vcode-od.vivoglobal.com
 0.0.0.0 sca-vcode-or.vivoglobal.com
-0.0.0.0 sca-weather.vivoglobal.com
 0.0.0.0 sg-cfg-stsdk.vivoglobal.com
 0.0.0.0 stsdk.vivoglobal.com
 0.0.0.0 onrt.stsdk.vivoglobal.com

@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 10:20 UTC
-# Version: 2025.0531.1020.20
+# Last modified: 31 May 2025 22:21 UTC
+# Version: 2025.0531.2221.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14758
+# Number of entries: 14761
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -4328,7 +4328,6 @@ local=/exquisitmobel.com/
 local=/exquisitpflanze.com/
 local=/exteom.com/
 local=/exteriork.com/
-local=/extonglobal.com/
 local=/extraordiner.com/
 local=/extraordiny.com/
 local=/extrapassion.club/
@@ -4388,6 +4387,7 @@ local=/fahrradhelmrabatt.com/
 local=/fahrradkassettede.com/
 local=/fahrradkleinteile.com/
 local=/fahrradneuheiten.com/
+local=/fahrrado.com/
 local=/fahrradprodukt.com/
 local=/fahrradprojekt.com/
 local=/fahrradrabatt.com/
@@ -5682,6 +5682,7 @@ local=/gruntmuzicz.com/
 local=/grupopernambuco.com/
 local=/grxnhv.shop/
 local=/gryphoncapital.co/
+local=/gs-eu.com/
 local=/gsb24.shop/
 local=/gsialfresco.com/
 local=/gsmverstarker.at/
@@ -7624,6 +7625,7 @@ local=/lauradiva.shop/
 local=/lauramunchen.com/
 local=/lauregorriz.com/
 local=/laurencesabalza.com/
+local=/laurenwebers.com/
 local=/lautsprecherkko.de/
 local=/lavendersshop.com/
 local=/lavera-zurich.com/
@@ -8633,6 +8635,7 @@ local=/milanomode.de/
 local=/milanowood.de/
 local=/milanspielesale.shop/
 local=/milaravibes.de/
+local=/milea-wien.at/
 local=/milentech.com/
 local=/milgriom.com/
 local=/millaroem.com/
@@ -9963,6 +9966,7 @@ local=/owalasale.de/
 local=/owcup.com/
 local=/owner-surf.com/
 local=/ownerpets.com/
+local=/oxfordall.shop/
 local=/oxfordmarkets.com/
 local=/oxikredit.com/
 local=/oxtrades.com/
@@ -10417,14 +10421,12 @@ local=/preminantdo.com/
 local=/premison.de/
 local=/premium-feuer.com/
 local=/premium-heizoel.de/
-local=/premium-yields.com/
 local=/premiumfeuer.com/
 local=/premiumfeuer.shop/
 local=/premiumgkvxpxxsy.com/
 local=/premiuminvestclub.com/
 local=/premiumpricepills24hr.com/
 local=/premiumvip-spot.com/
-local=/premiumyields1.com/
 local=/prenrt.com/
 local=/prescribet.com/
 local=/presentlyk.com/
@@ -11927,6 +11929,7 @@ local=/smhffbb8o.com/
 local=/smilestyle.at/
 local=/smitdeals.de/
 local=/smk.dog/
+local=/smlkje.com/
 local=/smokerland.net/
 local=/smpecasparts.com/
 local=/smtgarden.com/

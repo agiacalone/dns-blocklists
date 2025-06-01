@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 10:28 UTC
-# Version: 2025.0531.1028.52
+# Last modified: 31 May 2025 21:45 UTC
+# Version: 2025.0531.2145.44
 # Syntax: Domains (without subdomains)
-# Number of entries: 2145
+# Number of entries: 2147
 #
 000a.de
 000free.us
@@ -724,9 +724,7 @@ coolfreepages.com
 coolpage.biz
 corolain.ru
 cowblog.fr
-128-199-7-137.cprapid.com
-208-115-225-138.cprapid.com
-3-89-181-9.cprapid.com
+cprapid.com
 creablog.com
 creacionblog.com
 creamclothinginc.shop
@@ -1085,6 +1083,7 @@ gilde.in
 gildenseite.de
 girlsense.com
 glifeblog.com
+glitch.me
 goabroadblog.com
 godaddysites.com
 godfrance.club
@@ -1119,7 +1118,6 @@ gtsepress.vip
 guest.de
 guide.lc
 guzhibo.cn
-gymshark-france.fr
 gymsharkitaliaofficial.it
 gynoblog.com
 h.gp
@@ -1263,6 +1261,8 @@ janhost.com
 jcmemoryscan.com
 jeun.fr
 jiliblog.com
+jimdofree.com
+jimdosite.com
 jixx.de
 jixx.net
 job.ec
@@ -1446,6 +1446,7 @@ myportfolio.com
 mypressonline.com
 myspacecdn.com
 mysteria.cz
+mystrikingly.com
 mywebcommunity.org
 n.gp
 nabble.com
@@ -2068,6 +2069,7 @@ will-dich.eu
 win-blog.com
 alerts.wisc.edu
 wixsite.com
+wixstudio.com
 wizzardsblog.com
 wopop.com
 wordpress.de

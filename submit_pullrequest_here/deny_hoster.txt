@@ -104,12 +104,14 @@ cfolks.pl
 cloudwaysapps.com
 conohawing.com
 corolain.ru
+cprapid.com
 csb.app
 cwcity.de
 dashosting.de
 dynadot.com
 freewebhostmost.com
 freshmember.com
+glitch.me
 godaddysites.com
 grwebsite.com
 gtempurl.com
@@ -126,6 +128,7 @@ infinityfree.net
 internetworx.org
 ispot.cc
 jimdofree.com
+jimdosite.com
 keepfree.de
 kilu.de
 lima-city.de
@@ -137,6 +140,7 @@ my.id
 mybluehost.me
 mybluehostin.me
 mycpanel.rs
+mystrikingly.com
 one.com
 onrender.com
 panel-1.de
@@ -152,6 +156,7 @@ safe-ws.de
 space4free.de
 square7.ch
 swtest.ru
+tilda.ws
 tw1.ru
 ubpages.com
 ukit.me
@@ -164,6 +169,7 @@ webwave.dev
 weebly.com
 weeblysite.com
 wixsite.com
+wixstudio.com
 xsph.ru
 xtreemhost.com
 yola.com

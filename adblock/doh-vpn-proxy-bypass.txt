@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 15:02 UTC
-! Version: 2025.0531.1502.40
+! Last modified: 01 Jun 2025 03:28 UTC
+! Version: 2025.0601.0328.06
 ! Syntax: AdBlock
-! Number of entries: 4843
+! Number of entries: 4845
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1493,6 +1493,7 @@
 ||fishproxy.com^
 ||fitnessdepotprices.com^
 ||fixproxy.com^
+||dns.fizz.studio^
 ||gothgirlsareawesome.flamex.hm^
 ||flarquix.xyz^
 ||flashpull.com^
@@ -2847,6 +2848,7 @@
 ||sleepykirby.ofmdirect.com^
 ||okado.online^
 ||okayfreedom.com^
+||dns.olpploiopkuyhiopsfrt.info^
 ||olympicproxy.net^
 ||omegaproxy.com^
 ||adguard.oms-ctr.ru^

@@ -4,7 +4,9 @@
 *.dynadot.com
 *.elementor.com
 *.eu.org
+*.google.com
 *.googleblog.com
+*.googleusercontent.com
 *.heliohost.org
 *.livejournal.com
 *.mozilla.org
@@ -12,6 +14,7 @@
 *.tistory.com
 *.tumblr.com
 *.windows.net
+*.wordpress.com
 *.wp.com
 *.wpengine.com
 *.wpenginepowered.com
@@ -25,7 +28,6 @@ bloggeek.jp
 blogism.jp
 blogo.jp
 blogs.es
-blogspot.l.googleusercontent.com
 blogstation.jp
 blogto.jp
 cafeblog.jp
@@ -72,7 +74,6 @@ typepad.com
 webflow.com
 weblog.to
 wix.com
-wordpress.com
 x10hosting.com
 xxxblog.jp
 youblog.jp

@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 14:41 UTC
-# Version: 2025.0531.1441.36
+# Last modified: 01 Jun 2025 03:06 UTC
+# Version: 2025.0601.0306.38
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10127
 #
@@ -3614,7 +3614,6 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
-local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
@@ -6736,6 +6735,7 @@ local=/plugintorrent.com/
 local=/plusbox.tv/
 local=/plusnetbd.com/
 local=/pluspremieres.com/
+local=/tracker.plx.im/
 local=/plygig.com/
 local=/tracker.pmman.tech/
 local=/pmtorrents.com/

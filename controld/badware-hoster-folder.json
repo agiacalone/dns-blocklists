@@ -386,13 +386,6 @@
       }
     },
     {
-      "PK": "128-199-7-137.cprapid.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "12n.de",
       "action": {
         "do": 0,
@@ -590,13 +583,6 @@
     },
     {
       "PK": "204.at",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "208-115-225-138.cprapid.com",
       "action": {
         "do": 0,
         "status": 1
@@ -807,13 +793,6 @@
     },
     {
       "PK": "36f.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "3-89-181-9.cprapid.com",
       "action": {
         "do": 0,
         "status": 1
@@ -4964,6 +4943,13 @@
       }
     },
     {
+      "PK": "cprapid.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "creablog.com",
       "action": {
         "do": 0,
@@ -7491,6 +7477,13 @@
       }
     },
     {
+      "PK": "glitch.me",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "goabroadblog.com",
       "action": {
         "do": 0,
@@ -7716,13 +7709,6 @@
     },
     {
       "PK": "guzhibo.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "gymshark-france.fr",
       "action": {
         "do": 0,
         "status": 1
@@ -8731,6 +8717,20 @@
     },
     {
       "PK": "jiliblog.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jimdofree.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "jimdosite.com",
       "action": {
         "do": 0,
         "status": 1
@@ -10019,6 +10019,13 @@
     },
     {
       "PK": "mysteria.cz",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mystrikingly.com",
       "action": {
         "do": 0,
         "status": 1
@@ -14429,6 +14436,13 @@
     },
     {
       "PK": "wixsite.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wixstudio.com",
       "action": {
         "do": 0,
         "status": 1

@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 10:20 UTC
-! Version: 2025.0531.1020.20
+! Last modified: 31 May 2025 22:21 UTC
+! Version: 2025.0531.2221.04
 ! Syntax: AdBlock
-! Number of entries: 14758
+! Number of entries: 14761
 !
 ||01crypto.com^
 ||1001clothing.eu^
@@ -4329,7 +4329,6 @@
 ||exquisitpflanze.com^
 ||exteom.com^
 ||exteriork.com^
-||extonglobal.com^
 ||extraordiner.com^
 ||extraordiny.com^
 ||extrapassion.club^
@@ -4389,6 +4388,7 @@
 ||fahrradkassettede.com^
 ||fahrradkleinteile.com^
 ||fahrradneuheiten.com^
+||fahrrado.com^
 ||fahrradprodukt.com^
 ||fahrradprojekt.com^
 ||fahrradrabatt.com^
@@ -5683,6 +5683,7 @@
 ||grupopernambuco.com^
 ||grxnhv.shop^
 ||gryphoncapital.co^
+||gs-eu.com^
 ||gsb24.shop^
 ||gsialfresco.com^
 ||gsmverstarker.at^
@@ -7625,6 +7626,7 @@
 ||lauramunchen.com^
 ||lauregorriz.com^
 ||laurencesabalza.com^
+||laurenwebers.com^
 ||lautsprecherkko.de^
 ||lavendersshop.com^
 ||lavera-zurich.com^
@@ -8634,6 +8636,7 @@
 ||milanowood.de^
 ||milanspielesale.shop^
 ||milaravibes.de^
+||milea-wien.at^
 ||milentech.com^
 ||milgriom.com^
 ||millaroem.com^
@@ -9964,6 +9967,7 @@
 ||owcup.com^
 ||owner-surf.com^
 ||ownerpets.com^
+||oxfordall.shop^
 ||oxfordmarkets.com^
 ||oxikredit.com^
 ||oxtrades.com^
@@ -10418,14 +10422,12 @@
 ||premison.de^
 ||premium-feuer.com^
 ||premium-heizoel.de^
-||premium-yields.com^
 ||premiumfeuer.com^
 ||premiumfeuer.shop^
 ||premiumgkvxpxxsy.com^
 ||premiuminvestclub.com^
 ||premiumpricepills24hr.com^
 ||premiumvip-spot.com^
-||premiumyields1.com^
 ||prenrt.com^
 ||prescribet.com^
 ||presentlyk.com^
@@ -11928,6 +11930,7 @@
 ||smilestyle.at^
 ||smitdeals.de^
 ||smk.dog^
+||smlkje.com^
 ||smokerland.net^
 ||smpecasparts.com^
 ||smtgarden.com^

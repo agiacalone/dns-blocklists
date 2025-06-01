@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 10:28 UTC
-# Version: 2025.0531.1028.52
+# Last modified: 31 May 2025 21:45 UTC
+# Version: 2025.0531.2145.44
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2145
+# Number of entries: 2147
 #
 local=/000a.de/
 local=/000free.us/
@@ -724,9 +724,7 @@ local=/coolfreepages.com/
 local=/coolpage.biz/
 local=/corolain.ru/
 local=/cowblog.fr/
-local=/128-199-7-137.cprapid.com/
-local=/208-115-225-138.cprapid.com/
-local=/3-89-181-9.cprapid.com/
+local=/cprapid.com/
 local=/creablog.com/
 local=/creacionblog.com/
 local=/creamclothinginc.shop/
@@ -1085,6 +1083,7 @@ local=/gilde.in/
 local=/gildenseite.de/
 local=/girlsense.com/
 local=/glifeblog.com/
+local=/glitch.me/
 local=/goabroadblog.com/
 local=/godaddysites.com/
 local=/godfrance.club/
@@ -1119,7 +1118,6 @@ local=/gtsepress.vip/
 local=/guest.de/
 local=/guide.lc/
 local=/guzhibo.cn/
-local=/gymshark-france.fr/
 local=/gymsharkitaliaofficial.it/
 local=/gynoblog.com/
 local=/h.gp/
@@ -1263,6 +1261,8 @@ local=/janhost.com/
 local=/jcmemoryscan.com/
 local=/jeun.fr/
 local=/jiliblog.com/
+local=/jimdofree.com/
+local=/jimdosite.com/
 local=/jixx.de/
 local=/jixx.net/
 local=/job.ec/
@@ -1446,6 +1446,7 @@ local=/myportfolio.com/
 local=/mypressonline.com/
 local=/myspacecdn.com/
 local=/mysteria.cz/
+local=/mystrikingly.com/
 local=/mywebcommunity.org/
 local=/n.gp/
 local=/nabble.com/
@@ -2068,6 +2069,7 @@ local=/will-dich.eu/
 local=/win-blog.com/
 local=/alerts.wisc.edu/
 local=/wixsite.com/
+local=/wixstudio.com/
 local=/wizzardsblog.com/
 local=/wopop.com/
 local=/wordpress.de/

@@ -1324,6 +1324,13 @@
       }
     },
     {
+      "PK": "infosec.exchange",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "infosec.pub",
       "action": {
         "do": 1,

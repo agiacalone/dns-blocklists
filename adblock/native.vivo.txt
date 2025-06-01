@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 13:25 UTC
-! Version: 2025.0531.1325.31
+! Last modified: 31 May 2025 22:02 UTC
+! Version: 2025.0531.2202.04
 ! Syntax: AdBlock
-! Number of entries: 231
+! Number of entries: 222
 !
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
 ||az.appstore.vivo.com.cn^
@@ -49,13 +49,11 @@
 ||asia-vcode-or.vivoglobal.com^
 ||asia-vpushonrt-stsdk.vivoglobal.com^
 ||asia-vpushort-stsdk.vivoglobal.com^
-||asia-weather.vivoglobal.com^
 ||cl-domaincfg.vivoglobal.com^
 ||cl-romsp-unifyconfig.vivoglobal.com^
 ||cl-st-sl.vivoglobal.com^
 ||cl-vcode-api.vivoglobal.com^
 ||cl-vcode-od.vivoglobal.com^
-||cl-weather.vivoglobal.com^
 ||cname-ali-asia-stsdk.vivoglobal.com^
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-asia-stsdk09.vivoglobal.com^
@@ -76,7 +74,6 @@
 ||co-vcode-api.vivoglobal.com^
 ||co-vcode-od.vivoglobal.com^
 ||co-vcode-or.vivoglobal.com^
-||co-weather.vivoglobal.com^
 ||de-err-up.vivoglobal.com^
 ||de-gdpr-err-up.vivoglobal.com^
 ||de-gdpr-vcode-od.vivoglobal.com^
@@ -99,7 +96,6 @@
 ||eu-vcode-api.vivoglobal.com^
 ||eu-vcode-od.vivoglobal.com^
 ||eu-vcode-or.vivoglobal.com^
-||eu-weather.vivoglobal.com^
 ||ex-adreq-asia.vivoglobal.com^
 ||ex-adreq-in.vivoglobal.com^
 ||ex-romsp-unifyconfig.vivoglobal.com^
@@ -134,7 +130,6 @@
 ||in-vcode-or.vivoglobal.com^
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
-||in-weather.vivoglobal.com^
 ||kz-cname-sin01-bigdata.vivoglobal.com^
 ||kz-err-up.vivoglobal.com^
 ||kz-monitor-stsdk.vivoglobal.com^
@@ -152,7 +147,6 @@
 ||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
-||kz-weather.vivoglobal.com^
 ||monitor-stsdk.vivoglobal.com^
 ||mx-cota.vivoglobal.com^
 ||mx-domaincfg.vivoglobal.com^
@@ -168,7 +162,6 @@
 ||mx-vcode-api.vivoglobal.com^
 ||mx-vcode-od.vivoglobal.com^
 ||mx-vcode-or.vivoglobal.com^
-||mx-weather.vivoglobal.com^
 ||onrt-stsdk.vivoglobal.com^
 ||ort-stsdk.vivoglobal.com^
 ||pnrt-stsdk.vivoglobal.com^
@@ -198,7 +191,6 @@
 ||ru-vcode-api.vivoglobal.com^
 ||ru-vcode-od.vivoglobal.com^
 ||ru-vcode-or.vivoglobal.com^
-||ru-weather.vivoglobal.com^
 ||sca-cota.vivoglobal.com^
 ||sca-domaincfg.vivoglobal.com^
 ||sca-err-up.vivoglobal.com^
@@ -213,7 +205,6 @@
 ||sca-vcode-api.vivoglobal.com^
 ||sca-vcode-od.vivoglobal.com^
 ||sca-vcode-or.vivoglobal.com^
-||sca-weather.vivoglobal.com^
 ||sg-cfg-stsdk.vivoglobal.com^
 ||stsdk.vivoglobal.com^
 ||tr-album-api.vivoglobal.com^

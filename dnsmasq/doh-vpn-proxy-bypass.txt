@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 15:02 UTC
-# Version: 2025.0531.1502.40
+# Last modified: 01 Jun 2025 03:28 UTC
+# Version: 2025.0601.0328.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4843
+# Number of entries: 4845
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1492,6 +1492,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2846,6 +2847,7 @@ local=/dns.ofdoom.net/
 local=/sleepykirby.ofmdirect.com/
 local=/okado.online/
 local=/okayfreedom.com/
+local=/dns.olpploiopkuyhiopsfrt.info/
 local=/olympicproxy.net/
 local=/omegaproxy.com/
 local=/adguard.oms-ctr.ru/

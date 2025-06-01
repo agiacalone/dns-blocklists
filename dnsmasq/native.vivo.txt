@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 13:25 UTC
-# Version: 2025.0531.1325.31
+# Last modified: 31 May 2025 22:02 UTC
+# Version: 2025.0531.2202.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 231
+# Number of entries: 222
 #
 local=/vhs.wwstat.com.eo.unicomcdn.com.cn/
 local=/az.appstore.vivo.com.cn/
@@ -48,13 +48,11 @@ local=/asia-vcode-od.vivoglobal.com/
 local=/asia-vcode-or.vivoglobal.com/
 local=/asia-vpushonrt-stsdk.vivoglobal.com/
 local=/asia-vpushort-stsdk.vivoglobal.com/
-local=/asia-weather.vivoglobal.com/
 local=/cl-domaincfg.vivoglobal.com/
 local=/cl-romsp-unifyconfig.vivoglobal.com/
 local=/cl-st-sl.vivoglobal.com/
 local=/cl-vcode-api.vivoglobal.com/
 local=/cl-vcode-od.vivoglobal.com/
-local=/cl-weather.vivoglobal.com/
 local=/cname-ali-asia-stsdk.vivoglobal.com/
 local=/cname-asia-st-exappupgrade.vivoglobal.com/
 local=/cname-asia-stsdk09.vivoglobal.com/
@@ -75,7 +73,6 @@ local=/co-timesync.vivoglobal.com/
 local=/co-vcode-api.vivoglobal.com/
 local=/co-vcode-od.vivoglobal.com/
 local=/co-vcode-or.vivoglobal.com/
-local=/co-weather.vivoglobal.com/
 local=/de-err-up.vivoglobal.com/
 local=/de-gdpr-err-up.vivoglobal.com/
 local=/de-gdpr-vcode-od.vivoglobal.com/
@@ -98,7 +95,6 @@ local=/eu-timesync.vivoglobal.com/
 local=/eu-vcode-api.vivoglobal.com/
 local=/eu-vcode-od.vivoglobal.com/
 local=/eu-vcode-or.vivoglobal.com/
-local=/eu-weather.vivoglobal.com/
 local=/ex-adreq-asia.vivoglobal.com/
 local=/ex-adreq-in.vivoglobal.com/
 local=/ex-romsp-unifyconfig.vivoglobal.com/
@@ -133,7 +129,6 @@ local=/in-vcode-od.vivoglobal.com/
 local=/in-vcode-or.vivoglobal.com/
 local=/in-vpushonrt-stsdk.vivoglobal.com/
 local=/in-vpushort-stsdk.vivoglobal.com/
-local=/in-weather.vivoglobal.com/
 local=/kz-cname-sin01-bigdata.vivoglobal.com/
 local=/kz-err-up.vivoglobal.com/
 local=/kz-monitor-stsdk.vivoglobal.com/
@@ -151,7 +146,6 @@ local=/kz-timesync.vivoglobal.com/
 local=/kz-vcode-api.vivoglobal.com/
 local=/kz-vcode-od.vivoglobal.com/
 local=/kz-vcode-or.vivoglobal.com/
-local=/kz-weather.vivoglobal.com/
 local=/monitor-stsdk.vivoglobal.com/
 local=/mx-cota.vivoglobal.com/
 local=/mx-domaincfg.vivoglobal.com/
@@ -167,7 +161,6 @@ local=/mx-timesync.vivoglobal.com/
 local=/mx-vcode-api.vivoglobal.com/
 local=/mx-vcode-od.vivoglobal.com/
 local=/mx-vcode-or.vivoglobal.com/
-local=/mx-weather.vivoglobal.com/
 local=/onrt-stsdk.vivoglobal.com/
 local=/ort-stsdk.vivoglobal.com/
 local=/pnrt-stsdk.vivoglobal.com/
@@ -197,7 +190,6 @@ local=/ru-timesync.vivoglobal.com/
 local=/ru-vcode-api.vivoglobal.com/
 local=/ru-vcode-od.vivoglobal.com/
 local=/ru-vcode-or.vivoglobal.com/
-local=/ru-weather.vivoglobal.com/
 local=/sca-cota.vivoglobal.com/
 local=/sca-domaincfg.vivoglobal.com/
 local=/sca-err-up.vivoglobal.com/
@@ -212,7 +204,6 @@ local=/sca-timesync.vivoglobal.com/
 local=/sca-vcode-api.vivoglobal.com/
 local=/sca-vcode-od.vivoglobal.com/
 local=/sca-vcode-or.vivoglobal.com/
-local=/sca-weather.vivoglobal.com/
 local=/sg-cfg-stsdk.vivoglobal.com/
 local=/stsdk.vivoglobal.com/
 local=/tr-album-api.vivoglobal.com/
