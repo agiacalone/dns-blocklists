@@ -145,6 +145,7 @@ one.com
 onrender.com
 panel-1.de
 pktriot.net
+plesk.page
 portmap.host
 pp.ua
 preview-domain.com
@@ -174,4 +175,7 @@ xsph.ru
 xtreemhost.com
 yola.com
 yolasite.com
+zohosites.com
+zwphosting.com
 zymic.com
+zyrosite.com

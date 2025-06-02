@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 02:47 UTC
-# Version: 2025.0602.0247.04
+# Last modified: 02 Jun 2025 14:34 UTC
+# Version: 2025.0602.1434.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10125
+# Number of entries: 10115
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -504,7 +504,6 @@ local=/allostreaming.com/
 local=/allpcworld.com/
 local=/allprivatebabes.com/
 local=/allseek.info/
-local=/allseries.co/
 local=/allsports4free.live/
 local=/allsportsflix.xyz/
 local=/stream.allsprk.tv/
@@ -635,7 +634,6 @@ local=/altadefinizione01.global/
 local=/altadefinizione01.homes/
 local=/altadefinizione01.icu/
 local=/altadefinizione01.im/
-local=/altadefinizione01.in/
 local=/altadefinizione01.it/
 local=/altadefinizione01.life/
 local=/altadefinizione01.love/
@@ -683,7 +681,6 @@ local=/androidoyun.club/
 local=/androidp1.com/
 local=/androidrookies.com/
 local=/andropalace.org/
-local=/andyday.tv/
 local=/anicloud.domains/
 local=/anicloud.io/
 local=/anidb.info/
@@ -698,7 +695,6 @@ local=/animationdigitalnetwork.fr/
 local=/anime.com/
 local=/anime-conan.net/
 local=/anime-faith.com/
-local=/anime-kraze.org/
 local=/anime-legion.net/
 local=/anime-loads.org/
 local=/anime-planet.com/
@@ -734,7 +730,6 @@ local=/animehd47.com/
 local=/animeheaven.ru/
 local=/animeholics.org/
 local=/animehub.ac/
-local=/animeid.cc/
 local=/animeid.tv/
 local=/animekai.bz/
 local=/animekai.to/
@@ -776,7 +771,6 @@ local=/animesimple.com/
 local=/animesonline.cc/
 local=/animestars.org/
 local=/animestotais.xyz/
-local=/animestream.in/
 local=/animesuge.io/
 local=/animesugetv.to/
 local=/animesuki.com/
@@ -882,7 +876,6 @@ local=/apkmoddone.com/
 local=/apkmodea.com/
 local=/apkmodget.com/
 local=/apkmodgo.com/
-local=/apkmods.io/
 local=/apkmody.com/
 local=/apkmody.mobi/
 local=/apkmody.vip/
@@ -1031,10 +1024,7 @@ local=/audiobooksbee.com/
 local=/audiobookss.com/
 local=/audionews.org/
 local=/audionews.ru/
-local=/audiop2p.com/
 local=/audiostuff.ro/
-local=/audiotracer.com/
-local=/audiozonetorrents.com/
 local=/aurastresser.com/
 local=/aurora-raws.com/
 local=/aussietorrents.com/

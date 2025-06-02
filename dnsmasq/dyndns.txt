@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2025 22:22 UTC
-# Version: 2025.0530.2222.31
+# Last modified: 02 Jun 2025 14:52 UTC
+# Version: 2025.0602.1452.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1485
+# Number of entries: 1484
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -155,7 +155,6 @@ local=/brawlcustommusic.com/
 local=/briansagar.com/
 local=/broke-it.net/
 local=/brweb.org/
-local=/bsn2bsn.com/
 local=/bumbleshrimp.com/
 local=/burlingtondrywall.com/
 local=/buys.ru/

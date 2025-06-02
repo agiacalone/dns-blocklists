@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jun 2025 22:30 UTC
-# Version: 2025.0601.2230.49
+# Last modified: 02 Jun 2025 10:26 UTC
+# Version: 2025.0602.1026.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5906
+# Number of entries: 5903
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -493,7 +493,6 @@ local=/anep.top/
 local=/angl.at/
 local=/anisepretzel.com/
 local=/anizam.ru/
-local=/anmeld.biz/
 local=/anon.to/
 local=/anp.su/
 local=/ansaj.top/
@@ -521,7 +520,6 @@ local=/appbitly.com/
 local=/apple.co/
 local=/apply-here.live/
 local=/appna.me/
-local=/appsfly.co/
 local=/go.appsscript.info/
 local=/appurl.io/
 local=/appusps.live/
@@ -557,7 +555,6 @@ local=/asharq.co/
 local=/asics.tv/
 local=/asin.cc/
 local=/asq.kr/
-local=/short.assleo.icu/
 local=/asso.in/
 local=/asus.click/
 local=/asusrog.de/
@@ -591,7 +588,6 @@ local=/avbc.me/
 local=/aveerro.com/
 local=/aven.ga/
 local=/avhop.net/
-local=/avjosa.com/
 local=/avl.mx/
 local=/avlne.ws/
 local=/avlr.co/
@@ -786,7 +782,6 @@ local=/blltly.com/
 local=/blnk.in/
 local=/bloat.me/
 local=/blogshare.cfd/
-local=/blomlink.com/
 local=/bloom.bg/
 local=/bloomingtonjuneteenth.org/
 local=/blouse.live/
@@ -1671,6 +1666,7 @@ local=/fdkmx.sbs/
 local=/fdmlm.com/
 local=/fdmlm.sbs/
 local=/fdzsf.com/
+local=/fedexx.live/
 local=/fee.vn/
 local=/female-and-male-in-tech.com/
 local=/fenomen.live/
@@ -2245,6 +2241,7 @@ local=/ilinky.info/
 local=/ilix.in/
 local=/ilk.ir/
 local=/illin.is/
+local=/illuminatiracers.live/
 local=/iln.io/
 local=/ilnk.io/
 local=/ilofi.sbs/

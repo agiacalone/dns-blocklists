@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748816940 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748859900 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jun 2025 22:29 UTC
-; Version: 2025.0601.2229.21
+; Last modified: 02 Jun 2025 10:25 UTC
+; Version: 2025.0602.1025.31
 ; Syntax: RPZ
-; Number of entries: 4296
+; Number of entries: 4294
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -3477,8 +3477,6 @@ bloges.org CNAME .
 *.bloges.org CNAME .
 blogg.org CNAME .
 *.blogg.org CNAME .
-blogspot.org CNAME .
-*.blogspot.org CNAME .
 booru.org CNAME .
 *.booru.org CNAME .
 builtfree.org CNAME .
@@ -3607,6 +3605,8 @@ yi.org CNAME .
 *.yi.org CNAME .
 yooco.org CNAME .
 *.yooco.org CNAME .
+plesk.page CNAME .
+*.plesk.page CNAME .
 webnode.page CNAME .
 *.webnode.page CNAME .
 blogspot.pe CNAME .
@@ -3805,8 +3805,6 @@ perl.sh CNAME .
 *.perl.sh CNAME .
 airself.shop CNAME .
 *.airself.shop CNAME .
-annualhuman.shop CNAME .
-*.annualhuman.shop CNAME .
 arabcause.shop CNAME .
 *.arabcause.shop CNAME .
 arizonafun.shop CNAME .

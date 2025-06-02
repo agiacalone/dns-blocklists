@@ -1660,13 +1660,6 @@
       }
     },
     {
-      "PK": "annualhuman.shop",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "anschauen.in",
       "action": {
         "do": 0,
@@ -3838,13 +3831,6 @@
     },
     {
       "PK": "blogspot.no",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "blogspot.org",
       "action": {
         "do": 0,
         "status": 1
@@ -11027,6 +11013,13 @@
     },
     {
       "PK": "pl.de",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "plesk.page",
       "action": {
         "do": 0,
         "status": 1

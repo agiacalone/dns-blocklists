@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748832420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748874840 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jun 2025 02:47 UTC
-; Version: 2025.0602.0247.04
+; Last modified: 02 Jun 2025 14:34 UTC
+; Version: 2025.0602.1434.56
 ; Syntax: RPZ
-; Number of entries: 20250
+; Number of entries: 20230
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -975,8 +975,6 @@ altadefinizione01.cc CNAME .
 *.altadefinizione01.cc CNAME .
 animeflv.cc CNAME .
 *.animeflv.cc CNAME .
-animeid.cc CNAME .
-*.animeid.cc CNAME .
 animeram.cc CNAME .
 *.animeram.cc CNAME .
 animesonline.cc CNAME .
@@ -1727,8 +1725,6 @@ torrents-nn.cn CNAME .
 *.33french-stream.co CNAME .
 allmoviesforyou.co CNAME .
 *.allmoviesforyou.co CNAME .
-allseries.co CNAME .
-*.allseries.co CNAME .
 alltorrents.co CNAME .
 *.alltorrents.co CNAME .
 altadefinizione.co CNAME .
@@ -2635,12 +2631,6 @@ audiobooksbee.com CNAME .
 *.audiobooksbee.com CNAME .
 audiobookss.com CNAME .
 *.audiobookss.com CNAME .
-audiop2p.com CNAME .
-*.audiop2p.com CNAME .
-audiotracer.com CNAME .
-*.audiotracer.com CNAME .
-audiozonetorrents.com CNAME .
-*.audiozonetorrents.com CNAME .
 aurastresser.com CNAME .
 *.aurastresser.com CNAME .
 aurora-raws.com CNAME .
@@ -9041,10 +9031,6 @@ altadefinizione.immo CNAME .
 *.altadefinizione.immo CNAME .
 cb01.immo CNAME .
 *.cb01.immo CNAME .
-altadefinizione01.in CNAME .
-*.altadefinizione01.in CNAME .
-animestream.in CNAME .
-*.animestream.in CNAME .
 beemp3.in CNAME .
 *.beemp3.in CNAME .
 binnews.in CNAME .
@@ -9549,8 +9535,6 @@ apkhome.io CNAME .
 *.apkhome.io CNAME .
 apkloo.io CNAME .
 *.apkloo.io CNAME .
-apkmods.io CNAME .
-*.apkmods.io CNAME .
 apktodo.io CNAME .
 *.apktodo.io CNAME .
 bandishare.io CNAME .
@@ -13953,8 +13937,6 @@ amcomputers.org CNAME .
 *.amcomputers.org CNAME .
 andropalace.org CNAME .
 *.andropalace.org CNAME .
-anime-kraze.org CNAME .
-*.anime-kraze.org CNAME .
 anime-loads.org CNAME .
 *.anime-loads.org CNAME .
 animeforever.org CNAME .
@@ -18423,8 +18405,6 @@ alphatron.tv CNAME .
 *.alphatron.tv CNAME .
 altadefinizione4k.tv CNAME .
 *.altadefinizione4k.tv CNAME .
-andyday.tv CNAME .
-*.andyday.tv CNAME .
 btx.anifilm.tv CNAME .
 *.btx.anifilm.tv CNAME .
 animebytes.tv CNAME .

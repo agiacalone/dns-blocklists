@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748833560 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748876100 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jun 2025 03:06 UTC
-; Version: 2025.0602.0306.58
+; Last modified: 02 Jun 2025 14:55 UTC
+; Version: 2025.0602.1455.15
 ; Syntax: RPZ
-; Number of entries: 9694
+; Number of entries: 9712
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -28,6 +28,8 @@ bebra.ai CNAME .
 *.bebra.ai CNAME .
 nodepay.ai CNAME .
 *.nodepay.ai CNAME .
+next.rinet.ai CNAME .
+*.next.rinet.ai CNAME .
 onion.am CNAME .
 *.onion.am CNAME .
 proxy.am CNAME .
@@ -2164,6 +2166,8 @@ indo-ssh.com CNAME .
 *.indo-ssh.com CNAME .
 dns.indybanipal.com CNAME .
 *.dns.indybanipal.com CNAME .
+the.infocommthailand.com CNAME .
+*.the.infocommthailand.com CNAME .
 dns.inforlogia.com CNAME .
 *.dns.inforlogia.com CNAME .
 infvpn.com CNAME .
@@ -4276,6 +4280,8 @@ fdns1.dismail.de CNAME .
 *.fdns1.dismail.de CNAME .
 fdns2.dismail.de CNAME .
 *.fdns2.dismail.de CNAME .
+secure-dns.dns-ga.de CNAME .
+*.secure-dns.dns-ga.de CNAME .
 aroeuyo.dns64.de CNAME .
 *.aroeuyo.dns64.de CNAME .
 dnsforge.de CNAME .
@@ -4682,6 +4688,8 @@ lelux.fi CNAME .
 *.lelux.fi CNAME .
 ns.nwps.fi CNAME .
 *.ns.nwps.fi CNAME .
+tails.ospa.fi CNAME .
+*.tails.ospa.fi CNAME .
 elishawisabaddie.rinet.fi CNAME .
 *.elishawisabaddie.rinet.fi CNAME .
 tor2web.fi CNAME .
@@ -5474,6 +5482,8 @@ zorrovpn.io CNAME .
 *.zorrovpn.io CNAME .
 atvsh.ir CNAME .
 *.atvsh.ir CNAME .
+ougonokaze.cheftayebeh.ir CNAME .
+*.ougonokaze.cheftayebeh.ir CNAME .
 energys.ir CNAME .
 *.energys.ir CNAME .
 ghadrboland.ir CNAME .
@@ -5868,6 +5878,8 @@ proxy4free.me CNAME .
 *.proxy4free.me CNAME .
 proxymaster.me CNAME .
 *.proxymaster.me CNAME .
+start.puto.me CNAME .
+*.start.puto.me CNAME .
 doh.pyry.me CNAME .
 *.doh.pyry.me CNAME .
 at.pzhg.me CNAME .
@@ -7276,6 +7288,8 @@ cloudbarfbagisback.saugatnepal.com.np CNAME .
 *.6922.yugadiluitel.com.np CNAME .
 bdns.nu CNAME .
 *.bdns.nu CNAME .
+monkeydoo.hardsoft.nu CNAME .
+*.monkeydoo.hardsoft.nu CNAME .
 onion.nu CNAME .
 *.onion.nu CNAME .
 unblocked.nu CNAME .
@@ -7316,8 +7330,6 @@ adguard-vpn.online CNAME .
 *.adguard-vpn.online CNAME .
 alphabr.online CNAME .
 *.alphabr.online CNAME .
-anachem.online CNAME .
-*.anachem.online CNAME .
 asheranztwitch.online CNAME .
 *.asheranztwitch.online CNAME .
 calculusproblems.online CNAME .
@@ -8428,12 +8440,16 @@ unblocked2.red CNAME .
 *.unblocked2.red CNAME .
 onion.rip CNAME .
 *.onion.rip CNAME .
+kazuma-fumo.24-7.ro CNAME .
+*.kazuma-fumo.24-7.ro CNAME .
 jp.absl.ro CNAME .
 *.jp.absl.ro CNAME .
 learnmaths.academiaderock.ro CNAME .
 *.learnmaths.academiaderock.ro CNAME .
 home.amq.ro CNAME .
 *.home.amq.ro CNAME .
+suken.cfmr.ro CNAME .
+*.suken.cfmr.ro CNAME .
 ramberhead.clocking.ro CNAME .
 *.ramberhead.clocking.ro CNAME .
 amir1.cuza16.ro CNAME .
@@ -8490,8 +8506,6 @@ free.30x.ru CNAME .
 *.free.30x.ru CNAME .
 ad.anym0re.ru CNAME .
 *.ad.anym0re.ru CNAME .
-shop.beautydiskount.ru CNAME .
-*.shop.beautydiskount.ru CNAME .
 bi-tree.ru CNAME .
 *.bi-tree.ru CNAME .
 ukvpns.blogspot.ru CNAME .
@@ -8870,6 +8884,8 @@ dogebyvcsa.hec.to CNAME .
 *.dogebyvcsa.hec.to CNAME .
 hooda.math.hec.to CNAME .
 *.hooda.math.hec.to CNAME .
+nodamirai.hec.to CNAME .
+*.nodamirai.hec.to CNAME .
 www-yy.in6.to CNAME .
 *.www-yy.in6.to CNAME .
 yy.in6.to CNAME .
@@ -9070,6 +9086,8 @@ unblockit.uno CNAME .
 *.unblockit.uno CNAME .
 2fastsurfer.us CNAME .
 *.2fastsurfer.us CNAME .
+haihu-by-scrsa.3cm.us CNAME .
+*.haihu-by-scrsa.3cm.us CNAME .
 46sdzf3zdg1dxg2.us CNAME .
 *.46sdzf3zdg1dxg2.us CNAME .
 6x9ne.4twenty.us CNAME .

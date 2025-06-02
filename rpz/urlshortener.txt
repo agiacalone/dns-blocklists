@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748817000 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748859960 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jun 2025 22:30 UTC
-; Version: 2025.0601.2230.49
+; Last modified: 02 Jun 2025 10:26 UTC
+; Version: 2025.0602.1026.58
 ; Syntax: RPZ
-; Number of entries: 11812
+; Number of entries: 11806
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -390,8 +390,6 @@ zqq.bio CNAME .
 *.zqq.bio CNAME .
 ad7.biz CNAME .
 *.ad7.biz CNAME .
-anmeld.biz CNAME .
-*.anmeld.biz CNAME .
 asharq.biz CNAME .
 *.asharq.biz CNAME .
 bee4.biz CNAME .
@@ -1038,8 +1036,6 @@ andauth.co CNAME .
 *.andauth.co CNAME .
 apple.co CNAME .
 *.apple.co CNAME .
-appsfly.co CNAME .
-*.appsfly.co CNAME .
 asharq.co CNAME .
 *.asharq.co CNAME .
 avlr.co CNAME .
@@ -1664,8 +1660,6 @@ auyyb.com CNAME .
 *.auyyb.com CNAME .
 aveerro.com CNAME .
 *.aveerro.com CNAME .
-avjosa.com CNAME .
-*.avjosa.com CNAME .
 avxvz.com CNAME .
 *.avxvz.com CNAME .
 awwurl.com CNAME .
@@ -1738,8 +1732,6 @@ blipnut.com CNAME .
 *.blipnut.com CNAME .
 blltly.com CNAME .
 *.blltly.com CNAME .
-blomlink.com CNAME .
-*.blomlink.com CNAME .
 ro.blox.com CNAME .
 *.ro.blox.com CNAME .
 blrqfe.com CNAME .
@@ -4530,8 +4522,6 @@ tinyurl.hu CNAME .
 *.tinyurl.hu CNAME .
 zsirkacsa.hu CNAME .
 *.zsirkacsa.hu CNAME .
-short.assleo.icu CNAME .
-*.short.assleo.icu CNAME .
 bitj.icu CNAME .
 *.bitj.icu CNAME .
 cloudfare.icu CNAME .
@@ -7058,6 +7048,8 @@ facebookid.live CNAME .
 *.facebookid.live CNAME .
 facebookvideos.live CNAME .
 *.facebookvideos.live CNAME .
+fedexx.live CNAME .
+*.fedexx.live CNAME .
 fenomen.live CNAME .
 *.fenomen.live CNAME .
 flash-point-studios.live CNAME .
@@ -7108,6 +7100,8 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
+illuminatiracers.live CNAME .
+*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .

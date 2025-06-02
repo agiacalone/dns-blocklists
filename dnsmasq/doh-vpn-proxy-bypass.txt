@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 03:06 UTC
-# Version: 2025.0602.0306.58
+# Last modified: 02 Jun 2025 14:55 UTC
+# Version: 2025.0602.1455.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4847
+# Number of entries: 4856
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -69,6 +69,7 @@ local=/1clickvpn.net/
 local=/onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com/
 local=/dns.23-4.cn/
 local=/233py.com/
+local=/kazuma-fumo.24-7.ro/
 local=/dns.240527.xyz/
 local=/24tunnel.com/
 local=/educational-site.24x7.hk/
@@ -99,6 +100,7 @@ local=/dns.354688.xyz/
 local=/doh.360.cn/
 local=/dot.360.cn/
 local=/3bbb.me/
+local=/haihu-by-scrsa.3cm.us/
 local=/3dcosas.xyz/
 local=/3dns.eu/
 local=/3jjxxl.tech/
@@ -270,7 +272,6 @@ local=/amnezia.org/
 local=/doh.amonsul.net/
 local=/home.amq.ro/
 local=/an-us.pro/
-local=/anachem.online/
 local=/ananoos.com/
 local=/anchorfree.net/
 local=/dns.andrewnw.xyz/
@@ -420,7 +421,6 @@ local=/bdns.nu/
 local=/bdns.pro/
 local=/beapasswpn.com/
 local=/dns.beardic.cn/
-local=/shop.beautydiskount.ru/
 local=/bebasid.com/
 local=/bebra.ai/
 local=/justhost.bedro.cloud/
@@ -636,6 +636,7 @@ local=/lab.graph.central64.com/
 local=/dns.cert.ee/
 local=/area.world.cervezamolay.com/
 local=/cfdjb.org/
+local=/suken.cfmr.ro/
 local=/ibuki.cgnat.net/
 local=/dns.chadeyron.fr/
 local=/core.goal.challengepursuit.com/
@@ -643,6 +644,7 @@ local=/changemyip.com/
 local=/chaos-system.de/
 local=/dismantled.charbel.cl/
 local=/dns.charraud.eu/
+local=/ougonokaze.cheftayebeh.ir/
 local=/dns.chenu.ch/
 local=/freedns.kiuo-utopias.chickenkiller.com/
 local=/mathhomeworkplus.chickenkiller.com/
@@ -1109,6 +1111,7 @@ local=/dns.dns-53.com/
 local=/dns.dns-53.uk/
 local=/dns.dns-53.us/
 local=/dns-free.link/
+local=/secure-dns.dns-ga.de/
 local=/dns.dns-over-https.com/
 local=/dns-savage.com/
 local=/dns0.eu/
@@ -1805,6 +1808,7 @@ local=/turtle.happyforever.com/
 local=/ycsd-instructure.happyforever.com/
 local=/yessir.happyforever.com/
 local=/harbaletsstudy.com/
+local=/monkeydoo.hardsoft.nu/
 local=/resolver-eu.haringstad.com/
 local=/adguard.hartley.cloud/
 local=/dylanigotchu.hbmc.net/
@@ -1813,6 +1817,7 @@ local=/ordns.he.net/
 local=/chimpanzinibananini.hec.to/
 local=/dogebyvcsa.hec.to/
 local=/hooda.math.hec.to/
+local=/nodamirai.hec.to/
 local=/us-ny-alula.heliumcloud.cc/
 local=/sdfergrdewdwdawdwdszdsadsadas.helixarcade.space/
 local=/sage.skills.hellasinside.com/
@@ -2024,6 +2029,7 @@ local=/indiaproxy.win/
 local=/indo-ssh.com/
 local=/dns.indust.me/
 local=/dns.indybanipal.com/
+local=/the.infocommthailand.com/
 local=/dns.inforlogia.com/
 local=/doh.infracell.net/
 local=/infvpn.com/
@@ -2948,6 +2954,7 @@ local=/dns.oryxlabs.com/
 local=/os4work.com/
 local=/edu.osobi.ro/
 local=/osobiacademy.osobi.ro/
+local=/tails.ospa.fi/
 local=/ospylac.com/
 local=/osqcsmm.shop/
 local=/this.is.for.lightspeedpal.ostrovsky.sk/
@@ -3363,6 +3370,7 @@ local=/purevpn.fr/
 local=/purevpn-tools.com/
 local=/pushokey.com/
 local=/pushvpn.com/
+local=/start.puto.me/
 local=/pxaa.com/
 local=/pyproxy.com/
 local=/doh.pyry.me/
@@ -3478,6 +3486,7 @@ local=/ricko.is/
 local=/lexiapowerup.ricksolinas.com/
 local=/dns.rin.sh/
 local=/elishawisabaddie.rinet.fi/
+local=/next.rinet.ai/
 local=/ringvpn.com/
 local=/riseup.net/
 local=/rnblyatclub.online/
