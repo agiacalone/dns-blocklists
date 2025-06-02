@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748687400 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748817000 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 31 May 2025 10:30 UTC
-; Version: 2025.0531.1030.23
+; Last modified: 01 Jun 2025 22:30 UTC
+; Version: 2025.0601.2230.49
 ; Syntax: RPZ
-; Number of entries: 11800
+; Number of entries: 11812
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -886,6 +886,8 @@ alibuy.click CNAME .
 *.alibuy.click CNAME .
 asus.click CNAME .
 *.asus.click CNAME .
+biotap.click CNAME .
+*.biotap.click CNAME .
 cb.click CNAME .
 *.cb.click CNAME .
 goo.click CNAME .
@@ -1508,8 +1510,6 @@ has.coffee CNAME .
 *.1dietplans.com CNAME .
 1shortlink.com CNAME .
 *.1shortlink.com CNAME .
-1sturl.com CNAME .
-*.1sturl.com CNAME .
 1url.com CNAME .
 *.1url.com CNAME .
 247superhost.com CNAME .
@@ -1550,8 +1550,6 @@ has.coffee CNAME .
 *.733s.com CNAME .
 77url.com CNAME .
 *.77url.com CNAME .
-7c34.com CNAME .
-*.7c34.com CNAME .
 7kts.com CNAME .
 *.7kts.com CNAME .
 888df.com CNAME .
@@ -2916,6 +2914,8 @@ shortfake.com CNAME .
 *.shortfake.com CNAME .
 shortifyme.com CNAME .
 *.shortifyme.com CNAME .
+shortlinkpanel.com CNAME .
+*.shortlinkpanel.com CNAME .
 shortlk.com CNAME .
 *.shortlk.com CNAME .
 shortll.com CNAME .
@@ -4354,6 +4354,8 @@ r.jod.gg CNAME .
 *.r.jod.gg CNAME .
 kaas.gg CNAME .
 *.kaas.gg CNAME .
+klik.gg CNAME .
+*.klik.gg CNAME .
 lmg.gg CNAME .
 *.lmg.gg CNAME .
 ludia.gg CNAME .
@@ -5268,6 +5270,8 @@ kilat.ink CNAME .
 *.kilat.ink CNAME .
 lionl.ink CNAME .
 *.lionl.ink CNAME .
+makemyl.ink CNAME .
+*.makemyl.ink CNAME .
 njfl.ink CNAME .
 *.njfl.ink CNAME .
 rcl.ink CNAME .
@@ -5626,6 +5630,8 @@ zurl.ir CNAME .
 *.zurl.ir CNAME .
 0i.is CNAME .
 *.0i.is CNAME .
+2m.is CNAME .
+*.2m.is CNAME .
 711.is CNAME .
 *.711.is CNAME .
 beats.is CNAME .
@@ -5868,8 +5874,6 @@ wru.kr CNAME .
 *.wru.kr CNAME .
 zez.kr CNAME .
 *.zez.kr CNAME .
-944.la CNAME .
-*.944.la CNAME .
 abc7.la CNAME .
 *.abc7.la CNAME .
 boa.la CNAME .
@@ -6402,6 +6406,8 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
+mytiktok.life CNAME .
+*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6966,6 +6972,8 @@ bibomart.live CNAME .
 *.bibomart.live CNAME .
 bigmikebphx.live CNAME .
 *.bigmikebphx.live CNAME .
+bit24.live CNAME .
+*.bit24.live CNAME .
 black-panther.live CNAME .
 *.black-panther.live CNAME .
 blouse.live CNAME .
@@ -7100,8 +7108,6 @@ ichafunddrives.live CNAME .
 *.ichafunddrives.live CNAME .
 igotthejuices.live CNAME .
 *.igotthejuices.live CNAME .
-illuminatiracers.live CNAME .
-*.illuminatiracers.live CNAME .
 inburstcorp.live CNAME .
 *.inburstcorp.live CNAME .
 incl.live CNAME .
@@ -7870,6 +7876,8 @@ gofund.me CNAME .
 *.gofund.me CNAME .
 gogoto.me CNAME .
 *.gogoto.me CNAME .
+goly.me CNAME .
+*.goly.me CNAME .
 goo-gl.me CNAME .
 *.goo-gl.me CNAME .
 gourl.me CNAME .
@@ -8034,6 +8042,8 @@ shink.me CNAME .
 *.shink.me CNAME .
 shln.me CNAME .
 *.shln.me CNAME .
+shmz.me CNAME .
+*.shmz.me CNAME .
 short-link.me CNAME .
 *.short-link.me CNAME .
 shortenedurl.me CNAME .
@@ -10038,8 +10048,6 @@ vena.sh CNAME .
 *.vena.sh CNAME .
 yau.sh CNAME .
 *.yau.sh CNAME .
-5ot2.shop CNAME .
-*.5ot2.shop CNAME .
 8a6rh.shop CNAME .
 *.8a6rh.shop CNAME .
 djarum88.shop CNAME .
@@ -10282,6 +10290,8 @@ wapo.st CNAME .
 *.wapo.st CNAME .
 xn--ms8h.st CNAME .
 *.xn--ms8h.st CNAME .
+389sport.store CNAME .
+*.389sport.store CNAME .
 9splay.store CNAME .
 *.9splay.store CNAME .
 freshflowangling.store CNAME .
@@ -11136,8 +11146,6 @@ xor.tw CNAME .
 *.xor.tw CNAME .
 yji.tw CNAME .
 *.yji.tw CNAME .
-adb.ug CNAME .
-*.adb.ug CNAME .
 0a0.uk CNAME .
 *.0a0.uk CNAME .
 go.bath.ac.uk CNAME .
@@ -11308,6 +11316,8 @@ prbly.us CNAME .
 *.prbly.us CNAME .
 qutt.us CNAME .
 *.qutt.us CNAME .
+rec-law.us CNAME .
+*.rec-law.us CNAME .
 referer.us CNAME .
 *.referer.us CNAME .
 resmiteratai888.us CNAME .
@@ -11520,6 +11530,8 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
+titok.website CNAME .
+*.titok.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .

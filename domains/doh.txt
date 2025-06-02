@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jun 2025 03:26 UTC
-# Version: 2025.0601.0326.41
+# Last modified: 02 Jun 2025 03:05 UTC
+# Version: 2025.0602.0305.31
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 1594
+# Number of entries: 1600
 #
 003153.xyz
 ns.00dani.me
@@ -228,6 +228,7 @@ c-dns.com
 www.c-dns.com
 dns.cabbage.zone
 dns.cahlen.com
+dns.caliph.dev
 callies-online.site
 2.dnscrypt-cert.captnemo.in
 doh.captnemo.in
@@ -289,6 +290,7 @@ opera.cloudflare-dns.com
 security.cloudflare-dns.com
 tor.cloudflare-dns.com
 cloudflare-gateway.com
+frd4wvnobp.cloudflare-gateway.com
 api.cloudflareclient.com
 cloudflareresolve.com
 voyage-s01.cloudku.technology
@@ -330,6 +332,7 @@ comss.one
 comss.ru
 dns.comss.one
 dns.east.comss.one
+router.comss.one
 dns1.conne.net
 dns.connect.fail
 dns.controld.com
@@ -538,6 +541,7 @@ dns-dot.dnsforfamily.com
 dnsforge.de
 clean.dnsforge.de
 hard.dnsforge.de
+dnsguard.pub
 dns.dnshome.de
 doh.dnslify.com
 a.ns.dnslify.com
@@ -1430,6 +1434,7 @@ sunnygyl.com
 doh.sunoaki.net
 dns.superstefan.win
 dns.surfshark.com
+dns.surfsharkdns.com
 dns.surobe.com
 dns.sv-zauner.at
 dns.svoi.dev
@@ -1519,6 +1524,7 @@ dns.unx.io
 urology.wiki
 dns.koala.us.to
 adfree.usableprivacy.net
+v.recipes
 dns.vaioswolke.xyz
 doh.valscosmos.com
 tor.vasi.li

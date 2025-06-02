@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jun 2025 03:06 UTC
-# Version: 2025.0601.0306.38
+# Last modified: 02 Jun 2025 02:47 UTC
+# Version: 2025.0602.0247.04
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10127
+# Number of entries: 10125
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -21,7 +21,6 @@ local=/0123movies.one/
 local=/0123moviesfree.org/
 local=/01streaming.click/
 local=/01streaming.tv/
-local=/037hd.tv/
 local=/037hdmovie.com/
 local=/0day.ro/
 local=/0daycn.net/
@@ -302,10 +301,8 @@ local=/wwsw.4files.net/
 local=/wwv.4files.net/
 local=/wwvw.4files.net/
 local=/xn--80aejjrnhcji.4files.net/
-local=/4gnetworkbd.com/
 local=/4k-hd.club/
 local=/4kdownload.com/
-local=/4kfilm.buzz/
 local=/4kvod.tv/
 local=/4megaupload.com/
 local=/4mirrorlink.com/
@@ -2779,7 +2776,6 @@ local=/ectlink.com/
 local=/eddie4.nl/
 local=/edels-stube.eu/
 local=/edgeemu.net/
-local=/tracker.edkj.club/
 local=/edmag.net/
 local=/tracker.sjtu.edu.cn/
 local=/aarinfantasy.edwardk.info/
@@ -3614,6 +3610,7 @@ local=/free-telecharger.org/
 local=/free-telecharger.top/
 local=/free-telecharger.xyz/
 local=/open.free-tracker.ga/
+local=/free4pc.org/
 local=/freebannedbooks.org/
 local=/freebfg.org/
 local=/freebookspot.es/
@@ -7154,6 +7151,7 @@ local=/redditnhlstreams.com/
 local=/redditsoccerstreams.org/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
+local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/

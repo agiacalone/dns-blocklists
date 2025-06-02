@@ -124,6 +124,7 @@ levels.fyi
 lunar.fyi
 recollect.fyi
 vercel.fyi
+gxcorner.games
 skystone.games
 cst.gdn
 discord.gift

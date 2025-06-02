@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748747160 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748832420 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jun 2025 03:06 UTC
-; Version: 2025.0601.0306.38
+; Last modified: 02 Jun 2025 02:47 UTC
+; Version: 2025.0602.0247.04
 ; Syntax: RPZ
-; Number of entries: 20254
+; Number of entries: 20250
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -785,8 +785,6 @@ guardaserie.builders CNAME .
 *.guardaserie.builders CNAME .
 1337x.buzz CNAME .
 *.1337x.buzz CNAME .
-4kfilm.buzz CNAME .
-*.4kfilm.buzz CNAME .
 5movies.buzz CNAME .
 *.5movies.buzz CNAME .
 freemovies.buzz CNAME .
@@ -1215,6 +1213,8 @@ radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
 rarbg.cc CNAME .
 *.rarbg.cc CNAME .
+redditsport.cc CNAME .
+*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -1575,8 +1575,6 @@ tracker.dicmusic.club CNAME .
 *.tracker.dicmusic.club CNAME .
 tr.doogh.club CNAME .
 *.tr.doogh.club CNAME .
-tracker.edkj.club CNAME .
-*.tracker.edkj.club CNAME .
 eurostreaming.club CNAME .
 *.eurostreaming.club CNAME .
 fast-torrent.club CNAME .
@@ -2177,8 +2175,6 @@ danime.2ya.com CNAME .
 *.456movie.com CNAME .
 480mkv.com CNAME .
 *.480mkv.com CNAME .
-4gnetworkbd.com CNAME .
-*.4gnetworkbd.com CNAME .
 4kdownload.com CNAME .
 *.4kdownload.com CNAME .
 4megaupload.com CNAME .
@@ -14465,6 +14461,8 @@ fonoon.org CNAME .
 *.fonoon.org CNAME .
 free-telecharger.org CNAME .
 *.free-telecharger.org CNAME .
+free4pc.org CNAME .
+*.free4pc.org CNAME .
 freebannedbooks.org CNAME .
 *.freebannedbooks.org CNAME .
 freebfg.org CNAME .
@@ -18393,8 +18391,6 @@ sokrostream.tube CNAME .
 *.sokrostream.tube CNAME .
 01streaming.tv CNAME .
 *.01streaming.tv CNAME .
-037hd.tv CNAME .
-*.037hd.tv CNAME .
 0ffbug.tv CNAME .
 *.0ffbug.tv CNAME .
 10kol.tv CNAME .

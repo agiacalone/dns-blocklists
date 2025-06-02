@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748748480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748833560 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 01 Jun 2025 03:28 UTC
-; Version: 2025.0601.0328.06
+; Last modified: 02 Jun 2025 03:06 UTC
+; Version: 2025.0602.0306.58
 ; Syntax: RPZ
-; Number of entries: 9690
+; Number of entries: 9694
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -3398,14 +3398,10 @@ eu-browse.startpage.com CNAME .
 *.eu-browse.startpage.com CNAME .
 eu2-browse.startpage.com CNAME .
 *.eu2-browse.startpage.com CNAME .
-error.proxy.startpage.com CNAME .
-*.error.proxy.startpage.com CNAME .
 proxy3.startpage.com CNAME .
 *.proxy3.startpage.com CNAME .
 s4-us2.startpage.com CNAME .
 *.s4-us2.startpage.com CNAME .
-us-browse.startpage.com CNAME .
-*.us-browse.startpage.com CNAME .
 us1-browse.startpage.com CNAME .
 *.us1-browse.startpage.com CNAME .
 us2-browse.startpage.com CNAME .
@@ -3482,6 +3478,8 @@ surfsharkbiz.com CNAME .
 *.surfsharkbiz.com CNAME .
 surfsharkdeals.com CNAME .
 *.surfsharkdeals.com CNAME .
+dns.surfsharkdns.com CNAME .
+*.dns.surfsharkdns.com CNAME .
 surfsharkstatus.com CNAME .
 *.surfsharkstatus.com CNAME .
 surfsjark.com CNAME .
@@ -4444,6 +4442,8 @@ bazooki-infra.dev CNAME .
 *.bazooki-infra.dev CNAME .
 dns.blaumer.dev CNAME .
 *.dns.blaumer.dev CNAME .
+dns.caliph.dev CNAME .
+*.dns.caliph.dev CNAME .
 dns.daw.dev CNAME .
 *.dns.daw.dev CNAME .
 vpn.dzarlax.dev CNAME .
@@ -8346,6 +8346,8 @@ zal01.dnscry.pt CNAME .
 *.zal01.dnscry.pt CNAME .
 dns.pub CNAME .
 *.dns.pub CNAME .
+dnsguard.pub CNAME .
+*.dnsguard.pub CNAME .
 doh.pub CNAME .
 *.doh.pub CNAME .
 dot.pub CNAME .
@@ -8410,6 +8412,8 @@ unblocked.racing CNAME .
 *.unblocked.racing CNAME .
 5g.o0o.re CNAME .
 *.5g.o0o.re CNAME .
+v.recipes CNAME .
+*.v.recipes CNAME .
 croxy.red CNAME .
 *.croxy.red CNAME .
 pbproxy.red CNAME .

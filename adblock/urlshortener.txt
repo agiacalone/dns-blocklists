@@ -12,10 +12,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 31 May 2025 10:30 UTC
-! Version: 2025.0531.1030.23
+! Last modified: 01 Jun 2025 22:30 UTC
+! Version: 2025.0601.2230.49
 ! Syntax: AdBlock
-! Number of entries: 5900
+! Number of entries: 5906
 !
 ||0.gp^
 ||00oo.lol^
@@ -87,7 +87,6 @@
 ||1short.io^
 ||1shortlink.com^
 ||1stgop.co^
-||1sturl.com^
 ||1tk.us^
 ||1to3.link^
 ||1u.fi^
@@ -121,6 +120,7 @@
 ||2link.cc^
 ||2link.in^
 ||2ly.link^
+||2m.is^
 ||2my.info^
 ||2no.co^
 ||2nu.gs^
@@ -150,6 +150,7 @@
 ||30na.ma^
 ||31productions.de^
 ||369.xn--6frz82g^
+||389sport.store^
 ||3c5.com^
 ||3ind.com^
 ||3le.ru^
@@ -196,7 +197,6 @@
 ||5il.co^
 ||5k.lol^
 ||5or.cc^
-||5ot2.shop^
 ||5qzr.com^
 ||5rb.pro^
 ||5rwv.info^
@@ -227,7 +227,6 @@
 ||777online.life^
 ||77url.com^
 ||7894.xyz^
-||7c34.com^
 ||7fth.cc^
 ||7g7.ir^
 ||7i.se^
@@ -256,7 +255,6 @@
 ||900r.ir^
 ||92url.com^
 ||93.link^
-||944.la^
 ||98.to^
 ||985.so^
 ||98pro.cc^
@@ -345,7 +343,6 @@
 ||ada-shorts.life^
 ||ada2.in^
 ||adaymag.co^
-||adb.ug^
 ||adbl.co^
 ||add.lat^
 ||addict-tt27.life^
@@ -724,10 +721,12 @@
 ||binged.it^
 ||r.bioinfweb.info^
 ||biolinky.co^
+||biotap.click^
 ||bisadimasuk.in^
 ||bit.bz^
 ||bit.do^
 ||bit.ly^
+||bit24.live^
 ||bitcoinshortener.top^
 ||bitfly.me^
 ||bitfy.cc^
@@ -1944,6 +1943,7 @@
 ||golink.one^
 ||golink.us^
 ||golnk.eu^
+||goly.me^
 ||gomomento.co^
 ||goninja.live^
 ||goo.by^
@@ -2246,7 +2246,6 @@
 ||ilix.in^
 ||ilk.ir^
 ||illin.is^
-||illuminatiracers.live^
 ||iln.io^
 ||ilnk.io^
 ||ilofi.sbs^
@@ -2538,6 +2537,7 @@
 ||klas.ws^
 ||klck.me^
 ||kli.cx^
+||klik.gg^
 ||kliks.online^
 ||klmf.ly^
 ||kmi.mobi^
@@ -2953,6 +2953,7 @@
 ||mainaku.life^
 ||mainterus.fun^
 ||make.my^
+||makemyl.ink^
 ||makyo.io^
 ||malachi-qain.life^
 ||mamm.ie^
@@ -3246,6 +3247,7 @@
 ||mysp.ac^
 ||mysurl.com^
 ||mytd.cc^
+||mytiktok.life^
 ||mytinycheck9.life^
 ||mytoluwalemi.life^
 ||mytorus.live^
@@ -3907,6 +3909,7 @@
 ||rebrand.ly^
 ||rebrand.pw^
 ||rebrandly.com^
+||rec-law.us^
 ||reco.yt^
 ||reconis.co^
 ||recruiment.live^
@@ -4204,6 +4207,7 @@
 ||shlink.io^
 ||shln.me^
 ||shlom.in^
+||shmz.me^
 ||sho.cat^
 ||sho.pe^
 ||sho-rt.ru^
@@ -4285,6 +4289,7 @@
 ||shortlink.net^
 ||shortlink88.xyz^
 ||shortlinkid.live^
+||shortlinkpanel.com^
 ||shortlinksakti.xyz^
 ||shortlk.com^
 ||shortll.com^
@@ -4845,6 +4850,7 @@
 ||tisfri.se^
 ||titaniumlinks.com^
 ||titleagentmarketing.com^
+||titok.website^
 ||tiurl.link^
 ||tixxh.com^
 ||tj.wtf^

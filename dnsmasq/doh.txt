@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jun 2025 03:26 UTC
-# Version: 2025.0601.0326.41
+# Last modified: 02 Jun 2025 03:05 UTC
+# Version: 2025.0602.0305.31
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1435
+# Number of entries: 1439
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -193,6 +193,7 @@ local=/dns.butterfly87.sbs/
 local=/c-dns.com/
 local=/dns.cabbage.zone/
 local=/dns.cahlen.com/
+local=/dns.caliph.dev/
 local=/callies-online.site/
 local=/2.dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
@@ -447,6 +448,7 @@ local=/doh.dnscrypt.uk/
 local=/v.dnscrypt.uk/
 local=/dnsforfamily.com/
 local=/dnsforge.de/
+local=/dnsguard.pub/
 local=/dns.dnshome.de/
 local=/doh.dnslify.com/
 local=/a.ns.dnslify.com/
@@ -1286,6 +1288,7 @@ local=/sunnygyl.com/
 local=/doh.sunoaki.net/
 local=/dns.superstefan.win/
 local=/dns.surfshark.com/
+local=/dns.surfsharkdns.com/
 local=/dns.surobe.com/
 local=/dns.sv-zauner.at/
 local=/dns.svoi.dev/
@@ -1365,6 +1368,7 @@ local=/dns.unx.io/
 local=/urology.wiki/
 local=/dns.koala.us.to/
 local=/adfree.usableprivacy.net/
+local=/v.recipes/
 local=/dns.vaioswolke.xyz/
 local=/doh.valscosmos.com/
 local=/tor.vasi.li/

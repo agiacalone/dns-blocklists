@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 01 Jun 2025 03:28 UTC
-# Version: 2025.0601.0328.06
+# Last modified: 02 Jun 2025 03:06 UTC
+# Version: 2025.0602.0306.58
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4845
+# Number of entries: 4847
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -596,6 +596,7 @@ local=/dns.cahlen.com/
 local=/register.cakk.us/
 local=/calculusproblems.online/
 local=/solve.proof.california-red.com/
+local=/dns.caliph.dev/
 local=/callies-online.site/
 local=/bananakun.camdvr.org/
 local=/canadaproxy.info/
@@ -1216,6 +1217,7 @@ local=/doh.dnscrypt.uk/
 local=/v.dnscrypt.uk/
 local=/dnsforfamily.com/
 local=/dnsforge.de/
+local=/dnsguard.pub/
 local=/dns.dnshome.de/
 local=/jiyuu.dnsitalia.org/
 local=/doh.dnslify.com/
@@ -3804,10 +3806,8 @@ local=/ams2.startpage.com/
 local=/browse.startpage.com/
 local=/eu-browse.startpage.com/
 local=/eu2-browse.startpage.com/
-local=/error.proxy.startpage.com/
 local=/proxy3.startpage.com/
 local=/s4-us2.startpage.com/
-local=/us-browse.startpage.com/
 local=/us1-browse.startpage.com/
 local=/us2-browse.startpage.com/
 local=/dns.startupstack.tech/
@@ -3895,6 +3895,7 @@ local=/surfshark.sg/
 local=/surfshark.sk/
 local=/surfsharkbiz.com/
 local=/surfsharkdeals.com/
+local=/dns.surfsharkdns.com/
 local=/surfsharkstatus.com/
 local=/surfshell.io/
 local=/surfsjark.com/
@@ -4394,6 +4395,7 @@ local=/willitwork.utrealestatedreamteam.com/
 local=/utube.cc/
 local=/utunnel.io/
 local=/uvpn.me/
+local=/v.recipes/
 local=/edge-v6x.v6.rocks/
 local=/greenzone.v6.army/
 local=/lawless-zone.v6.rocks/
