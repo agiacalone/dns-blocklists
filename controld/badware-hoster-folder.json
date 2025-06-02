@@ -14995,6 +14995,13 @@
       }
     },
     {
+      "PK": "zohosites.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "zoomblog.com",
       "action": {
         "do": 0,
@@ -15016,6 +15023,13 @@
       }
     },
     {
+      "PK": "zwphosting.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "zx9.de",
       "action": {
         "do": 0,
@@ -15024,6 +15038,13 @@
     },
     {
       "PK": "zymic.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "zyrosite.com",
       "action": {
         "do": 0,
         "status": 1

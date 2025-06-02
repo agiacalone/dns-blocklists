@@ -303,7 +303,7 @@ A blocklist for blocking Malware, Cryptojacking, Scam, Spam and Phishing. Blocks
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 784951 domains/hosts - 87217 compressed hosts - 638354 compressed domains
+**Entries:** 784950 domains/hosts - 87217 compressed hosts - 638353 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -326,7 +326,7 @@ A medium version of the Threat Intelligence Feeds list. Designed for Adblockers 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 320882 compressed domains
+**Entries:** 320881 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -346,7 +346,7 @@ A size-optimised version of the Threat Intelligence Feeds Medium list. Designed 
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 70081 compressed domains
+**Entries:** 70080 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -495,7 +495,7 @@ A blocklist for blocking known hosters that also host badware via user content t
 
 :green_circle: yes :yellow_square: partially :x: no
 
-**Entries:** 2147 compressed domains
+**Entries:** 2150 compressed domains
 
 | Format | Links | Should be used for |
 |:-------|:-----|:----------------|
@@ -795,7 +795,7 @@ In [DNSwarden](https://dnswarden.com/customfilter.html) you can use my Light, No
 
 | Blocklists | DNS-over-HTTPS | DNS-over-TLS/QUIC | Legacy DNS |
 |:-----------|:---------------|:------------------|:-----------|
-| Pro plus + Native Tracker + TIF + NRD30 Phishing/DGA | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 87.106.108.91<br>87.106.32.13<br>2a01:239:295:e800::1<br>2a01:239:290:e700::1 |
+| Pro plus + Native Tracker + TIF | `https://dnsbunker.org/dns-query` | `dnsbunker.org` | 87.106.108.91<br>87.106.32.13<br>2a01:239:295:e800::1<br>2a01:239:290:e700::1 |
 
 #### :department_store: **OpenBLD.net - free** <a name="openbld"></a>
 

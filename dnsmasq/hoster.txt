@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 10:25 UTC
-# Version: 2025.0602.1025.31
+# Last modified: 02 Jun 2025 15:09 UTC
+# Version: 2025.0602.1509.15
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2147
+# Number of entries: 2150
 #
 local=/000a.de/
 local=/000free.us/
@@ -2151,8 +2151,11 @@ local=/zepatifcommerce.shop/
 local=/ziblogs.com/
 local=/zjxjmp.cn/
 local=/zoekvinden.nl/
+local=/zohosites.com/
 local=/zoomblog.com/
 local=/zoomshare.com/
 local=/zustimmen.de/
+local=/zwphosting.com/
 local=/zx9.de/
 local=/zymic.com/
+local=/zyrosite.com/

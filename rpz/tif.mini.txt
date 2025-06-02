@@ -1839,8 +1839,6 @@ mitdenkt.app CNAME .
 *.mitdenkt.app CNAME .
 mobile-cff.app CNAME .
 *.mobile-cff.app CNAME .
-momentique.app CNAME .
-*.momentique.app CNAME .
 moost.app CNAME .
 *.moost.app CNAME .
 mybackoffice.app CNAME .

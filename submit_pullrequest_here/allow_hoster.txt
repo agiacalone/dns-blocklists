@@ -19,6 +19,7 @@
 *.wpengine.com
 *.wpenginepowered.com
 *.wpeproxy.com
+0hi.me
 2chblog.jp
 amazon.se
 bazaarvoice.com
