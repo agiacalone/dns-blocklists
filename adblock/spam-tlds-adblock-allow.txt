@@ -111,6 +111,7 @@
 @@||justget.fit^
 @@||pridegym.fit^
 @@||union.fit^
+@@||johnreed.fitness^
 @@||helloworld.foo^
 @@||e.foundation^
 @@||grapheneos.foundation^

@@ -1422,6 +1422,13 @@
       }
     },
     {
+      "PK": "johnreed.fitness",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "jp.foundation",
       "action": {
         "do": 1,

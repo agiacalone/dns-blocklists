@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 22:28 UTC
-# Version: 2025.0602.2228.51
+# Last modified: 03 Jun 2025 10:27 UTC
+# Version: 2025.0603.1027.07
 # Syntax: Domains (without subdomains)
-# Number of entries: 5896
+# Number of entries: 5891
 #
 0.gp
 00oo.lol
@@ -1325,7 +1325,6 @@ dfl8.me
 dfthethao.com
 dgmmx.com
 dgo.to
-dgshort.com
 dgt.fm
 dhe.one
 dhk.gg
@@ -1369,7 +1368,6 @@ djteg.sbs
 djurl.com
 dkly.me
 dkng.co
-dktlg.com
 dky.bz
 dl.gl
 dl-protect.info
@@ -1619,7 +1617,6 @@ ezbz.me
 ezc.vc
 ezexzo.link
 ezstat.ru
-ezurl.cc
 ezurl.co
 ezyurl.co
 ezzs.live
@@ -1662,7 +1659,6 @@ fdkmx.sbs
 fdmlm.com
 fdmlm.sbs
 fdzsf.com
-fedexx.live
 fee.vn
 female-and-male-in-tech.com
 fenomen.live
@@ -1686,7 +1682,6 @@ fhxor.com
 fi.ro
 fifa.fans
 fig.page
-fighter234.best
 filz.fr
 find-url.co
 findanupgopuram.life
@@ -1708,7 +1703,6 @@ flic.kr
 flickerlink.com
 flii.by
 flip.it
-fliplink.io
 flomuz.io
 flow.page
 flowcode.com
@@ -1952,7 +1946,6 @@ google-meet-join-live-video-chat-invites.live
 google-photo.live
 google-url.com
 googleidmaps.live
-googleonline.live
 goolink.cc
 goolnk.com
 gooo.to
@@ -2237,7 +2230,6 @@ ilinky.info
 ilix.in
 ilk.ir
 illin.is
-illuminatiracers.live
 iln.io
 ilnk.io
 ilofi.sbs
@@ -3239,6 +3231,7 @@ myshorturls.com
 mysp.ac
 mysurl.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -4842,6 +4835,7 @@ tipeos.com
 tisfri.se
 titaniumlinks.com
 titleagentmarketing.com
+titok.website
 tiurl.link
 tixxh.com
 tj.wtf
@@ -5893,6 +5887,7 @@ zsote.com
 zti.me
 zugco.sbs
 zuki.ie
+zum.bi
 zuplo.link
 zurb.us
 zurins.uk

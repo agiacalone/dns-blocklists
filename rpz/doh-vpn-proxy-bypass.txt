@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748919600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748962380 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jun 2025 03:00 UTC
-; Version: 2025.0603.0300.06
+; Last modified: 03 Jun 2025 14:53 UTC
+; Version: 2025.0603.1453.59
 ; Syntax: RPZ
-; Number of entries: 9696
+; Number of entries: 9712
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -206,6 +206,8 @@ about.cmbazan.com.ar CNAME .
 *.about.cmbazan.com.ar CNAME .
 doge.intinet.com.ar CNAME .
 *.doge.intinet.com.ar CNAME .
+encryption.madereramilano.com.ar CNAME .
+*.encryption.madereramilano.com.ar CNAME .
 dns.redhosting.com.ar CNAME .
 *.dns.redhosting.com.ar CNAME .
 visit.sistemasplenario.com.ar CNAME .
@@ -362,6 +364,8 @@ adguard.gbrossi.com.br CNAME .
 *.adguard.gbrossi.com.br CNAME .
 dns.joaofidelix.com.br CNAME .
 *.dns.joaofidelix.com.br CNAME .
+manaututors.manausclass.com.br CNAME .
+*.manaututors.manausclass.com.br CNAME .
 dog.vpn.net.br CNAME .
 *.dog.vpn.net.br CNAME .
 chat.digimaster.srv.br CNAME .
@@ -584,6 +588,8 @@ switch.ch CNAME .
 *.switch.ch CNAME .
 study.toptrends.ch CNAME .
 *.study.toptrends.ch CNAME .
+tools.vonar.ch CNAME .
+*.tools.vonar.ch CNAME .
 hudzonlzzzzzhj.zavoj.ch CNAME .
 *.hudzonlzzzzzhj.zavoj.ch CNAME .
 tststststststststststststststststststststs.zavoj.ch CNAME .
@@ -634,6 +640,8 @@ use.delcarmen.cl CNAME .
 *.use.delcarmen.cl CNAME .
 doge.gracyjohns.cl CNAME .
 *.doge.gracyjohns.cl CNAME .
+minionsandgru.grupopilar.cl CNAME .
+*.minionsandgru.grupopilar.cl CNAME .
 curry.idemonch.cl CNAME .
 *.curry.idemonch.cl CNAME .
 devfruitpremium.incodesltda.cl CNAME .
@@ -1360,6 +1368,8 @@ core.goal.challengepursuit.com CNAME .
 *.core.goal.challengepursuit.com CNAME .
 changemyip.com CNAME .
 *.changemyip.com CNAME .
+ilikefeet.chickenkiller.com CNAME .
+*.ilikefeet.chickenkiller.com CNAME .
 freedns.kiuo-utopias.chickenkiller.com CNAME .
 *.freedns.kiuo-utopias.chickenkiller.com CNAME .
 mathhomeworkplus.chickenkiller.com CNAME .
@@ -1552,8 +1562,6 @@ dns.dns-53.com CNAME .
 *.dns.dns-53.com CNAME .
 dns.dns-over-https.com CNAME .
 *.dns.dns-over-https.com CNAME .
-dns-savage.com CNAME .
-*.dns-savage.com CNAME .
 ns1.recursive.dnsbycomodo.com CNAME .
 *.ns1.recursive.dnsbycomodo.com CNAME .
 ns2.recursive.dnsbycomodo.com CNAME .
@@ -1840,6 +1848,8 @@ cats.fuzzylookups.com CNAME .
 *.cats.fuzzylookups.com CNAME .
 dogs.fuzzylookups.com CNAME .
 *.dogs.fuzzylookups.com CNAME .
+foxes.fuzzylookups.com CNAME .
+*.foxes.fuzzylookups.com CNAME .
 gabstorm.com CNAME .
 *.gabstorm.com CNAME .
 dns.gamban.com CNAME .
@@ -2410,6 +2420,8 @@ bolt.louis-ip.com CNAME .
 *.bolt.louis-ip.com CNAME .
 eiken-jp.lozan.com CNAME .
 *.eiken-jp.lozan.com CNAME .
+koolaid.lozan.com CNAME .
+*.koolaid.lozan.com CNAME .
 worldwaronehistory.lozan.com CNAME .
 *.worldwaronehistory.lozan.com CNAME .
 n5.lsasss.com CNAME .
@@ -2480,6 +2492,8 @@ mendozasdelivery.com CNAME .
 *.mendozasdelivery.com CNAME .
 recap.utopia.menorahscrazyblog.com CNAME .
 *.recap.utopia.menorahscrazyblog.com CNAME .
+info.metropolitanstaffingsolutions.com CNAME .
+*.info.metropolitanstaffingsolutions.com CNAME .
 fucklightspeed.mgotz.com CNAME .
 *.fucklightspeed.mgotz.com CNAME .
 mindblown.michaelfoody.com CNAME .
@@ -2582,6 +2596,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -7282,6 +7298,8 @@ onion.nu CNAME .
 *.onion.nu CNAME .
 unblocked.nu CNAME .
 *.unblocked.nu CNAME .
+please-man-i-need-it-just-watch-dexterrrr.tar.nz CNAME .
+*.please-man-i-need-it-just-watch-dexterrrr.tar.nz CNAME .
 comss.one CNAME .
 *.comss.one CNAME .
 dns.hakim.one CNAME .
@@ -7560,8 +7578,6 @@ tor.eff.org CNAME .
 *.tor.eff.org CNAME .
 elgatobypasses.org CNAME .
 *.elgatobypasses.org CNAME .
-epix.epicgamer.org CNAME .
-*.epix.epicgamer.org CNAME .
 mylo.estic.org CNAME .
 *.mylo.estic.org CNAME .
 arashi.eu.org CNAME .
@@ -7578,6 +7594,8 @@ rammerhead.eu.org CNAME .
 *.rammerhead.eu.org CNAME .
 sukidayo.eu.org CNAME .
 *.sukidayo.eu.org CNAME .
+cool.explosionlearning.org CNAME .
+*.cool.explosionlearning.org CNAME .
 dns.faked.org CNAME .
 *.dns.faked.org CNAME .
 fakeip.org CNAME .
@@ -7588,6 +7606,8 @@ fastp.org CNAME .
 *.fastp.org CNAME .
 fastproxy.org CNAME .
 *.fastproxy.org CNAME .
+audit.feedcube.org CNAME .
+*.audit.feedcube.org CNAME .
 fineproxy.org CNAME .
 *.fineproxy.org CNAME .
 finevpn.org CNAME .
@@ -8446,8 +8466,6 @@ cozy.cuza16.ro CNAME .
 *.cozy.cuza16.ro CNAME .
 doge.dinprima.ro CNAME .
 *.doge.dinprima.ro CNAME .
-netnotworking.dynamicnetwork.ro CNAME .
-*.netnotworking.dynamicnetwork.ro CNAME .
 about.glasstechnik.ro CNAME .
 *.about.glasstechnik.ro CNAME .
 addns1.m-it.ro CNAME .
@@ -9504,8 +9522,6 @@ finalbreaths.xyz CNAME .
 *.finalbreaths.xyz CNAME .
 flarquix.xyz CNAME .
 *.flarquix.xyz CNAME .
-proxy.forkbomb.xyz CNAME .
-*.proxy.forkbomb.xyz CNAME .
 free-proxy.xyz CNAME .
 *.free-proxy.xyz CNAME .
 free-vpn.xyz CNAME .
