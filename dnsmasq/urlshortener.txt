@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 10:26 UTC
-# Version: 2025.0602.1026.58
+# Last modified: 02 Jun 2025 22:28 UTC
+# Version: 2025.0602.2228.51
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5903
+# Number of entries: 5896
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -888,7 +888,6 @@ local=/bulink.co/
 local=/bulkurlshortener.com/
 local=/bung.ie/
 local=/buprg.sbs/
-local=/burl.me/
 local=/burma123.life/
 local=/burma77.life/
 local=/burnurl.com/
@@ -965,7 +964,6 @@ local=/cbshort.com/
 local=/cbsloc.al/
 local=/cbsn.ws/
 local=/cbt.gg/
-local=/cbtfgive.org/
 local=/cc.cc/
 local=/cccc.one/
 local=/ccj.im/
@@ -1097,7 +1095,6 @@ local=/cnn.it/
 local=/cnnmon.ie/
 local=/l.cnr.it/
 local=/cnvrge.co/
-local=/1a.co.nz/
 local=/jetzt.bekservice.co.uk/
 local=/genie.co.kr/
 local=/ierp.co.nz/
@@ -1121,7 +1118,6 @@ local=/codimenu.com/
 local=/cofe.io/
 local=/coinbarlink.net/
 local=/coinpr.info/
-local=/coinreal-us.com/
 local=/coki.me/
 local=/coklat.vip/
 local=/by.com.vn/
@@ -3243,7 +3239,6 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
-local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -3274,6 +3269,7 @@ local=/natsbee.link/
 local=/nature.ly/
 local=/nav.cx/
 local=/naver.me/
+local=/nawalaku.com/
 local=/on.nba.com/
 local=/nbc4dc.com/
 local=/nbcbay.com/
@@ -3292,6 +3288,7 @@ local=/ndbix.top/
 local=/ndlb.red/
 local=/ne.fo/
 local=/ne1.net/
+local=/nectarios.info/
 local=/neexulro.net/
 local=/nefeli.live/
 local=/nefix.de/
@@ -4564,7 +4561,6 @@ local=/st.news/
 local=/st8.fm/
 local=/stack.im/
 local=/y.stadtfabrikanten.org/
-local=/stan.md/
 local=/stanford.io/
 local=/start.fr/
 local=/starturl.com/
@@ -4846,7 +4842,6 @@ local=/tipeos.com/
 local=/tisfri.se/
 local=/titaniumlinks.com/
 local=/titleagentmarketing.com/
-local=/titok.website/
 local=/tiurl.link/
 local=/tixxh.com/
 local=/tj.wtf/
@@ -5710,7 +5705,6 @@ local=/xvxcx.sbs/
 local=/xwhxx.com/
 local=/xwpgf.top/
 local=/xxhjb.com/
-local=/xyvid.tv/
 local=/xzb.cc/
 local=/xzcud.top/
 local=/y2u.be/
@@ -5899,7 +5893,6 @@ local=/zsote.com/
 local=/zti.me/
 local=/zugco.sbs/
 local=/zuki.ie/
-local=/zum.bi/
 local=/zuplo.link/
 local=/zurb.us/
 local=/zurins.uk/

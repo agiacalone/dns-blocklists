@@ -6217,6 +6217,13 @@
       }
     },
     {
+      "PK": "ewp.live",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "exactpages.com",
       "action": {
         "do": 0,
@@ -12237,6 +12244,13 @@
       }
     },
     {
+      "PK": "square.site",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "srv1.org",
       "action": {
         "do": 0,
@@ -12336,6 +12350,13 @@
     },
     {
       "PK": "superweb.ws",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "surge.sh",
       "action": {
         "do": 0,
         "status": 1
@@ -13616,6 +13637,13 @@
       }
     },
     {
+      "PK": "w3spaces.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "wallinside.blog",
       "action": {
         "do": 0,
@@ -14443,6 +14471,13 @@
     },
     {
       "PK": "wixstudio.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "wixstudio.io",
       "action": {
         "do": 0,
         "status": 1

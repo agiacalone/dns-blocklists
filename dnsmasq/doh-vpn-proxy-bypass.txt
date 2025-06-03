@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 14:55 UTC
-# Version: 2025.0602.1455.15
+# Last modified: 03 Jun 2025 03:00 UTC
+# Version: 2025.0603.0300.06
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4856
+# Number of entries: 4848
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -602,8 +602,6 @@ local=/bananakun.camdvr.org/
 local=/canadaproxy.info/
 local=/cantblockthis.org/
 local=/cantfindme.org/
-local=/idea.read.capella-technologies.com/
-local=/focus.lab.capetownblogger.com/
 local=/2.dnscrypt-cert.captnemo.in/
 local=/doh.captnemo.in/
 local=/carebuzz.io/
@@ -669,7 +667,6 @@ local=/c.cicitt.ch/
 local=/cienen.com/
 local=/kusogakill.cinedemedianoche.cl/
 local=/doh.cippapp.com/
-local=/ciproxy.de/
 local=/canadianshield.cira.ca/
 local=/dns.circl.lu/
 local=/circumvent.it/
@@ -967,7 +964,6 @@ local=/croxy.com/
 local=/croxy.network/
 local=/croxy.org/
 local=/croxy.red/
-local=/croxy.rocks/
 local=/croxy-proxy.com/
 local=/croxyproxy.best/
 local=/croxyproxy.blog/
@@ -1025,7 +1021,6 @@ local=/dns.dallinbryce.com/
 local=/danhcan.top/
 local=/dns.home.daniil.it/
 local=/adguard.dantynes.cyou/
-local=/darkfat.com/
 local=/darknet.to/
 local=/proxy.darkvpn.com/
 local=/mail.data.haus/
@@ -1342,7 +1337,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1497,7 +1491,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2636,7 +2629,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

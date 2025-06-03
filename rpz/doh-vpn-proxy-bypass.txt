@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748876100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748919600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 02 Jun 2025 14:55 UTC
-; Version: 2025.0602.1455.15
+; Last modified: 03 Jun 2025 03:00 UTC
+; Version: 2025.0603.0300.06
 ; Syntax: RPZ
-; Number of entries: 9712
+; Number of entries: 9696
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1340,10 +1340,6 @@ dns.cahlen.com CNAME .
 *.dns.cahlen.com CNAME .
 solve.proof.california-red.com CNAME .
 *.solve.proof.california-red.com CNAME .
-idea.read.capella-technologies.com CNAME .
-*.idea.read.capella-technologies.com CNAME .
-focus.lab.capetownblogger.com CNAME .
-*.focus.lab.capetownblogger.com CNAME .
 careproxy.com CNAME .
 *.careproxy.com CNAME .
 dns.carson-family.com CNAME .
@@ -1508,8 +1504,6 @@ dabmix.com CNAME .
 *.dabmix.com CNAME .
 dns.dallinbryce.com CNAME .
 *.dns.dallinbryce.com CNAME .
-darkfat.com CNAME .
-*.darkfat.com CNAME .
 proxy.darkvpn.com CNAME .
 *.proxy.darkvpn.com CNAME .
 plans.datacommunicationsinc.com CNAME .
@@ -1652,8 +1646,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2590,8 +2582,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4238,8 +4228,6 @@ adguard.bonis.de CNAME .
 *.adguard.bonis.de CNAME .
 chaos-system.de CNAME .
 *.chaos-system.de CNAME .
-ciproxy.de CNAME .
-*.ciproxy.de CNAME .
 anonymous-proxy.com.de CNAME .
 *.anonymous-proxy.com.de CNAME .
 fast-proxy.com.de CNAME .
@@ -8484,8 +8472,6 @@ zdn.ro CNAME .
 *.zdn.ro CNAME .
 cheifsarebad.zenrelax.ro CNAME .
 *.cheifsarebad.zenrelax.ro CNAME .
-croxy.rocks CNAME .
-*.croxy.rocks CNAME .
 croxyproxy.rocks CNAME .
 *.croxyproxy.rocks CNAME .
 prox.rocks CNAME .
@@ -8802,8 +8788,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

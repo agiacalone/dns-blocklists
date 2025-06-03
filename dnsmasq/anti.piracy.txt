@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 14:34 UTC
-# Version: 2025.0602.1434.56
+# Last modified: 03 Jun 2025 02:39 UTC
+# Version: 2025.0603.0239.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10115
+# Number of entries: 10097
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -1574,7 +1574,6 @@ local=/c1anime.net/
 local=/c1live.com/
 local=/c1movies.com/
 local=/c1ne.co/
-local=/c247.to/
 local=/c4crack.com/
 local=/c4cracksoftware.com/
 local=/rsweb.cachefly.net/
@@ -1641,12 +1640,10 @@ local=/catherinemacivor.com/
 local=/cb01.ac/
 local=/cb01.app/
 local=/cb01.asia/
-local=/cb01.bargains/
 local=/cb01.blog/
 local=/cb01.boats/
 local=/cb01.builders/
 local=/cb01.capital/
-local=/cb01.cards/
 local=/cb01.cfd/
 local=/cb01.charity/
 local=/cb01.cleaning/
@@ -1657,32 +1654,26 @@ local=/cb01.cn/
 local=/cb01.co/
 local=/cb01.coach/
 local=/cb01.codes/
-local=/cb01.college/
 local=/cb01.com/
 local=/cb01.community/
 local=/cb01.construction/
 local=/cb01.contractors/
 local=/cb01.credit/
-local=/cb01.dance/
 local=/cb01.de/
 local=/cb01.delivery/
 local=/cb01.directory/
 local=/cb01.download/
 local=/cb01.eu/
 local=/cb01.events/
-local=/cb01.express/
 local=/cb01.farm/
 local=/cb01.film/
-local=/cb01.fitness/
 local=/cb01.fm/
 local=/cb01.fun/
 local=/cb01.giving/
 local=/cb01.golf/
-local=/cb01.group/
 local=/cb01.immo/
 local=/cb01.in/
 local=/cb01.info/
-local=/cb01.ink/
 local=/cb01.institute/
 local=/cb01.io/
 local=/cb01.irish/
@@ -1722,9 +1713,7 @@ local=/cb01.solutions/
 local=/cb01.studio/
 local=/cb01.su/
 local=/cb01.taxi/
-local=/cb01.tienda/
 local=/cb01.today/
-local=/cb01.tours/
 local=/cb01.training/
 local=/cb01.uno/
 local=/cb01.us/
@@ -1756,7 +1745,6 @@ local=/cdnz.one/
 local=/cdromance.com/
 local=/cdromance.org/
 local=/celerystresser.com/
-local=/central-torrent.eu/
 local=/centralflix.net/
 local=/certcommunity.org/
 local=/cestpasbien.org/
@@ -2021,7 +2009,6 @@ local=/kissanime.com.ru/
 local=/kloud.com.bd/
 local=/moddroid.com.co/
 local=/movies-watch.com.pk/
-local=/multicanais.com.br/
 local=/nagordola.com.bd/
 local=/www.nartlof.com.br/
 local=/netpoint.com.bd/
@@ -2085,7 +2072,6 @@ local=/convivea.com/
 local=/cool-torrent.pl/
 local=/coolmoviezone.online/
 local=/coolrom.com/
-local=/coolsanime.me/
 local=/coolwarez.com/
 local=/coolwareznik.net/
 local=/coppersurfer.tk/
@@ -2126,8 +2112,6 @@ local=/cpasbientorrent.fr/
 local=/cpasmieux.lol/
 local=/cpleft.com/
 local=/cpturbo.org/
-local=/crack.ms/
-local=/crack.nu/
 local=/crack-cd.com/
 local=/crack-cd.net/
 local=/crack4patch.com/
@@ -2300,7 +2284,6 @@ local=/yts.d4.re/
 local=/d4download.com/
 local=/bingoportal.da.ru/
 local=/daddylivehd1.click/
-local=/dadyflix.co/
 local=/dafunda.com/
 local=/extracker.dahrkael.net/
 local=/dailydown.net/
@@ -7141,7 +7124,6 @@ local=/redditnhlstreams.com/
 local=/redditsoccerstreams.org/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
-local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/

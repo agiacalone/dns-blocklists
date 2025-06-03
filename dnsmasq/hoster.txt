@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 02 Jun 2025 15:09 UTC
-# Version: 2025.0602.1509.15
+# Last modified: 02 Jun 2025 19:50 UTC
+# Version: 2025.0602.1950.08
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 2150
+# Number of entries: 2155
 #
 local=/000a.de/
 local=/000free.us/
@@ -905,6 +905,7 @@ local=/evc.net/
 local=/event-redeem.com/
 local=/events-games.com/
 local=/evenweb.com/
+local=/ewp.live/
 local=/exactpages.com/
 local=/exblog.jp/
 local=/excite.it/
@@ -1769,6 +1770,7 @@ local=/spintheblog.com/
 local=/sport-pro.de/
 local=/sportsontheweb.net/
 local=/spruz.com/
+local=/square.site/
 local=/square7.ch/
 local=/srv1.org/
 local=/ss-blog.jp/
@@ -1785,6 +1787,7 @@ local=/suchtis.de/
 local=/suomiblog.com/
 local=/superforum.fr/
 local=/superweb.ws/
+local=/surge.sh/
 local=/sv.gp/
 local=/sv-whatsapp.top/
 local=/svsy.my/
@@ -1960,6 +1963,7 @@ local=/vpswala.org/
 local=/vxub.com/
 local=/vxwezsp.cn/
 local=/vz.lc/
+local=/w3spaces.com/
 local=/wallinside.blog/
 local=/wallinside.com/
 local=/wallst.ru/
@@ -2070,6 +2074,7 @@ local=/win-blog.com/
 local=/alerts.wisc.edu/
 local=/wixsite.com/
 local=/wixstudio.com/
+local=/wixstudio.io/
 local=/wizzardsblog.com/
 local=/wopop.com/
 local=/wordpress.de/
