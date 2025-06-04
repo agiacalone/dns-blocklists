@@ -55,6 +55,7 @@
 @@||wallhaven.cc^
 @@||zcyph.cc^
 @@||priv.center^
+@@||google.cf^
 @@||freedium.cfd^
 @@||host.church^
 @@||life.church^
@@ -125,6 +126,8 @@
 @@||lunar.fyi^
 @@||recollect.fyi^
 @@||vercel.fyi^
+@@||google.ga^
+@@||mmo.ga^
 @@||gxcorner.games^
 @@||skystone.games^
 @@||cst.gdn^

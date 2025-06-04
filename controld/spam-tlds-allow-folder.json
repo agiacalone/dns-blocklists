@@ -1100,6 +1100,20 @@
       }
     },
     {
+      "PK": "google.cf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "google.ga",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "google.ml",
       "action": {
         "do": 1,
@@ -1885,6 +1899,13 @@
     },
     {
       "PK": "mkvtoolnix.download",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mmo.ga",
       "action": {
         "do": 1,
         "status": 1

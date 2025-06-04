@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jun 2025 14:33 UTC
-# Version: 2025.0603.1433.52
+# Last modified: 04 Jun 2025 02:38 UTC
+# Version: 2025.0604.0238.10
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10078
+# Number of entries: 10066
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -3851,13 +3851,11 @@ local=/gigapurbalingga.net/
 local=/gigapurbalinggaa.com/
 local=/gigatorrents.ws/
 local=/gingadaddy.com/
-local=/girlongirltorrents.com/
 local=/git.ir/
 local=/tornado-torrent.gitlab.io/
 local=/givegig.com/
 local=/givememmastreams.com/
 local=/givemenbastreams.com/
-local=/givemereddit.eu/
 local=/gk-network.net/
 local=/gktorrent.io/
 local=/gktorrent.pw/
@@ -3903,7 +3901,6 @@ local=/gogoanime3.cc/
 local=/gogoanimex.to/
 local=/gogomovies.to/
 local=/gogunlocked.com/
-local=/gojo.wtf/
 local=/goku.sx/
 local=/gokumovies.one/
 local=/gold-films.ru/
@@ -4004,7 +4001,6 @@ local=/guardaserie.bike/
 local=/guardaserie.biz/
 local=/guardaserie.black/
 local=/guardaserie.bond/
-local=/guardaserie.boo/
 local=/guardaserie.builders/
 local=/guardaserie.cam/
 local=/guardaserie.capital/
@@ -4033,7 +4029,6 @@ local=/guardaserie.irish/
 local=/guardaserie.it/
 local=/guardaserie.life/
 local=/guardaserie.limited/
-local=/guardaserie.lol/
 local=/guardaserie.markets/
 local=/guardaserie.media/
 local=/guardaserie.men/
@@ -4172,7 +4167,6 @@ local=/hdhome.org/
 local=/hdhublist.com/
 local=/hdlivemovies.com/
 local=/hdm.to/
-local=/hdmatch.club/
 local=/hdme.eu/
 local=/hdmovie14.net/
 local=/hdmovie2.com/
@@ -4242,8 +4236,6 @@ local=/hesgoal.name/
 local=/hesgoal.pro/
 local=/hesgoal.today/
 local=/hesgoal.watch/
-local=/hesgoal.world/
-local=/hesgoaled.com/
 local=/hesgoals.top/
 local=/hesgoaltv.me/
 local=/hevcbay.com/
@@ -4294,7 +4286,6 @@ local=/hlusoe.info/
 local=/hobby-hacker.com/
 local=/hoerbuch.us/
 local=/hoerspielprojekt.de/
-local=/hoichoi24.com/
 local=/holaanime.to/
 local=/hollabackonline.com/
 local=/hollymoviehd.cc/
@@ -4361,7 +4352,6 @@ local=/iartbot.ru/
 local=/movies.iatout.fr/
 local=/ibdplex.net/
 local=/ibooks.to/
-local=/iboxbd.club/
 local=/trackers.ibzu.me/
 local=/icefilms.info/
 local=/icefilms-info.com/
@@ -4417,7 +4407,6 @@ local=/ilgeniodellostreaming.info/
 local=/ilgeniodellostreaming.io/
 local=/ilgeniodellostreaming.ist/
 local=/ilgeniodellostreaming.it/
-local=/ilgeniodellostreaming.la/
 local=/ilgeniodellostreaming.lat/
 local=/ilgeniodellostreaming.live/
 local=/ilgeniodellostreaming.me/
@@ -7104,7 +7093,6 @@ local=/redditnhlstreams.com/
 local=/redditsoccerstreams.org/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
-local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/

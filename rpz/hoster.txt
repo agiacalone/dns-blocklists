@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748946300 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748989680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jun 2025 10:25 UTC
-; Version: 2025.0603.1025.39
+; Last modified: 03 Jun 2025 22:28 UTC
+; Version: 2025.0603.2228.19
 ; Syntax: RPZ
-; Number of entries: 4308
+; Number of entries: 4306
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -2475,8 +2475,6 @@ forumactif.fr CNAME .
 *.forumactif.fr CNAME .
 forumpro.fr CNAME .
 *.forumpro.fr CNAME .
-gymshark-france.fr CNAME .
-*.gymshark-france.fr CNAME .
 jeun.fr CNAME .
 *.jeun.fr CNAME .
 blog.lemonde.fr CNAME .

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748962380 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749005880 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jun 2025 14:53 UTC
-; Version: 2025.0603.1453.59
+; Last modified: 04 Jun 2025 02:58 UTC
+; Version: 2025.0604.0258.45
 ; Syntax: RPZ
-; Number of entries: 9712
+; Number of entries: 9694
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -2020,8 +2020,6 @@ heroproxy.com CNAME .
 *.heroproxy.com CNAME .
 httpdns-push.heytapmobile.com CNAME .
 *.httpdns-push.heytapmobile.com CNAME .
-info.hhoiltools.com CNAME .
-*.info.hhoiltools.com CNAME .
 hide-my-ip.com CNAME .
 *.hide-my-ip.com CNAME .
 hideallip.com CNAME .
@@ -2088,14 +2086,6 @@ hotspotshield.com CNAME .
 *.hotspotshield.com CNAME .
 hotspotvpn.com CNAME .
 *.hotspotvpn.com CNAME .
-hotunixispeak.hotunix.com CNAME .
-*.hotunixispeak.hotunix.com CNAME .
-rmerheadonionlink.hotunix.com CNAME .
-*.rmerheadonionlink.hotunix.com CNAME .
-schoology.hotunix.com CNAME .
-*.schoology.hotunix.com CNAME .
-somuchpeakk.hotunix.com CNAME .
-*.somuchpeakk.hotunix.com CNAME .
 hoxx.com CNAME .
 *.hoxx.com CNAME .
 hsselite.com CNAME .
@@ -2596,8 +2586,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4326,8 +4314,6 @@ dns.hanmey.de CNAME .
 *.dns.hanmey.de CNAME .
 doh.hottis.de CNAME .
 *.doh.hottis.de CNAME .
-travel.connect.hqcloud.de CNAME .
-*.travel.connect.hqcloud.de CNAME .
 i2p-projekt.de CNAME .
 *.i2p-projekt.de CNAME .
 webproxy.ich-war-hier.de CNAME .
@@ -9282,8 +9268,6 @@ leeway.uz CNAME .
 *.leeway.uz CNAME .
 greenbeandean.hs.vc CNAME .
 *.greenbeandean.hs.vc CNAME .
-jahyussif.hs.vc CNAME .
-*.jahyussif.hs.vc CNAME .
 bighawk.webs.vc CNAME .
 *.bighawk.webs.vc CNAME .
 higuysfr.webs.vc CNAME .
@@ -9544,8 +9528,6 @@ ikarosalpha.xyz CNAME .
 *.ikarosalpha.xyz CNAME .
 ivnkn.xyz CNAME .
 *.ivnkn.xyz CNAME .
-mmm-yummy-tasty.jakesthoughts.xyz CNAME .
-*.mmm-yummy-tasty.jakesthoughts.xyz CNAME .
 jamesisbald.xyz CNAME .
 *.jamesisbald.xyz CNAME .
 tj.jamesxue.xyz CNAME .

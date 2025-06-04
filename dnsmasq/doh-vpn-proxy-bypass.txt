@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jun 2025 14:53 UTC
-# Version: 2025.0603.1453.59
+# Last modified: 04 Jun 2025 02:58 UTC
+# Version: 2025.0604.0258.45
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4856
+# Number of entries: 4847
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1825,7 +1825,6 @@ local=/herbalserver.me/
 local=/betternet-backend.herokuapp.com/
 local=/heroproxy.com/
 local=/httpdns-push.heytapmobile.com/
-local=/info.hhoiltools.com/
 local=/hiddendigital.info/
 local=/hiddenproxy.net/
 local=/hide.me/
@@ -1928,18 +1927,12 @@ local=/hotspotshield.com/
 local=/hotspotvpn.com/
 local=/dns.hotta.page/
 local=/doh.hottis.de/
-local=/hotunixispeak.hotunix.com/
-local=/rmerheadonionlink.hotunix.com/
-local=/schoology.hotunix.com/
-local=/somuchpeakk.hotunix.com/
 local=/howdy.id/
 local=/hoxx.com/
 local=/hoxx.net/
 local=/hoyofun.xyz/
 local=/ajmal.hpc.tw/
-local=/travel.connect.hqcloud.de/
 local=/greenbeandean.hs.vc/
-local=/jahyussif.hs.vc/
 local=/be.hse.tw/
 local=/code.edu.hse.tw/
 local=/hshh.org/
@@ -2113,7 +2106,6 @@ local=/jagoanssh.com/
 local=/jailbreaked.net/
 local=/sm6.jake.eu/
 local=/tesutorender.jake.eu/
-local=/mmm-yummy-tasty.jakesthoughts.xyz/
 local=/jamesisbald.xyz/
 local=/tj.jamesxue.xyz/
 local=/janathanmahes-mysharepoint.com/
@@ -2634,7 +2626,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/

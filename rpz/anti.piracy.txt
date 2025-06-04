@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748961180 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749004680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jun 2025 14:33 UTC
-; Version: 2025.0603.1433.52
+; Last modified: 04 Jun 2025 02:38 UTC
+; Version: 2025.0604.0238.10
 ; Syntax: RPZ
-; Number of entries: 20156
+; Number of entries: 20132
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -749,8 +749,6 @@ eurostreaming.boo CNAME .
 *.eurostreaming.boo CNAME .
 filmpertutti.boo CNAME .
 *.filmpertutti.boo CNAME .
-guardaserie.boo CNAME .
-*.guardaserie.boo CNAME .
 ilgeniodellostreaming.boo CNAME .
 *.ilgeniodellostreaming.boo CNAME .
 altadefinizione01.boutique CNAME .
@@ -1203,8 +1201,6 @@ radioarchive.cc CNAME .
 *.radioarchive.cc CNAME .
 rarbg.cc CNAME .
 *.rarbg.cc CNAME .
-redditsport.cc CNAME .
-*.redditsport.cc CNAME .
 rips.cc CNAME .
 *.rips.cc CNAME .
 rlsbb.cc CNAME .
@@ -1587,14 +1583,10 @@ guardaserie.club CNAME .
 *.guardaserie.club CNAME .
 tracker.hdarea.club CNAME .
 *.tracker.hdarea.club CNAME .
-hdmatch.club CNAME .
-*.hdmatch.club CNAME .
 tracker.hdstreet.club CNAME .
 *.tracker.hdstreet.club CNAME .
 i123movies.club CNAME .
 *.i123movies.club CNAME .
-iboxbd.club CNAME .
-*.iboxbd.club CNAME .
 icouchtuner.club CNAME .
 *.icouchtuner.club CNAME .
 iplive.club CNAME .
@@ -4211,8 +4203,6 @@ gigapurbalinggaa.com CNAME .
 *.gigapurbalinggaa.com CNAME .
 gingadaddy.com CNAME .
 *.gingadaddy.com CNAME .
-girlongirltorrents.com CNAME .
-*.girlongirltorrents.com CNAME .
 givegig.com CNAME .
 *.givegig.com CNAME .
 givememmastreams.com CNAME .
@@ -4381,8 +4371,6 @@ xtremex.herokuapp.com CNAME .
 *.xtremex.herokuapp.com CNAME .
 herowarez.com CNAME .
 *.herowarez.com CNAME .
-hesgoaled.com CNAME .
-*.hesgoaled.com CNAME .
 hevcbay.com CNAME .
 *.hevcbay.com CNAME .
 hexari.com CNAME .
@@ -4411,8 +4399,6 @@ hlscat.com CNAME .
 *.hlscat.com CNAME .
 hobby-hacker.com CNAME .
 *.hobby-hacker.com CNAME .
-hoichoi24.com CNAME .
-*.hoichoi24.com CNAME .
 hollabackonline.com CNAME .
 *.hollabackonline.com CNAME .
 hollymoviehd.com CNAME .
@@ -8197,8 +8183,6 @@ gamecopyworld.eu CNAME .
 *.gamecopyworld.eu CNAME .
 gidonline.eu CNAME .
 *.gidonline.eu CNAME .
-givemereddit.eu CNAME .
-*.givemereddit.eu CNAME .
 gostream.eu CNAME .
 *.gostream.eu CNAME .
 guardaserie.eu CNAME .
@@ -9987,8 +9971,6 @@ divxtotal.la CNAME .
 *.divxtotal.la CNAME .
 dood.la CNAME .
 *.dood.la CNAME .
-ilgeniodellostreaming.la CNAME .
-*.ilgeniodellostreaming.la CNAME .
 lookmovie.la CNAME .
 *.lookmovie.la CNAME .
 lookmovie2.la CNAME .
@@ -10551,8 +10533,6 @@ flixhq.lol CNAME .
 *.flixhq.lol CNAME .
 guardarefilm.lol CNAME .
 *.guardarefilm.lol CNAME .
-guardaserie.lol CNAME .
-*.guardaserie.lol CNAME .
 kinox.lol CNAME .
 *.kinox.lol CNAME .
 movies.levrx.lol CNAME .
@@ -19513,8 +19493,6 @@ gamebounty.world CNAME .
 *.gamebounty.world CNAME .
 hdf.world CNAME .
 *.hdf.world CNAME .
-hesgoal.world CNAME .
-*.hesgoal.world CNAME .
 igram.world CNAME .
 *.igram.world CNAME .
 ilgeniodellostreaming.world CNAME .
@@ -19775,8 +19753,6 @@ watchepisodeseries.bypassed.wtf CNAME .
 *.watchepisodeseries.bypassed.wtf CNAME .
 fmovies.wtf CNAME .
 *.fmovies.wtf CNAME .
-gojo.wtf CNAME .
-*.gojo.wtf CNAME .
 guardaserie.wtf CNAME .
 *.guardaserie.wtf CNAME .
 ipstresser.wtf CNAME .

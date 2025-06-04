@@ -274,6 +274,13 @@
       }
     },
     {
+      "PK": "*.cf",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cfd",
       "action": {
         "do": 0,
@@ -694,6 +701,13 @@
       }
     },
     {
+      "PK": "*.ga",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.games",
       "action": {
         "do": 0,
@@ -751,6 +765,13 @@
     },
     {
       "PK": "*.golf",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.gq",
       "action": {
         "do": 0,
         "status": 1
@@ -1605,6 +1626,13 @@
     },
     {
       "PK": "*.taxi",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tel",
       "action": {
         "do": 0,
         "status": 1

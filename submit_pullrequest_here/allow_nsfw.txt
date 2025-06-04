@@ -18,6 +18,7 @@
 *.reddit.com
 *.rentry.co
 *.t.me
+benefitsatwork.be
 catflix.su
 channel5.com
 do7go.com

@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748946420 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1748989740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jun 2025 10:27 UTC
-; Version: 2025.0603.1027.07
+; Last modified: 03 Jun 2025 22:29 UTC
+; Version: 2025.0603.2229.50
 ; Syntax: RPZ
-; Number of entries: 11782
+; Number of entries: 11776
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -366,8 +366,6 @@ read.bi CNAME .
 *.read.bi CNAME .
 scr.bi CNAME .
 *.scr.bi CNAME .
-zum.bi CNAME .
-*.zum.bi CNAME .
 cutit.bid CNAME .
 *.cutit.bid CNAME .
 short.bid CNAME .
@@ -3292,6 +3290,8 @@ usheethe.com CNAME .
 *.usheethe.com CNAME .
 usps-v2.com CNAME .
 *.usps-v2.com CNAME .
+usreviewers.com CNAME .
+*.usreviewers.com CNAME .
 utracky.com CNAME .
 *.utracky.com CNAME .
 utraker.com CNAME .
@@ -5368,8 +5368,6 @@ ho.io CNAME .
 *.ho.io CNAME .
 hts.io CNAME .
 *.hts.io CNAME .
-iiil.io CNAME .
-*.iiil.io CNAME .
 iln.io CNAME .
 *.iln.io CNAME .
 ilnk.io CNAME .
@@ -6388,8 +6386,6 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -10074,8 +10070,6 @@ empukjeru.site CNAME .
 *.empukjeru.site CNAME .
 gglink.site CNAME .
 *.gglink.site CNAME .
-glowin88.site CNAME .
-*.glowin88.site CNAME .
 infs.site CNAME .
 *.infs.site CNAME .
 justreleased.site CNAME .
@@ -11500,8 +11494,6 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
-titok.website CNAME .
-*.titok.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .
@@ -11784,6 +11776,8 @@ trackpw.xyz CNAME .
 *.trackpw.xyz CNAME .
 trpd.xyz CNAME .
 *.trpd.xyz CNAME .
+url-s.xyz CNAME .
+*.url-s.xyz CNAME .
 vtru.xyz CNAME .
 *.vtru.xyz CNAME .
 url.webof.xyz CNAME .

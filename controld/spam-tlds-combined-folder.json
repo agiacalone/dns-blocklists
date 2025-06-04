@@ -693,6 +693,13 @@
       }
     },
     {
+      "PK": "*.cf",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "*.cfd",
       "action": {
         "do": 0,
@@ -1687,6 +1694,13 @@
       }
     },
     {
+      "PK": "*.ga",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "gamedev.place",
       "action": {
         "do": 1,
@@ -1848,6 +1862,20 @@
       }
     },
     {
+      "PK": "google.cf",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "google.ga",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "google.ml",
       "action": {
         "do": 1,
@@ -1879,6 +1907,13 @@
       "PK": "gov-img.site",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.gq",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
@@ -2915,6 +2950,13 @@
       "PK": "*.ml",
       "action": {
         "do": 0,
+        "status": 1
+      }
+    },
+    {
+      "PK": "mmo.ga",
+      "action": {
+        "do": 1,
         "status": 1
       }
     },
@@ -4581,6 +4623,13 @@
       "PK": "tech.lgbt",
       "action": {
         "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "*.tel",
+      "action": {
+        "do": 0,
         "status": 1
       }
     },
