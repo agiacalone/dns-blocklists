@@ -659,6 +659,13 @@
       }
     },
     {
+      "PK": "dict.cc",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "digipres.club",
       "action": {
         "do": 1,

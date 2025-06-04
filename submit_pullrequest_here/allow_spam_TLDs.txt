@@ -47,6 +47,7 @@ sideb.buzz
 scalable.capital
 commonspirit.careers
 nabu.casa
+dict.cc
 fanbox.cc
 postimg.cc
 rapidcdn.cc
