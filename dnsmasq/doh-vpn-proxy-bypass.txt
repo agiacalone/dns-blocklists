@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jun 2025 02:58 UTC
-# Version: 2025.0604.0258.45
+# Last modified: 04 Jun 2025 16:40 UTC
+# Version: 2025.0604.1640.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4847
+# Number of entries: 4852
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -368,6 +368,7 @@ local=/africa.avastdns.com/
 local=/secure.avastdns.com/
 local=/vps.avc.cx/
 local=/adguard.avdkishore.dev/
+local=/use.averillcreek.ca/
 local=/avira-vpn.com/
 local=/avira-vpn.net/
 local=/avoidance.info/
@@ -670,6 +671,7 @@ local=/kusogakill.cinedemedianoche.cl/
 local=/doh.cippapp.com/
 local=/canadianshield.cira.ca/
 local=/dns.circl.lu/
+local=/circoscampus.circosdesigns.com/
 local=/circumvent.it/
 local=/mus.cisco.com/
 local=/ciscossh.com/
@@ -1063,6 +1065,7 @@ local=/desertsand.us/
 local=/adguard.lege.despagne.net/
 local=/doh-primary-pool.detoxifypornblocker.com/
 local=/dns.dev-umbrellagov.com/
+local=/learn.devmon.ru/
 local=/study.know.devreler.com/
 local=/dewassh.net/
 local=/mainframe.dewed.de/
@@ -1932,6 +1935,7 @@ local=/hoxx.com/
 local=/hoxx.net/
 local=/hoyofun.xyz/
 local=/ajmal.hpc.tw/
+local=/studyhubs.hqcloud.de/
 local=/greenbeandean.hs.vc/
 local=/be.hse.tw/
 local=/code.edu.hse.tw/
@@ -2110,6 +2114,7 @@ local=/jamesisbald.xyz/
 local=/tj.jamesxue.xyz/
 local=/janathanmahes-mysharepoint.com/
 local=/dns.janl.eu/
+local=/study.japhar.com/
 local=/px.jarnus.xyz/
 local=/transit.javierblog.com/
 local=/state.gov.jaycloudlab.com/
@@ -2205,9 +2210,7 @@ local=/adg.khon.dev/
 local=/adguard.kiboko.it/
 local=/kickassproxy.com/
 local=/doh.kidzonet.io/
-local=/travel.kigurun.ru/
 local=/kilabit.info/
-local=/kiliclar.lol/
 local=/doh.killtw.im/
 local=/blog.kimiblock.top/
 local=/kingsurfproxy.com/
@@ -2258,7 +2261,6 @@ local=/kyoheitensai.com/
 local=/agh.kyusang.win/
 local=/l-am-sigma.pro/
 local=/dns.l337.site/
-local=/adamz2eso.l5.ca/
 local=/classroom.google.com.l5.ca/
 local=/docs.google.l5.ca/
 local=/quesosrammerhaha.l5.ca/
@@ -2372,7 +2374,6 @@ local=/edu.loskks.org/
 local=/lotofabric.ru/
 local=/loubonde.xyz/
 local=/bolt.louis-ip.com/
-local=/eiken-jp.lozan.com/
 local=/koolaid.lozan.com/
 local=/worldwaronehistory.lozan.com/
 local=/n5.lsasss.com/
@@ -2494,7 +2495,6 @@ local=/doh.micronets.in/
 local=/microvpn.com/
 local=/interstellar.midnite.space/
 local=/www-proxy.migastep.com/
-local=/rammerdaze.miguelarevalo.es/
 local=/dns.mihanentalpo.me/
 local=/dns.mikeliu.org/
 local=/mikezhang.xyz/
@@ -2562,6 +2562,7 @@ local=/mullvad.net/
 local=/lab.proof.multi.hk/
 local=/blockerads.multimediaconcept.fr/
 local=/in.multiverse.college/
+local=/use.muna.com/
 local=/dns.murgi.de/
 local=/this-is-for-wave-bru.music-menges.si/
 local=/sci.brain.musictherapyinscotland.com/
@@ -3456,6 +3457,7 @@ local=/renardbleu.dev/
 local=/dns.renardyre.com/
 local=/dns.repinger.com/
 local=/repocket.co/
+local=/travelreprap.reprap.eu/
 local=/dns.repressoh.it/
 local=/restaurantgift.us/
 local=/dnspub.restena.lu/
@@ -3792,6 +3794,7 @@ local=/doh.ntu.ssooss.win/
 local=/dns.sstomp.nl/
 local=/stable-vpn.com/
 local=/stackfront.xyz/
+local=/auraaa.staffordesq.com/
 local=/use.star.is/
 local=/tests.data.stardustcommercialservices.com/
 local=/stargate.one/
@@ -4051,6 +4054,7 @@ local=/tigervpn.com/
 local=/tigrons.ru/
 local=/tikvpn.com/
 local=/tildenderek.store/
+local=/timedns.net/
 local=/timetohide.me/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
@@ -4149,6 +4153,7 @@ local=/turbovpn.co/
 local=/turbovpn.com/
 local=/turmericrecipes.com/
 local=/tuskythehusky.tech/
+local=/edutours.tuumin.net/
 local=/globalstudents.tuumin.net/
 local=/learninghub.tuumin.net/
 local=/tuvpn.com/

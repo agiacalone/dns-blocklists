@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1748989740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749037920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 03 Jun 2025 22:29 UTC
-; Version: 2025.0603.2229.50
+; Last modified: 04 Jun 2025 11:52 UTC
+; Version: 2025.0604.1152.42
 ; Syntax: RPZ
-; Number of entries: 11776
+; Number of entries: 11760
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2290,8 +2290,6 @@ travslyf.katatillo.com CNAME .
 *.travslyf.katatillo.com CNAME .
 katespadesneakpeek.com CNAME .
 *.katespadesneakpeek.com CNAME .
-kawanzeus.com CNAME .
-*.kawanzeus.com CNAME .
 kbalq.com CNAME .
 *.kbalq.com CNAME .
 kbxul.com CNAME .
@@ -2326,8 +2324,6 @@ lavtp.com CNAME .
 *.lavtp.com CNAME .
 lbocc.com CNAME .
 *.lbocc.com CNAME .
-leitup.com CNAME .
-*.leitup.com CNAME .
 lighthouse-scholarship.com CNAME .
 *.lighthouse-scholarship.com CNAME .
 lihi1.com CNAME .
@@ -2356,8 +2352,6 @@ linkbun.com CNAME .
 *.linkbun.com CNAME .
 linkclickcounter.com CNAME .
 *.linkclickcounter.com CNAME .
-linkcrypter.com CNAME .
-*.linkcrypter.com CNAME .
 linkcutt.com CNAME .
 *.linkcutt.com CNAME .
 linkedin-jobmkt.com CNAME .
@@ -6288,8 +6282,6 @@ join-live-cam.life CNAME .
 *.join-live-cam.life CNAME .
 josue-p-ellis-co.life CNAME .
 *.josue-p-ellis-co.life CNAME .
-juragankoin88.life CNAME .
-*.juragankoin88.life CNAME .
 k-chapman.life CNAME .
 *.k-chapman.life CNAME .
 kaggi-karr.life CNAME .
@@ -6300,8 +6292,6 @@ kapten69.life CNAME .
 *.kapten69.life CNAME .
 karisaathman346.life CNAME .
 *.karisaathman346.life CNAME .
-kerang.life CNAME .
-*.kerang.life CNAME .
 kosniem79.life CNAME .
 *.kosniem79.life CNAME .
 krishnaraosivaramas.life CNAME .
@@ -7120,8 +7110,6 @@ kolstadhandball.live CNAME .
 *.kolstadhandball.live CNAME .
 kopo.live CNAME .
 *.kopo.live CNAME .
-ligacash88.live CNAME .
-*.ligacash88.live CNAME .
 limiteds.live CNAME .
 *.limiteds.live CNAME .
 linkmpomax.live CNAME .
@@ -8446,8 +8434,6 @@ katzr.net CNAME .
 *.katzr.net CNAME .
 l9k.net CNAME .
 *.l9k.net CNAME .
-laralink.net CNAME .
-*.laralink.net CNAME .
 url.lcisd.net CNAME .
 *.url.lcisd.net CNAME .
 lessnmore.net CNAME .
@@ -11142,8 +11128,6 @@ coop.uk CNAME .
 *.coop.uk CNAME .
 f4d.uk CNAME .
 *.f4d.uk CNAME .
-linkr.uk CNAME .
-*.linkr.uk CNAME .
 masy.uk CNAME .
 *.masy.uk CNAME .
 msatt.uk CNAME .

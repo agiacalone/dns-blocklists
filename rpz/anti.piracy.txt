@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749004680 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749053820 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jun 2025 02:38 UTC
-; Version: 2025.0604.0238.10
+; Last modified: 04 Jun 2025 16:17 UTC
+; Version: 2025.0604.1617.28
 ; Syntax: RPZ
-; Number of entries: 20132
+; Number of entries: 20114
 ;
 altadefinizione.ac CNAME .
 *.altadefinizione.ac CNAME .
@@ -1817,8 +1817,6 @@ italia-film.co CNAME .
 *.italia-film.co CNAME .
 jpmangas.co CNAME .
 *.jpmangas.co CNAME .
-juraganfilm.co CNAME .
-*.juraganfilm.co CNAME .
 kickassto.co CNAME .
 *.kickassto.co CNAME .
 kinoz.co CNAME .
@@ -4959,8 +4957,6 @@ mawtoload.com CNAME .
 *.mawtoload.com CNAME .
 max-rls.com CNAME .
 *.max-rls.com CNAME .
-maxidown.com CNAME .
-*.maxidown.com CNAME .
 mcead.com CNAME .
 *.mcead.com CNAME .
 mceapk.com CNAME .
@@ -5037,8 +5033,6 @@ mfilmeshd.com CNAME .
 *.mfilmeshd.com CNAME .
 micro-win.com CNAME .
 *.micro-win.com CNAME .
-midnight-scene.com CNAME .
-*.midnight-scene.com CNAME .
 midnightpulp.com CNAME .
 *.midnightpulp.com CNAME .
 minecrapk.com CNAME .
@@ -8537,8 +8531,6 @@ illimitestreaming.fr CNAME .
 *.illimitestreaming.fr CNAME .
 tracker.iriseden.fr CNAME .
 *.tracker.iriseden.fr CNAME .
-manga-addict.fr CNAME .
-*.manga-addict.fr CNAME .
 megadl.fr CNAME .
 *.megadl.fr CNAME .
 mes-meilleurs-films.fr CNAME .
@@ -12397,8 +12389,6 @@ mazedanetworks.net CNAME .
 *.mazedanetworks.net CNAME .
 mazetorrents.net CNAME .
 *.mazetorrents.net CNAME .
-fs1.mebd.net CNAME .
-*.fs1.mebd.net CNAME .
 mediaboxhd.net CNAME .
 *.mediaboxhd.net CNAME .
 medialink24.net CNAME .
@@ -16527,8 +16517,6 @@ klub777.ru CNAME .
 *.klub777.ru CNAME .
 knaben.ru CNAME .
 *.knaben.ru CNAME .
-layarkaca21.ru CNAME .
-*.layarkaca21.ru CNAME .
 leelo.ru CNAME .
 *.leelo.ru CNAME .
 line-net.ru CNAME .
@@ -17785,8 +17773,6 @@ katz.to CNAME .
 *.katz.to CNAME .
 kickass.to CNAME .
 *.kickass.to CNAME .
-kickme.to CNAME .
-*.kickme.to CNAME .
 kinomax.to CNAME .
 *.kinomax.to CNAME .
 kinos.to CNAME .
@@ -18573,10 +18559,6 @@ megaflix.tv CNAME .
 *.megaflix.tv CNAME .
 mejortorrent.tv CNAME .
 *.mejortorrent.tv CNAME .
-mendax.tv CNAME .
-*.mendax.tv CNAME .
-miniserials.tv CNAME .
-*.miniserials.tv CNAME .
 miomio.tv CNAME .
 *.miomio.tv CNAME .
 miruro.tv CNAME .

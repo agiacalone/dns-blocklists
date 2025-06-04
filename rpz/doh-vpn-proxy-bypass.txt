@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749005880 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749055200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jun 2025 02:58 UTC
-; Version: 2025.0604.0258.45
+; Last modified: 04 Jun 2025 16:40 UTC
+; Version: 2025.0604.1640.42
 ; Syntax: RPZ
-; Number of entries: 9694
+; Number of entries: 9704
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -388,6 +388,8 @@ dns.npe.bz CNAME .
 *.dns.npe.bz CNAME .
 theproxy.bz CNAME .
 *.theproxy.bz CNAME .
+use.averillcreek.ca CNAME .
+*.use.averillcreek.ca CNAME .
 canadianshield.cira.ca CNAME .
 *.canadianshield.cira.ca CNAME .
 cloaker.ca CNAME .
@@ -398,8 +400,6 @@ ag.ff0x.ca CNAME .
 *.ag.ff0x.ca CNAME .
 adguard.jfchenier.ca CNAME .
 *.adguard.jfchenier.ca CNAME .
-adamz2eso.l5.ca CNAME .
-*.adamz2eso.l5.ca CNAME .
 classroom.google.com.l5.ca CNAME .
 *.classroom.google.com.l5.ca CNAME .
 docs.google.l5.ca CNAME .
@@ -1394,6 +1394,8 @@ cienen.com CNAME .
 *.cienen.com CNAME .
 doh.cippapp.com CNAME .
 *.doh.cippapp.com CNAME .
+circoscampus.circosdesigns.com CNAME .
+*.circoscampus.circosdesigns.com CNAME .
 mus.cisco.com CNAME .
 *.mus.cisco.com CNAME .
 ciscossh.com CNAME .
@@ -2248,6 +2250,8 @@ jagoanssh.com CNAME .
 *.jagoanssh.com CNAME .
 janathanmahes-mysharepoint.com CNAME .
 *.janathanmahes-mysharepoint.com CNAME .
+study.japhar.com CNAME .
+*.study.japhar.com CNAME .
 transit.javierblog.com CNAME .
 *.transit.javierblog.com CNAME .
 state.gov.jaycloudlab.com CNAME .
@@ -2408,8 +2412,6 @@ lopana.com CNAME .
 *.lopana.com CNAME .
 bolt.louis-ip.com CNAME .
 *.bolt.louis-ip.com CNAME .
-eiken-jp.lozan.com CNAME .
-*.eiken-jp.lozan.com CNAME .
 koolaid.lozan.com CNAME .
 *.koolaid.lozan.com CNAME .
 worldwaronehistory.lozan.com CNAME .
@@ -2540,6 +2542,8 @@ ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
 muchproxy.com CNAME .
 *.muchproxy.com CNAME .
+use.muna.com CNAME .
+*.use.muna.com CNAME .
 sci.brain.musictherapyinscotland.com CNAME .
 *.sci.brain.musictherapyinscotland.com CNAME .
 ssl-proxy.my-addr.com CNAME .
@@ -3380,6 +3384,8 @@ sslunblocker.com CNAME .
 *.sslunblocker.com CNAME .
 stable-vpn.com CNAME .
 *.stable-vpn.com CNAME .
+auraaa.staffordesq.com CNAME .
+*.auraaa.staffordesq.com CNAME .
 tests.data.stardustcommercialservices.com CNAME .
 *.tests.data.stardustcommercialservices.com CNAME .
 task.words.starlordbob.com CNAME .
@@ -4314,6 +4320,8 @@ dns.hanmey.de CNAME .
 *.dns.hanmey.de CNAME .
 doh.hottis.de CNAME .
 *.doh.hottis.de CNAME .
+studyhubs.hqcloud.de CNAME .
+*.studyhubs.hqcloud.de CNAME .
 i2p-projekt.de CNAME .
 *.i2p-projekt.de CNAME .
 webproxy.ich-war-hier.de CNAME .
@@ -4550,8 +4558,6 @@ getproxi.es CNAME .
 *.getproxi.es CNAME .
 lowlow.jellyfl1x.es CNAME .
 *.lowlow.jellyfl1x.es CNAME .
-rammerdaze.miguelarevalo.es CNAME .
-*.rammerdaze.miguelarevalo.es CNAME .
 dns.paesa.es CNAME .
 *.dns.paesa.es CNAME .
 arxthegoat.ts0880.es CNAME .
@@ -4630,6 +4636,8 @@ proxyforfree.eu CNAME .
 *.proxyforfree.eu CNAME .
 proxyvpn.eu CNAME .
 *.proxyvpn.eu CNAME .
+travelreprap.reprap.eu CNAME .
+*.travelreprap.reprap.eu CNAME .
 au.rslvr.eu CNAME .
 *.au.rslvr.eu CNAME .
 bg.rslvr.eu CNAME .
@@ -5672,8 +5680,6 @@ stuffyschicken.isreallycool.lol CNAME .
 *.stuffyschicken.isreallycool.lol CNAME .
 johneldenring.lol CNAME .
 *.johneldenring.lol CNAME .
-kiliclar.lol CNAME .
-*.kiliclar.lol CNAME .
 lewsha.lol CNAME .
 *.lewsha.lol CNAME .
 myproxy.lol CNAME .
@@ -7020,6 +7026,8 @@ thexite.net CNAME .
 *.thexite.net CNAME .
 threeproxy.net CNAME .
 *.threeproxy.net CNAME .
+timedns.net CNAME .
+*.timedns.net CNAME .
 toolara.net CNAME .
 *.toolara.net CNAME .
 torguard.net CNAME .
@@ -7046,6 +7054,8 @@ tributh.net CNAME .
 *.tributh.net CNAME .
 tubeunblock.net CNAME .
 *.tubeunblock.net CNAME .
+edutours.tuumin.net CNAME .
+*.edutours.tuumin.net CNAME .
 globalstudents.tuumin.net CNAME .
 *.globalstudents.tuumin.net CNAME .
 learninghub.tuumin.net CNAME .
@@ -8506,6 +8516,8 @@ qual.cuprum.ru CNAME .
 *.qual.cuprum.ru CNAME .
 adguard.dekonix.ru CNAME .
 *.adguard.dekonix.ru CNAME .
+learn.devmon.ru CNAME .
+*.learn.devmon.ru CNAME .
 kahoot.it.dmtr.ru CNAME .
 *.kahoot.it.dmtr.ru CNAME .
 arjunthestinkyindian.dorsrv.ru CNAME .
@@ -8526,8 +8538,6 @@ dns.iamninja.ru CNAME .
 *.dns.iamninja.ru CNAME .
 vps.jmarkin.ru CNAME .
 *.vps.jmarkin.ru CNAME .
-travel.kigurun.ru CNAME .
-*.travel.kigurun.ru CNAME .
 dns.lashes-brow.ru CNAME .
 *.dns.lashes-brow.ru CNAME .
 lotofabric.ru CNAME .

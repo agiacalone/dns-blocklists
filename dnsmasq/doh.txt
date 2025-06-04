@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jun 2025 02:57 UTC
-# Version: 2025.0604.0257.13
+# Last modified: 04 Jun 2025 16:38 UTC
+# Version: 2025.0604.1638.56
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1437
+# Number of entries: 1438
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1327,6 +1327,7 @@ local=/jp.tiar.app/
 local=/doh.tiarap.org/
 local=/jp.tiarap.org/
 local=/tigrons.ru/
+local=/timedns.net/
 local=/timmes.nl/
 local=/adb.timnichollsphotography.com/
 local=/dns.tipsy.coffee/

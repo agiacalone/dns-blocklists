@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 03 Jun 2025 22:29 UTC
-# Version: 2025.0603.2229.50
+# Last modified: 04 Jun 2025 11:52 UTC
+# Version: 2025.0604.1152.42
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5888
+# Number of entries: 5880
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2426,7 +2426,6 @@ local=/jsparty.fm/
 local=/jtltl.info/
 local=/jtnhe.com/
 local=/ju.mp/
-local=/juragankoin88.life/
 local=/just.as/
 local=/justreleased.site/
 local=/jvjum.com/
@@ -2458,7 +2457,6 @@ local=/travslyf.katatillo.com/
 local=/katespadesneakpeek.com/
 local=/katwr.sbs/
 local=/katzr.net/
-local=/kawanzeus.com/
 local=/kbalq.com/
 local=/kbank.co/
 local=/kbifi.top/
@@ -2474,7 +2472,6 @@ local=/keepo.bio/
 local=/keepo.io/
 local=/kelzj.com/
 local=/kem.lu/
-local=/kerang.life/
 local=/keraskale.me/
 local=/kereta-vip.com/
 local=/kes.re/
@@ -2603,7 +2600,6 @@ local=/lammariom.dev/
 local=/go.lamotte.fr/
 local=/landoafterschool.com/
 local=/lapakwede.site/
-local=/laralink.net/
 local=/larindahooks.link/
 local=/larry-herndon-115.life/
 local=/larryherndon115inc.life/
@@ -2623,7 +2619,6 @@ local=/learnit.today/
 local=/lego.build/
 local=/leica.gs/
 local=/leit.link/
-local=/leitup.com/
 local=/lelink.in/
 local=/lemde.fr/
 local=/lenon.page/
@@ -2641,7 +2636,6 @@ local=/lienket.vn/
 local=/lieva.sbs/
 local=/lifeandtime.charity/
 local=/liga.win/
-local=/ligacash88.live/
 local=/lighthouse-scholarship.com/
 local=/lih.kg/
 local=/lihat.info/
@@ -2711,7 +2705,6 @@ local=/linkbun.ch/
 local=/linkbun.com/
 local=/linkclickcounter.com/
 local=/linkcloaker.pro/
-local=/linkcrypter.com/
 local=/linkcutt.com/
 local=/linkd.in/
 local=/linke.to/
@@ -2750,7 +2743,6 @@ local=/linkotw.live/
 local=/linkpays.in/
 local=/linkpop.com/
 local=/linkpug4d.com/
-local=/linkr.uk/
 local=/linkrefferal.vip/
 local=/links2.me/
 local=/links4money.com/

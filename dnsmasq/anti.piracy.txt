@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jun 2025 02:38 UTC
-# Version: 2025.0604.0238.10
+# Last modified: 04 Jun 2025 16:17 UTC
+# Version: 2025.0604.1617.28
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10066
+# Number of entries: 10057
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -4680,7 +4680,6 @@ local=/july25.com/
 local=/juraganfilm.asia/
 local=/juraganfilm.best/
 local=/juraganfilm.casa/
-local=/juraganfilm.co/
 local=/juraganfilm.com/
 local=/juraganfilm.icu/
 local=/juraganfilm.live/
@@ -4788,7 +4787,6 @@ local=/kickasstorrents.pw/
 local=/open.kickasstracker.com/
 local=/kickassunblock.com/
 local=/kickassunblock.info/
-local=/kickme.to/
 local=/tracker.0day.kiev.ua/
 local=/max2wwe.kilu.de/
 local=/kimanime.ru/
@@ -4965,7 +4963,6 @@ local=/latinbit.com/
 local=/pt.lax.mx/
 local=/layarkaca21.blue/
 local=/layarkaca21.com/
-local=/layarkaca21.ru/
 local=/layarkita.xyz/
 local=/layarlebar24.site/
 local=/layer-4.com/
@@ -5265,7 +5262,6 @@ local=/mamahd.ws/
 local=/mamahd.xyz/
 local=/mameworld.info/
 local=/mamul.am/
-local=/manga-addict.fr/
 local=/mangadex.org/
 local=/mangadex.tv/
 local=/mangafire.to/
@@ -5298,7 +5294,6 @@ local=/mathanosto.top/
 local=/matrix-virovitica.com/
 local=/mawtoload.com/
 local=/max-rls.com/
-local=/maxidown.com/
 local=/maxserie.live/
 local=/maxseries.top/
 local=/maxseries.xyz/
@@ -5318,7 +5313,6 @@ local=/mdk.cab/
 local=/cracks.me.uk/
 local=/me-4u.com/
 local=/meawfy.com/
-local=/fs1.mebd.net/
 local=/medbit.ru/
 local=/media-sharing.com/
 local=/media-torrent.org/
@@ -5414,7 +5408,6 @@ local=/mejortorrentt.net/
 local=/mejortorrentt.org/
 local=/melen.net/
 local=/melomaniacos.com/
-local=/mendax.tv/
 local=/merlinwz.com/
 local=/mes-ddl.com/
 local=/mes-meilleurs-films.fr/
@@ -5436,7 +5429,6 @@ local=/mgtracker.org/
 local=/mhtm.pl/
 local=/micro-win.com/
 local=/midiplex.net/
-local=/midnight-scene.com/
 local=/midnightpulp.com/
 local=/mikkisays.net/
 local=/milleniumlinks.de/
@@ -5452,7 +5444,6 @@ local=/minimalfreaks.co/
 local=/mininova.biz/
 local=/mininova.com/
 local=/mininova.org/
-local=/miniserials.tv/
 local=/minorstudio.com/
 local=/miobt.com/
 local=/miomio.tv/
