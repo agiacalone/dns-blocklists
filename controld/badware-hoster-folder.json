@@ -8968,13 +8968,6 @@
       }
     },
     {
-      "PK": "kraftonevent.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "kr.gp",
       "action": {
         "do": 0,
@@ -11426,13 +11419,6 @@
     },
     {
       "PK": "review-blogger.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "revk.uk",
       "action": {
         "do": 0,
         "status": 1
