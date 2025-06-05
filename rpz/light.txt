@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749128100 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749139920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Light DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2025 12:55 UTC
-; Version: 2025.0605.1255.15
+; Last modified: 05 Jun 2025 16:12 UTC
+; Version: 2025.0605.1612.52
 ; Syntax: RPZ
-; Number of entries: 90666
+; Number of entries: 90660
 ;
 smetrics.abbott CNAME .
 *.smetrics.abbott CNAME .
@@ -8893,8 +8893,6 @@ ads.adhostingsolutions.com CNAME .
 *.ads.adhostingsolutions.com CNAME .
 adhslx.com CNAME .
 *.adhslx.com CNAME .
-apply.adicate.com CNAME .
-*.apply.adicate.com CNAME .
 adikteev.com CNAME .
 *.adikteev.com CNAME .
 adimpact.com CNAME .
@@ -26757,8 +26755,6 @@ lp.growthtools.com CNAME .
 *.lp.growthtools.com CNAME .
 growthtransport.com CNAME .
 *.growthtransport.com CNAME .
-t.grtyv.com CNAME .
-*.t.grtyv.com CNAME .
 grubbyefficiency.com CNAME .
 *.grubbyefficiency.com CNAME .
 mi.grubhub.com CNAME .
@@ -73945,8 +73941,6 @@ s3s-main.net CNAME .
 *.s3s-main.net CNAME .
 s4f.net CNAME .
 *.s4f.net CNAME .
-preferences.safe-click.net CNAME .
-*.preferences.safe-click.net CNAME .
 saipsoan.net CNAME .
 *.saipsoan.net CNAME .
 salon1999.net CNAME .
@@ -75695,6 +75689,8 @@ zhoyyibwywgev.one CNAME .
 *.zhoyyibwywgev.one CNAME .
 znjdkvlhfvuuc.one CNAME .
 *.znjdkvlhfvuuc.one CNAME .
+apostle.onl CNAME .
+*.apostle.onl CNAME .
 cnet.onl CNAME .
 *.cnet.onl CNAME .
 pl-checkoutticket.onl CNAME .
@@ -82029,8 +82025,6 @@ kampanj.vismaspcs.se CNAME .
 *.kampanj.vismaspcs.se CNAME .
 vizzit.se CNAME .
 *.vizzit.se CNAME .
-stats.webstat.se CNAME .
-*.stats.webstat.se CNAME .
 webtraffic.se CNAME .
 *.webtraffic.se CNAME .
 riskid.security CNAME .

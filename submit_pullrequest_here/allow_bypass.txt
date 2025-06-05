@@ -59,3 +59,6 @@ mask-api.fe2.apple-dns.net
 *.mask.apple-dns.net
 mask-boot.icloud.com
 mask-canary.icloud.com
+
+# https://github.com/hagezi/dns-blocklists/issues/6422
+staging.apple-carry-relay.cloudflare.com

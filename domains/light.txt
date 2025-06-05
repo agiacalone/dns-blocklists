@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 12:55 UTC
-# Version: 2025.0605.1255.15
+# Last modified: 05 Jun 2025 16:12 UTC
+# Version: 2025.0605.1612.52
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 91370
+# Number of entries: 91367
 #
 000free.us
 000nethost.com
@@ -6597,7 +6597,6 @@ adhunt.net
 adiam.tech
 a.adiam.tech
 sdk.adiam.tech
-apply.adicate.com
 adiceltic.de
 adidas-gazelle.fr
 adikteev.com
@@ -12228,6 +12227,7 @@ apocalypsegulliblemood.com
 apokreaboil.shop
 apolloprogram.io
 apopfast.com
+apostle.onl
 apostlesouvenir.com
 apotheke-rezeptfrei.com
 apotube.com
@@ -48551,7 +48551,6 @@ grozz.biz
 grquadonaxobq.site
 grskayynfqwfe.space
 grsm.net
-t.grtyv.com
 grubbyefficiency.com
 mi.grubhub.com
 taplytics-umami.grubhub.com
@@ -73969,7 +73968,6 @@ api.sae.systems
 apm-rum.sae.systems
 safarioffice.pro
 safarioffice.world
-preferences.safe-click.net
 safeaccessapp.com
 safebrowsdv.com
 safedelivery.shop
@@ -87915,7 +87913,6 @@ webstat.com
 webstat.net
 hits.webstat.com
 hv3.webstat.com
-stats.webstat.se
 webstatistics.io
 webstats1.com
 webstats1.de

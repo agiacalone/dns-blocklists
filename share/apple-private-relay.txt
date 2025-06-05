@@ -31,3 +31,6 @@ apple-relay.mask.apple-dns.net
 mask-api.icloud.com
 # CNAME
 mask-api.fe2.apple-dns.net
+
+# https://github.com/hagezi/dns-blocklists/issues/6422
+apple-carry-relay.cloudflare.com

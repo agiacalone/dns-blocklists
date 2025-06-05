@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 12:55 UTC
-# Version: 2025.0605.1255.15
+# Last modified: 05 Jun 2025 16:12 UTC
+# Version: 2025.0605.1612.52
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 45333
+# Number of entries: 45330
 #
 local=/000free.us/
 local=/000nethost.com/
@@ -1918,7 +1918,6 @@ local=/adhslx.com/
 local=/adhub.digital/
 local=/adhunt.net/
 local=/adiam.tech/
-local=/apply.adicate.com/
 local=/adiceltic.de/
 local=/adidas-gazelle.fr/
 local=/adikteev.com/
@@ -4435,6 +4434,7 @@ local=/apocalypsegulliblemood.com/
 local=/apokreaboil.shop/
 local=/apolloprogram.io/
 local=/apopfast.com/
+local=/apostle.onl/
 local=/apostlesouvenir.com/
 local=/apotheke-rezeptfrei.com/
 local=/apotube.com/
@@ -19046,7 +19046,6 @@ local=/grozz.biz/
 local=/grquadonaxobq.site/
 local=/grskayynfqwfe.space/
 local=/grsm.net/
-local=/t.grtyv.com/
 local=/grubbyefficiency.com/
 local=/mi.grubhub.com/
 local=/taplytics-umami.grubhub.com/
@@ -34183,7 +34182,6 @@ local=/api.sae.systems/
 local=/apm-rum.sae.systems/
 local=/safarioffice.pro/
 local=/safarioffice.world/
-local=/preferences.safe-click.net/
 local=/safeaccessapp.com/
 local=/safebrowsdv.com/
 local=/safedelivery.shop/
@@ -42817,7 +42815,6 @@ local=/webspyshield.com/
 local=/stats.webstarts.com/
 local=/webstat.com/
 local=/webstat.net/
-local=/stats.webstat.se/
 local=/webstatistics.io/
 local=/webstats1.com/
 local=/webstats1.de/
