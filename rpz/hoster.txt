@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749074340 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749117540 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jun 2025 21:59 UTC
-; Version: 2025.0604.2159.48
+; Last modified: 05 Jun 2025 09:59 UTC
+; Version: 2025.0605.0959.55
 ; Syntax: RPZ
-; Number of entries: 4300
+; Number of entries: 4294
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -3337,8 +3337,6 @@ pointblog.net CNAME .
 *.pointblog.net CNAME .
 ql4h.net CNAME .
 *.ql4h.net CNAME .
-rdtre.net CNAME .
-*.rdtre.net CNAME .
 recentblog.net CNAME .
 *.recentblog.net CNAME .
 rigala.net CNAME .
@@ -4017,8 +4015,6 @@ spaintrade.shop CNAME .
 *.spaintrade.shop CNAME .
 taselavmy.shop CNAME .
 *.taselavmy.shop CNAME .
-taxescosts.shop CNAME .
-*.taxescosts.shop CNAME .
 teenradio.shop CNAME .
 *.teenradio.shop CNAME .
 temu-jp.shop CNAME .
@@ -4031,8 +4027,6 @@ ultimatescrubsmore.shop CNAME .
 *.ultimatescrubsmore.shop CNAME .
 videopaul.shop CNAME .
 *.videopaul.shop CNAME .
-wantedland.shop CNAME .
-*.wantedland.shop CNAME .
 xinei.shop CNAME .
 *.xinei.shop CNAME .
 zapacesauto.shop CNAME .

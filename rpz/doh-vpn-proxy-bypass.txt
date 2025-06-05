@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749091740 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749135600 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2025 02:49 UTC
-; Version: 2025.0605.0249.50
+; Last modified: 05 Jun 2025 15:00 UTC
+; Version: 2025.0605.1500.47
 ; Syntax: RPZ
-; Number of entries: 9690
+; Number of entries: 9696
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -34,6 +34,8 @@ onion.am CNAME .
 *.onion.am CNAME .
 proxy.am CNAME .
 *.proxy.am CNAME .
+bio.goal.trans.am CNAME .
+*.bio.goal.trans.am CNAME .
 123music.app CNAME .
 *.123music.app CNAME .
 123proxy.app CNAME .
@@ -556,6 +558,8 @@ dns2.digitale-gesellschaft.ch CNAME .
 *.dns2.digitale-gesellschaft.ch CNAME .
 sigma.elettro-pio.ch CNAME .
 *.sigma.elettro-pio.ch CNAME .
+atom.area.freemath.ch CNAME .
+*.atom.area.freemath.ch CNAME .
 doh.immerda.ch CNAME .
 *.doh.immerda.ch CNAME .
 bak2skewl.konpan.ch CNAME .
@@ -628,6 +632,8 @@ i-like-my-cheese-drippy-bruh.iamasigma.cognus.cl CNAME .
 *.i-like-my-cheese-drippy-bruh.iamasigma.cognus.cl CNAME .
 circlegeometry.conexioncircular.cl CNAME .
 *.circlegeometry.conexioncircular.cl CNAME .
+moremathat.conexioncircular.cl CNAME .
+*.moremathat.conexioncircular.cl CNAME .
 concitedll.conifera.cl CNAME .
 *.concitedll.conifera.cl CNAME .
 ab.ctx.cl CNAME .
@@ -1378,6 +1384,8 @@ mathiseasy.chickenkiller.com CNAME .
 *.mathiseasy.chickenkiller.com CNAME .
 nathanlikesgames.chickenkiller.com CNAME .
 *.nathanlikesgames.chickenkiller.com CNAME .
+oluka.chickenkiller.com CNAME .
+*.oluka.chickenkiller.com CNAME .
 whydidiask.chickenkiller.com CNAME .
 *.whydidiask.chickenkiller.com CNAME .
 chillglobal.com CNAME .
@@ -1656,8 +1664,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2128,6 +2134,8 @@ idolproxy.com CNAME .
 *.idolproxy.com CNAME .
 ietors.com CNAME .
 *.ietors.com CNAME .
+heb1.ignorelist.com CNAME .
+*.heb1.ignorelist.com CNAME .
 subscribe-to-vcsa.ignorelist.com CNAME .
 *.subscribe-to-vcsa.ignorelist.com CNAME .
 test52139.ignorelist.com CNAME .
@@ -2524,6 +2532,8 @@ dns.moonssif.com CNAME .
 *.dns.moonssif.com CNAME .
 aahfgdd.mooo.com CNAME .
 *.aahfgdd.mooo.com CNAME .
+aleks.readtheory.com.mooo.com CNAME .
+*.aleks.readtheory.com.mooo.com CNAME .
 propeller.catapzlt.rohu.mooo.com CNAME .
 *.propeller.catapzlt.rohu.mooo.com CNAME .
 morevpn.com CNAME .
@@ -2590,8 +2600,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3082,8 +3090,6 @@ public-is-wonderful.publicvm.com CNAME .
 *.public-is-wonderful.publicvm.com CNAME .
 dontgetthisblocked.puffballofevil.com CNAME .
 *.dontgetthisblocked.puffballofevil.com CNAME .
-timeisblind.puffballofevil.com CNAME .
-*.timeisblind.puffballofevil.com CNAME .
 dns.pumpkinvrar.com CNAME .
 *.dns.pumpkinvrar.com CNAME .
 pupilproxy.com CNAME .
@@ -3184,6 +3190,8 @@ dns1.ryan-palmer.com CNAME .
 *.dns1.ryan-palmer.com CNAME .
 math.sachhot.com CNAME .
 *.math.sachhot.com CNAME .
+desmos.saf-eng.com CNAME .
+*.desmos.saf-eng.com CNAME .
 safe-inet.com CNAME .
 *.safe-inet.com CNAME .
 safeguardianvpn.com CNAME .
@@ -3224,8 +3232,6 @@ sec-tunnel.com CNAME .
 *.sec-tunnel.com CNAME .
 dns.sec511.com CNAME .
 *.dns.sec511.com CNAME .
-quiz.teach.secold.com CNAME .
-*.quiz.teach.secold.com CNAME .
 secure-vpn.com CNAME .
 *.secure-vpn.com CNAME .
 vpncenter.avg.securebrowser.com CNAME .
@@ -4184,6 +4190,8 @@ liverpoolontop.1337.cx CNAME .
 *.liverpoolontop.1337.cx CNAME .
 canva.login.1337.cx CNAME .
 *.canva.login.1337.cx CNAME .
+goal.music.1337.cx CNAME .
+*.goal.music.1337.cx CNAME .
 vps.avc.cx CNAME .
 *.vps.avc.cx CNAME .
 freedom.cx CNAME .
@@ -4518,8 +4526,6 @@ anycast.censurfridns.dk CNAME .
 *.anycast.censurfridns.dk CNAME .
 unicast.censurfridns.dk CNAME .
 *.unicast.censurfridns.dk CNAME .
-dns.norvig.dk CNAME .
-*.dns.norvig.dk CNAME .
 doh.port53.dk CNAME .
 *.doh.port53.dk CNAME .
 vpn-byen.dk CNAME .
@@ -5302,8 +5308,6 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
-dns.tracker.ink CNAME .
-*.dns.tracker.ink CNAME .
 learnbridge.institute CNAME .
 *.learnbridge.institute CNAME .
 bannana.web-doge.42web.io CNAME .
@@ -6852,8 +6856,6 @@ proxyboost.net CNAME .
 *.proxyboost.net CNAME .
 proxycloud.net CNAME .
 *.proxycloud.net CNAME .
-proxyer.net CNAME .
-*.proxyer.net CNAME .
 proxyhash.net CNAME .
 *.proxyhash.net CNAME .
 proxyload.net CNAME .
@@ -7672,6 +7674,8 @@ homevpn.org CNAME .
 *.homevpn.org CNAME .
 keithchung.hopto.org CNAME .
 *.keithchung.hopto.org CNAME .
+pranaynaygames123.hopto.org CNAME .
+*.pranaynaygames123.hopto.org CNAME .
 hshh.org CNAME .
 *.hshh.org CNAME .
 math.hypernormal.org CNAME .
@@ -8074,6 +8078,8 @@ antycenzor.pl CNAME .
 *.antycenzor.pl CNAME .
 bramka-proxy.pl CNAME .
 *.bramka-proxy.pl CNAME .
+skills.field.cftc-devoteam.one.pl CNAME .
+*.skills.field.cftc-devoteam.one.pl CNAME .
 dns.panszelescik.pl CNAME .
 *.dns.panszelescik.pl CNAME .
 dns-ovh.panszelescik.pl CNAME .
@@ -8446,6 +8452,8 @@ suken.cfmr.ro CNAME .
 *.suken.cfmr.ro CNAME .
 ramberhead.clocking.ro CNAME .
 *.ramberhead.clocking.ro CNAME .
+core.mind.corega.ro CNAME .
+*.core.mind.corega.ro CNAME .
 amir1.cuza16.ro CNAME .
 *.amir1.cuza16.ro CNAME .
 cozy.cuza16.ro CNAME .
@@ -8788,8 +8796,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

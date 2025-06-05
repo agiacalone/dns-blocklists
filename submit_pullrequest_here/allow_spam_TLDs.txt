@@ -68,6 +68,7 @@ popcat.click
 popdog.click
 qr-code.click
 ravelin.click
+wmg.click
 digipres.club
 hd-olimpo.club
 mbcherohub.club

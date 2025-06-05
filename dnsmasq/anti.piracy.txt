@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 02:26 UTC
-# Version: 2025.0605.0226.53
+# Last modified: 05 Jun 2025 14:37 UTC
+# Version: 2025.0605.1437.25
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 10052
 #
@@ -2433,6 +2433,7 @@ local=/tube.dfnbd.net/
 local=/tv.dfnbd.net/
 local=/dfox.it/
 local=/mixes.dfx.at/
+local=/tracker.zhuqiy.dgj055.icu/
 local=/dhakaftp.com/
 local=/dhakaiptv.com/
 local=/dhakamovie.com/
@@ -6690,7 +6691,6 @@ local=/popcorn-tracker.org/
 local=/popcornflix.com/
 local=/popcornflix.run/
 local=/popcornflix.site/
-local=/popcornmovies.to/
 local=/popcorntime.app/
 local=/popcorntime.is/
 local=/popcorntime.sh/
@@ -6777,7 +6777,6 @@ local=/warez.programasfull.com/
 local=/programaswarez.com/
 local=/progressivetorrents.com/
 local=/projapoti.live/
-local=/projectfreetv.ag/
 local=/projectfreetv.sx/
 local=/projectfreetv.watch/
 local=/projectfreetv.xyz/
@@ -6901,7 +6900,6 @@ local=/putlockerfull.xyz/
 local=/putlockergo.co/
 local=/putlockerhd.co/
 local=/putlockerhd.io/
-local=/putlockerr.is/
 local=/putlockers.ag/
 local=/putlockers.am/
 local=/putlockers.bar/
@@ -7248,6 +7246,7 @@ local=/rutracker.wiki/
 local=/ryjer.com/
 local=/ryuanime.com/
 local=/s.to/
+local=/s-telecharger.com/
 local=/s0ft4pc.com/
 local=/s2dfree.cc/
 local=/s2dfree.de/
@@ -9325,6 +9324,7 @@ local=/vidcloud9.com/
 local=/vidclouds.icu/
 local=/vidembed.net/
 local=/videobin.co/
+local=/videocop.com/
 local=/tracker.videodrugproject.com/
 local=/videoelephantbd.com/
 local=/admin.videoenpoche.info/

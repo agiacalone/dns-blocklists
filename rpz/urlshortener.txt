@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749074460 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749117660 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jun 2025 22:01 UTC
-; Version: 2025.0604.2201.37
+; Last modified: 05 Jun 2025 10:01 UTC
+; Version: 2025.0605.1001.43
 ; Syntax: RPZ
-; Number of entries: 11754
+; Number of entries: 11752
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -2724,8 +2724,6 @@ qxygk.com CNAME .
 *.qxygk.com CNAME .
 qyoeu.com CNAME .
 *.qyoeu.com CNAME .
-qzr1.com CNAME .
-*.qzr1.com CNAME .
 qzr2.com CNAME .
 *.qzr2.com CNAME .
 qzxva.com CNAME .
@@ -2794,8 +2792,6 @@ rollwithpaul.com CNAME .
 *.rollwithpaul.com CNAME .
 rotkt.com CNAME .
 *.rotkt.com CNAME .
-rounash.com CNAME .
-*.rounash.com CNAME .
 rqnav.com CNAME .
 *.rqnav.com CNAME .
 rqtfy.com CNAME .
@@ -6100,6 +6096,8 @@ bopvu.life CNAME .
 *.bopvu.life CNAME .
 bose.life CNAME .
 *.bose.life CNAME .
+bravos.life CNAME .
+*.bravos.life CNAME .
 briidge.life CNAME .
 *.briidge.life CNAME .
 brucezielke.life CNAME .
@@ -7870,6 +7868,8 @@ intuit.me CNAME .
 *.intuit.me CNAME .
 t.iotex.me CNAME .
 *.t.iotex.me CNAME .
+ipoy.me CNAME .
+*.ipoy.me CNAME .
 janji.me CNAME .
 *.janji.me CNAME .
 keraskale.me CNAME .
@@ -10074,8 +10074,6 @@ promo-visits.site CNAME .
 *.promo-visits.site CNAME .
 rajamahjong.site CNAME .
 *.rajamahjong.site CNAME .
-reive.site CNAME .
-*.reive.site CNAME .
 sdr168.site CNAME .
 *.sdr168.site CNAME .
 shrturl.site CNAME .

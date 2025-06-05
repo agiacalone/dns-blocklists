@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749090360 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749134220 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,8 +8,8 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2025 02:26 UTC
-; Version: 2025.0605.0226.53
+; Last modified: 05 Jun 2025 14:37 UTC
+; Version: 2025.0605.1437.25
 ; Syntax: RPZ
 ; Number of entries: 20104
 ;
@@ -77,8 +77,6 @@ movie4k.ag CNAME .
 *.movie4k.ag CNAME .
 primewire.ag CNAME .
 *.primewire.ag CNAME .
-projectfreetv.ag CNAME .
-*.projectfreetv.ag CNAME .
 putlockers.ag CNAME .
 *.putlockers.ag CNAME .
 rezka.ag CNAME .
@@ -6045,6 +6043,8 @@ ryjer.com CNAME .
 *.ryjer.com CNAME .
 ryuanime.com CNAME .
 *.ryuanime.com CNAME .
+s-telecharger.com CNAME .
+*.s-telecharger.com CNAME .
 s0ft4pc.com CNAME .
 *.s0ft4pc.com CNAME .
 s4softwares.com CNAME .
@@ -7177,6 +7177,8 @@ vidcloud1.com CNAME .
 *.vidcloud1.com CNAME .
 vidcloud9.com CNAME .
 *.vidcloud9.com CNAME .
+videocop.com CNAME .
+*.videocop.com CNAME .
 tracker.videodrugproject.com CNAME .
 *.tracker.videodrugproject.com CNAME .
 videoelephantbd.com CNAME .
@@ -8871,6 +8873,8 @@ altadefinizione01.icu CNAME .
 *.altadefinizione01.icu CNAME .
 willow.arlen.icu CNAME .
 *.willow.arlen.icu CNAME .
+tracker.zhuqiy.dgj055.icu CNAME .
+*.tracker.zhuqiy.dgj055.icu CNAME .
 ilgeniodellostreaming.icu CNAME .
 *.ilgeniodellostreaming.icu CNAME .
 tracker.imgoingto.icu CNAME .
@@ -9757,8 +9761,6 @@ popcorntime.is CNAME .
 *.popcorntime.is CNAME .
 putlocker.is CNAME .
 *.putlocker.is CNAME .
-putlockerr.is CNAME .
-*.putlockerr.is CNAME .
 putlockers.is CNAME .
 *.putlockers.is CNAME .
 rainierland.is CNAME .
@@ -17885,8 +17887,6 @@ piratebay.to CNAME .
 *.piratebay.to CNAME .
 piratebay-proxy.to CNAME .
 *.piratebay-proxy.to CNAME .
-popcornmovies.to CNAME .
-*.popcornmovies.to CNAME .
 privatehd.to CNAME .
 *.privatehd.to CNAME .
 proxyrarbg.to CNAME .

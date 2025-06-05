@@ -5243,6 +5243,13 @@
       }
     },
     {
+      "PK": "wmg.click",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "wolow.site",
       "action": {
         "do": 1,

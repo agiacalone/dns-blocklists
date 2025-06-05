@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jun 2025 07:10 UTC
-! Version: 2025.0605.0710.39
+! Last modified: 05 Jun 2025 09:55 UTC
+! Version: 2025.0605.0955.26
 ! Syntax: AdBlock
-! Number of entries: 14567
+! Number of entries: 14559
 !
 ||01crypto.com^
 ||1001clothing.eu^
@@ -779,7 +779,6 @@
 ||asgalabau.de^
 ||ashatoslombardini.com^
 ||asiasellet.best^
-||asics-deutschland.de^
 ||asics-suomi.com^
 ||asicsat.at^
 ||asicsde.de^
@@ -1272,6 +1271,7 @@
 ||bender-baumarkt.com^
 ||bendoffice.com^
 ||beneathk.com^
+||beneficialx.com^
 ||benefitw.com^
 ||benettonaustria.at^
 ||beniceu.com^
@@ -2660,6 +2660,7 @@
 ||commercewealth.com^
 ||commiodity.com^
 ||commoditye.com^
+||commodityk.com^
 ||commodityt.com^
 ||commoditytopbuzzy.com^
 ||commodore-power-shop.de^
@@ -3173,6 +3174,7 @@
 ||delebensmittel.com^
 ||delegacar.com^
 ||delhihurricanes.com^
+||delicioush.com^
 ||delightsky.store^
 ||delishpetfoodde.com^
 ||parcel.deliv.com^
@@ -4546,6 +4548,7 @@
 ||firewoiks.com^
 ||firewood-versand.de^
 ||firma-leitner.at^
+||firmadmire.com^
 ||firmeneintrag.net^
 ||first-bikes.de^
 ||first-investcapital.com^
@@ -5440,6 +5443,7 @@
 ||gotrixa.de^
 ||gourdonboutique.com^
 ||gourmandebusy.com^
+||govern1.com^
 ||gp-photo.shop^
 ||gplate.de^
 ||gpslocatorphone.com^
@@ -6339,7 +6343,6 @@
 ||hydrip.de^
 ||hydrogearworld.com^
 ||hygienecleanshop.com^
-||hyip.com^
 ||hype-handel.de^
 ||hypelaced.co^
 ||hypersneakers.online^
@@ -7749,6 +7752,7 @@
 ||locmyparcel.com^
 ||locmyparcel.info^
 ||locobox.net^
+||locomotivey.com^
 ||lodiro.de^
 ||lodischuheonlineshop.de^
 ||loewe-vom-sauerland.de^
@@ -8722,7 +8726,6 @@
 ||mosano.de^
 ||moscotberlin.de^
 ||moser-handels-gmbh.de^
-||mosersale.shop^
 ||mosessions.com^
 ||mosherrypills.com^
 ||mosplains.com^
@@ -8826,7 +8829,6 @@
 ||my-pills.biz^
 ||my-schaschlik.shop^
 ||my-slide.de^
-||my-trip-online.com^
 ||myalpins.com^
 ||portal.mybeautyplans.com^
 ||mybestjudymerch.com^
@@ -11014,6 +11016,7 @@
 ||safir.com^
 ||sagaenterprizes.com^
 ||sagenverkauf.com^
+||saint-blanc.com^
 ||saintjamesireland.com^
 ||saintjamesoutlet.at^
 ||sakaziq.com^
@@ -11069,7 +11072,6 @@
 ||salezipp.com^
 ||salfas.com^
 ||salfeld-agentur.de^
-||salmingchile.com^
 ||salmingcolombia.com^
 ||salmingsuomi.com^
 ||salomon-deutschland.de^
@@ -11088,7 +11090,6 @@
 ||salomonphilippinestore.com^
 ||salomonshoesbulgaria.com^
 ||salomonstoreosterreich.at^
-||salomonstoreuae.com^
 ||salomonsuomi.com^
 ||salomonsuomioutlet.com^
 ||salomonsuomishop.com^
@@ -11129,9 +11130,7 @@
 ||sanukschoenen.com^
 ||sanukschuhe.de^
 ||sanuksuomi.net^
-||saojorgepecas.com^
 ||saopauloautopeca.com^
-||sapgadget.com^
 ||saphirvogel.de^
 ||sapientfinancial.ltd^
 ||sara-berlin.com^
@@ -11161,7 +11160,6 @@
 ||sawbehind.com^
 ||sawfashionnew.com^
 ||saxobeinvested2.com^
-||saxonia-marketing-gmbh.de^
 ||saycom.net^
 ||saynthesis.com^
 ||sbhbrennholz.de^
@@ -11203,9 +11201,7 @@
 ||schlummerkids.de^
 ||schlumpfs-welt.de^
 ||schlund-woehr.de^
-||schluss-folgerung.de^
 ||schlusseldienst.at^
-||schmerz-stopper.de^
 ||schmidmodesalzburg.de^
 ||schmidt-digital.de^
 ||schmidtmode.de^
@@ -11234,11 +11230,9 @@
 ||schnellheizen.de^
 ||schnellheizoel.de^
 ||schnellkredits.com^
-||schnellshophub.com^
 ||schnellshophub.net^
 ||schnirring-handel.de^
 ||schodrok-bochum.de^
-||schoen-gesicht.de^
 ||schoenerwohnentipps.com^
 ||schoettler-kanzlei.de^
 ||scholarathelite.com^
@@ -11254,7 +11248,6 @@
 ||schroeer23.de^
 ||schubertmaterialien.com^
 ||schuhechoice.com^
-||schuhegunstignice.de^
 ||schuhepromo.com^
 ||schuhewienshoponline.com^
 ||schuhheimat.com^
@@ -11275,7 +11268,6 @@
 ||scilulustore.com^
 ||scopesaccessories.com^
 ||scorecope.com^
-||scpi-gouv.fr^
 ||screenacy.co^
 ||screenmysleep.com^
 ||screenwithenvy.de^
@@ -11327,7 +11319,6 @@
 ||select-football.com^
 ||selectedmedsonline.com^
 ||selectro.ch^
-||selfridges-work.com^
 ||selig-baby.com^
 ||selivoo.de^
 ||sellano.de^
@@ -13754,6 +13745,7 @@
 ||vivabestvs.best^
 ||vivaia-schuhe.de^
 ||vivaiabuty.pl^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
