@@ -10417,13 +10417,6 @@
       }
     },
     {
-      "PK": "oki-store.top",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "omas.in",
       "action": {
         "do": 0,

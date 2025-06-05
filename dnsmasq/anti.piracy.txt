@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jun 2025 16:17 UTC
-# Version: 2025.0604.1617.28
+# Last modified: 05 Jun 2025 02:26 UTC
+# Version: 2025.0605.0226.53
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10057
+# Number of entries: 10052
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -5679,7 +5679,6 @@ local=/moviestape.net/
 local=/moviestars.to/
 local=/moviestowatch.cc/
 local=/moviestreamhd.org/
-local=/moviestube.icu/
 local=/moviesub.net/
 local=/moviesus.net/
 local=/movieswatch.xyz/
@@ -5750,7 +5749,6 @@ local=/mp4hydra.org/
 local=/mp4hydra.top/
 local=/mp4mania1.net/
 local=/mrdeni.com/
-local=/mrgamingstreams.app/
 local=/mrtwig.net/
 local=/mrunblock.bond/
 local=/mrunblock.pro/
@@ -5969,7 +5967,6 @@ local=/netstress.org/
 local=/nettv-premium.com/
 local=/netu.tv/
 local=/network.rip/
-local=/networkstress.com/
 local=/networkstress.xyz/
 local=/networkstresser.com/
 local=/networkstresser.net/
@@ -6156,7 +6153,6 @@ local=/nullclash.org/
 local=/nulleb.com/
 local=/nulled.cx/
 local=/nulled.to/
-local=/nulled-script.club/
 local=/nulled-scripts.cc/
 local=/nulledbuilds.com/
 local=/nulledfree.pw/
@@ -6173,7 +6169,6 @@ local=/nullsclashapks.com/
 local=/nullscriptfullz.com/
 local=/nullsroyale.net/
 local=/nullsservers.com/
-local=/nunflix.live/
 local=/nunflix.org/
 local=/nunuyy.cc/
 local=/piratestreaming.nuovo.live/

@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 04 Jun 2025 16:40 UTC
-! Version: 2025.0604.1640.42
+! Last modified: 05 Jun 2025 02:49 UTC
+! Version: 2025.0605.0249.50
 ! Syntax: AdBlock
-! Number of entries: 4852
+! Number of entries: 4845
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1342,6 +1342,7 @@
 ||educationdean.us^
 ||adguard.ef67daisuki.club^
 ||tor.eff.org^
+||dns.efficientdocuments.com^
 ||scifi0.eigenlicht.us^
 ||hole.elbschloss.xyz^
 ||elearning.electronicajck.com^
@@ -1497,6 +1498,7 @@
 ||fishproxy.com^
 ||fitnessdepotprices.com^
 ||fixproxy.com^
+||dns.fizz.studio^
 ||gothgirlsareawesome.flamex.hm^
 ||flarquix.xyz^
 ||flashpull.com^
@@ -1936,7 +1938,6 @@
 ||hoxx.net^
 ||hoyofun.xyz^
 ||ajmal.hpc.tw^
-||studyhubs.hqcloud.de^
 ||greenbeandean.hs.vc^
 ||be.hse.tw^
 ||code.edu.hse.tw^
@@ -2115,7 +2116,6 @@
 ||tj.jamesxue.xyz^
 ||janathanmahes-mysharepoint.com^
 ||dns.janl.eu^
-||study.japhar.com^
 ||px.jarnus.xyz^
 ||transit.javierblog.com^
 ||state.gov.jaycloudlab.com^
@@ -2526,13 +2526,10 @@
 ||mockblock.com^
 ||sage.area.modeemi.net^
 ||ps1.modr.club^
-||www-nsc.moebh.me^
 ||mojtreker.ru^
 ||edu.moldeo.org^
 ||history-of-earth.moldeo.org^
 ||only-shooting-stars-breakthe.moldeo.org^
-||study.moldeo.org^
-||use.moldeo.org^
 ||dns.molinero.dev^
 ||naganohara-yoimiya.momokko.moe^
 ||dns.momou.ch^
@@ -2628,6 +2625,7 @@
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
 ||mzhlhrfr8z.info^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
@@ -2688,7 +2686,6 @@
 ||needunblock.com^
 ||z-brokethescaler.neighborhoodcloud.com^
 ||nekoray.org^
-||qwertyabc123.nekros.info^
 ||smart.quiz.nelsonshack.com^
 ||adguard.neon0404.space^
 ||neonos.me^
@@ -2715,7 +2712,6 @@
 ||newipnow.com^
 ||newproxylist.net^
 ||newshosting.com^
-||nextgen.nex.sh^
 ||doh.luigi.nexific.it^
 ||dns.nextdns.io^
 ||dns1.nextdns.io^
@@ -2794,11 +2790,9 @@
 ||gov.major.novacorp.com^
 ||dns.novali.date^
 ||novatech.fun^
-||novembeer.ru^
 ||dns.novg.net^
 ||nice.noviolencia.ar^
 ||nowcache.com^
-||nowhiteflags.xyz^
 ||noyourmean.xyz^
 ||dns.npe.bz^
 ||dns.npsolution.it^
@@ -3458,7 +3452,6 @@
 ||dns.renardyre.com^
 ||dns.repinger.com^
 ||repocket.co^
-||travelreprap.reprap.eu^
 ||dns.repressoh.it^
 ||restaurantgift.us^
 ||dnspub.restena.lu^

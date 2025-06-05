@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749055200 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749091740 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jun 2025 16:40 UTC
-; Version: 2025.0604.1640.42
+; Last modified: 05 Jun 2025 02:49 UTC
+; Version: 2025.0605.0249.50
 ; Syntax: RPZ
-; Number of entries: 9704
+; Number of entries: 9690
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1656,6 +1656,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2250,8 +2252,6 @@ jagoanssh.com CNAME .
 *.jagoanssh.com CNAME .
 janathanmahes-mysharepoint.com CNAME .
 *.janathanmahes-mysharepoint.com CNAME .
-study.japhar.com CNAME .
-*.study.japhar.com CNAME .
 transit.javierblog.com CNAME .
 *.transit.javierblog.com CNAME .
 state.gov.jaycloudlab.com CNAME .
@@ -2590,6 +2590,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -4320,8 +4322,6 @@ dns.hanmey.de CNAME .
 *.dns.hanmey.de CNAME .
 doh.hottis.de CNAME .
 *.doh.hottis.de CNAME .
-studyhubs.hqcloud.de CNAME .
-*.studyhubs.hqcloud.de CNAME .
 i2p-projekt.de CNAME .
 *.i2p-projekt.de CNAME .
 webproxy.ich-war-hier.de CNAME .
@@ -4636,8 +4636,6 @@ proxyforfree.eu CNAME .
 *.proxyforfree.eu CNAME .
 proxyvpn.eu CNAME .
 *.proxyvpn.eu CNAME .
-travelreprap.reprap.eu CNAME .
-*.travelreprap.reprap.eu CNAME .
 au.rslvr.eu CNAME .
 *.au.rslvr.eu CNAME .
 bg.rslvr.eu CNAME .
@@ -5180,8 +5178,6 @@ myip-proxy.info CNAME .
 *.myip-proxy.info CNAME .
 mzhlhrfr8z.info CNAME .
 *.mzhlhrfr8z.info CNAME .
-qwertyabc123.nekros.info CNAME .
-*.qwertyabc123.nekros.info CNAME .
 njtzzrvg0lwj3bsn.info CNAME .
 *.njtzzrvg0lwj3bsn.info CNAME .
 dns.olpploiopkuyhiopsfrt.info CNAME .
@@ -5852,8 +5848,6 @@ ltlxvxjjmvhn.me CNAME .
 *.ltlxvxjjmvhn.me CNAME .
 dns.mihanentalpo.me CNAME .
 *.dns.mihanentalpo.me CNAME .
-www-nsc.moebh.me CNAME .
-*.www-nsc.moebh.me CNAME .
 neonos.me CNAME .
 *.neonos.me CNAME .
 dns.nodoa.me CNAME .
@@ -7750,10 +7744,6 @@ history-of-earth.moldeo.org CNAME .
 *.history-of-earth.moldeo.org CNAME .
 only-shooting-stars-breakthe.moldeo.org CNAME .
 *.only-shooting-stars-breakthe.moldeo.org CNAME .
-study.moldeo.org CNAME .
-*.study.moldeo.org CNAME .
-use.moldeo.org CNAME .
-*.use.moldeo.org CNAME .
 later.monkxy.org CNAME .
 *.later.monkxy.org CNAME .
 vpn.mozilla.org CNAME .
@@ -8550,8 +8540,6 @@ muxyuji.ru CNAME .
 *.muxyuji.ru CNAME .
 dns.nas-server.ru CNAME .
 *.dns.nas-server.ru CNAME .
-novembeer.ru CNAME .
-*.novembeer.ru CNAME .
 adguard.oms-ctr.ru CNAME .
 *.adguard.oms-ctr.ru CNAME .
 vpn-ru-msk.pakharenko.ru CNAME .
@@ -8644,8 +8632,6 @@ surfshark.sg CNAME .
 *.surfshark.sg CNAME .
 schoolmath.hop.sh CNAME .
 *.schoolmath.hop.sh CNAME .
-nextgen.nex.sh CNAME .
-*.nextgen.nex.sh CNAME .
 onion.sh CNAME .
 *.onion.sh CNAME .
 proxy.sh CNAME .
@@ -8802,6 +8788,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .
@@ -9600,8 +9588,6 @@ lv1.nixnet.xyz CNAME .
 *.lv1.nixnet.xyz CNAME .
 ny1.nixnet.xyz CNAME .
 *.ny1.nixnet.xyz CNAME .
-nowhiteflags.xyz CNAME .
-*.nowhiteflags.xyz CNAME .
 noyourmean.xyz CNAME .
 *.noyourmean.xyz CNAME .
 ns8469rfvth42.xyz CNAME .

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 04 Jun 2025 16:40 UTC
-# Version: 2025.0604.1640.42
+# Last modified: 05 Jun 2025 02:49 UTC
+# Version: 2025.0605.0249.50
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4852
+# Number of entries: 4845
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1341,6 +1341,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1496,6 +1497,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -1935,7 +1937,6 @@ local=/hoxx.com/
 local=/hoxx.net/
 local=/hoyofun.xyz/
 local=/ajmal.hpc.tw/
-local=/studyhubs.hqcloud.de/
 local=/greenbeandean.hs.vc/
 local=/be.hse.tw/
 local=/code.edu.hse.tw/
@@ -2114,7 +2115,6 @@ local=/jamesisbald.xyz/
 local=/tj.jamesxue.xyz/
 local=/janathanmahes-mysharepoint.com/
 local=/dns.janl.eu/
-local=/study.japhar.com/
 local=/px.jarnus.xyz/
 local=/transit.javierblog.com/
 local=/state.gov.jaycloudlab.com/
@@ -2525,13 +2525,10 @@ local=/mochiss3.xyz/
 local=/mockblock.com/
 local=/sage.area.modeemi.net/
 local=/ps1.modr.club/
-local=/www-nsc.moebh.me/
 local=/mojtreker.ru/
 local=/edu.moldeo.org/
 local=/history-of-earth.moldeo.org/
 local=/only-shooting-stars-breakthe.moldeo.org/
-local=/study.moldeo.org/
-local=/use.moldeo.org/
 local=/dns.molinero.dev/
 local=/naganohara-yoimiya.momokko.moe/
 local=/dns.momou.ch/
@@ -2627,6 +2624,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -2687,7 +2685,6 @@ local=/dns.neeb.it/
 local=/needunblock.com/
 local=/z-brokethescaler.neighborhoodcloud.com/
 local=/nekoray.org/
-local=/qwertyabc123.nekros.info/
 local=/smart.quiz.nelsonshack.com/
 local=/adguard.neon0404.space/
 local=/neonos.me/
@@ -2714,7 +2711,6 @@ local=/dns.neutopia.org/
 local=/newipnow.com/
 local=/newproxylist.net/
 local=/newshosting.com/
-local=/nextgen.nex.sh/
 local=/doh.luigi.nexific.it/
 local=/dns.nextdns.io/
 local=/dns1.nextdns.io/
@@ -2793,11 +2789,9 @@ local=/amp.nov.su/
 local=/gov.major.novacorp.com/
 local=/dns.novali.date/
 local=/novatech.fun/
-local=/novembeer.ru/
 local=/dns.novg.net/
 local=/nice.noviolencia.ar/
 local=/nowcache.com/
-local=/nowhiteflags.xyz/
 local=/noyourmean.xyz/
 local=/dns.npe.bz/
 local=/dns.npsolution.it/
@@ -3457,7 +3451,6 @@ local=/renardbleu.dev/
 local=/dns.renardyre.com/
 local=/dns.repinger.com/
 local=/repocket.co/
-local=/travelreprap.reprap.eu/
 local=/dns.repressoh.it/
 local=/restaurantgift.us/
 local=/dnspub.restena.lu/

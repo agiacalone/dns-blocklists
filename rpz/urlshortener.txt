@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749037920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749074460 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 04 Jun 2025 11:52 UTC
-; Version: 2025.0604.1152.42
+; Last modified: 04 Jun 2025 22:01 UTC
+; Version: 2025.0604.2201.37
 ; Syntax: RPZ
-; Number of entries: 11760
+; Number of entries: 11754
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -204,8 +204,6 @@ san.aq CNAME .
 *.san.aq CNAME .
 hotm.art CNAME .
 *.hotm.art CNAME .
-pendek.art CNAME .
-*.pendek.art CNAME .
 placesunknown.art CNAME .
 *.placesunknown.art CNAME .
 rj99.art CNAME .
@@ -7168,8 +7166,6 @@ nefeli.live CNAME .
 *.nefeli.live CNAME .
 neoyoyo33ofc.live CNAME .
 *.neoyoyo33ofc.live CNAME .
-neweden.live CNAME .
-*.neweden.live CNAME .
 newrich.live CNAME .
 *.newrich.live CNAME .
 noelmagada.live CNAME .
@@ -10222,8 +10218,6 @@ ls.st CNAME .
 *.ls.st CNAME .
 nyp.st CNAME .
 *.nyp.st CNAME .
-over.st CNAME .
-*.over.st CNAME .
 p.st CNAME .
 *.p.st CNAME .
 pin.st CNAME .
