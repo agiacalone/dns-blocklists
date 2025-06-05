@@ -540,12 +540,11 @@ A blocklist for blocking all known URL/link shortener.
 A blocklist for blocking Top Most Abused Top Level Domains, merged from [@Yokoffing](https://github.com/yokoffing), [@DandelionSprout](https://github.com/DandelionSprout/), [@LennyFox](https://github.com/lennyfox) Cloudflare Radar, Netcraft and SpamHaus.
 
 > [!WARNING]
-> The purpose of this list is to block TLDs (`*.top`, `*.shop`, `*.gdn`, ...) that have a bad reputation score. All pages of the TLD contained on the list are blocked, and it is clear that this also blocks any legal pages. More or less, depending on the current TLD reputation score.                    
-> However, a lot of spam, scam, phishing, malware and badware is also blocked very effectively. That is the purpose of this list.                   
-> Anyone using this list should be aware of what the list blocks.
->        
-> For the AdBlock format (AdGuard and uBlock Origin) of the list there is the option to exclude domains via rule modifiers like `$denyallow` or `$domain`. However, the number is limited, as the entire rule becomes invalid depending on the total length. Therefore, only legal popular domains that are on common top 1M lists (Tranco, Umbrella, Chrome, Cloudflare Radar, etc.) are unblocked. No illegal domains, e.g. from the piracy category, will be unblocked. The user must unblock these himself as required.                  
-> For other formats, the user himself is responsible for unblocking what he needs.
+> The Most Abused TLDs list is designed to block entire top-level domains (such as *.top, *.shop, *.gdn) with poor reputations. While this may also block some legitimate sites, it is highly effective at preventing spam, scams, phishing, malware, and other malicious content. Users should be aware of which sites are affected by this list.
+>
+> Only widely-used, reputable domains—such as those appearing on major top lists (Umbrella, Cloudflare, Tranco, Chrome, DomCop, etc.) or those essential for popular apps and services—will be considered for exclusion. Illegal domains, including those related to piracy, will not be unblocked. Domains that do not meet these criteria are reviewed individually; if exclusion is not justified, they remain blocked. Users who need access to such domains should add them to their personal allowlist.
+>
+> This selective approach is necessary because AdGuard and uBlock Origin have technical limits on rule length when using denyallow/domain modifiers. Attempting to exclude every legitimate domain would eventually break important rules, so exclusions must be limited and carefully chosen.
               
 |             | Light | Normal | Pro | Pro++ | Ultimate |
 |:-----------:|:-----:|:------:|:---:|:-----:|:--------:|

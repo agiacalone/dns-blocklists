@@ -186,6 +186,7 @@ https://raw.githubusercontent.com/cbuijs/ut1/master/warez/domains
 https://raw.githubusercontent.com/cchevy/macedonian-pi-hole-blocklist/master/hosts.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/huawei.txt
 https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/lg.txt
+https://raw.githubusercontent.com/celenityy/BadBlock/refs/heads/pages/abp/unsafe.txt
 https://raw.githubusercontent.com/chainapsis/phishing-block-list/refs/heads/main/block-list.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt
