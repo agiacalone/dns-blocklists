@@ -9991,8 +9991,6 @@
 0.0.0.0 fourier.aliexpress.com
 0.0.0.0 moduleanalysis.aliexpress.com
 0.0.0.0 pcookie.aliexpress.com
-0.0.0.0 ae-pic-a1.aliexpress-media.com
-0.0.0.0 assets.aliexpress-media.com
 0.0.0.0 aliexpress-tracking.cfd
 0.0.0.0 alifsemi.com
 0.0.0.0 clarity.alight.com

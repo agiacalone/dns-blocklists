@@ -216,6 +216,7 @@ https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_thirdparty.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty_international.txt

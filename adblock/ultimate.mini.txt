@@ -8105,8 +8105,6 @@
 ||fourier.aliexpress.com^
 ||moduleanalysis.aliexpress.com^
 ||pcookie.aliexpress.com^
-||ae-pic-a1.aliexpress-media.com^
-||assets.aliexpress-media.com^
 ||aliexpress-tracking.cfd^
 ||alifsemi.com^
 ||cddp-track.aligames.com^
@@ -38375,7 +38373,6 @@
 ||dynamicdns.biz^
 ||dynamicfitnesstrust.club^
 ||dynamicoxygen.com^
-||svc.dynamics.com^
 ||log-server.dynamicscreen.xyz^
 ||dynamicsponge.pro^
 ||dynamictechcorp.com^

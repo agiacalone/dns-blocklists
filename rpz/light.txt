@@ -10589,10 +10589,6 @@ moduleanalysis.aliexpress.com CNAME .
 *.moduleanalysis.aliexpress.com CNAME .
 pcookie.aliexpress.com CNAME .
 *.pcookie.aliexpress.com CNAME .
-ae-pic-a1.aliexpress-media.com CNAME .
-*.ae-pic-a1.aliexpress-media.com CNAME .
-assets.aliexpress-media.com CNAME .
-*.assets.aliexpress-media.com CNAME .
 alifsemi.com CNAME .
 *.alifsemi.com CNAME .
 clarity.alight.com CNAME .

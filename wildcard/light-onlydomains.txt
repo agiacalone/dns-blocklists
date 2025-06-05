@@ -3392,8 +3392,6 @@ aemetrics.aliexpress.ru
 fourier.aliexpress.com
 moduleanalysis.aliexpress.com
 pcookie.aliexpress.com
-ae-pic-a1.aliexpress-media.com
-assets.aliexpress-media.com
 aliexpress-tracking.cfd
 alifsemi.com
 clarity.alight.com
