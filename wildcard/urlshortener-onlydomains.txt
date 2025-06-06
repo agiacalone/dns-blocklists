@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 10:01 UTC
-# Version: 2025.0605.1001.43
+# Last modified: 05 Jun 2025 21:12 UTC
+# Version: 2025.0605.2112.32
 # Syntax: Domains (without subdomains)
-# Number of entries: 5876
+# Number of entries: 5878
 #
 0.gp
 00oo.lol
@@ -1681,6 +1681,7 @@ fhmzz.com
 fhurl.com
 fhxor.com
 fi.ro
+fields.church
 fifa.fans
 fig.page
 filz.fr
@@ -2679,6 +2680,7 @@ linc.li
 lincat.co
 lincyt.com
 linea.link
+linelive.life
 lingkod.to
 link.ac
 link.cc
@@ -3671,10 +3673,12 @@ prbgt.sbs
 prbly.us
 prcgg.sbs
 prdct.school
+prel.ink
 premex.link
 premierbet.live
 premiumproducts.live
 preml.ge
+prendre-rendezvous.com
 prephe.ro
 url.prepo.io
 prf.hn
@@ -4016,6 +4020,7 @@ rtvote.com
 rtxt.co
 bio.rub3n.io
 rupilinks.com
+ruplink.com
 rusd.in
 rushgiving.com
 rusuhkali.xyz
@@ -4213,7 +4218,6 @@ short-url.link
 short-url.org
 short-url.run
 short1.link
-short24.pw
 shortbe.com
 shortclick.com
 shortcm.li
@@ -4269,7 +4273,6 @@ shortly.click
 shortly.cyou
 shortly.im
 shortlync.com
-shortma.de
 shortmds.xyz
 shortme.me
 shortme.work
@@ -4282,7 +4285,6 @@ shortner.cc
 shortonly.com
 shortpals.online
 shortq.link
-shortr.at
 shortracz.com
 shortsfly.me
 shortshare.app
@@ -4351,7 +4353,6 @@ shrunken.com
 shrunkin.com
 shss-ares.live
 sht.moe
-shtn.me
 shtnar.com
 shurl.fr
 shutr.bz
@@ -4414,7 +4415,6 @@ slidesha.re
 slims.us
 slnk.se
 slotamina.com
-sloto89.site
 slots799.online
 slpre.com
 slpzm.top
@@ -4546,6 +4546,7 @@ starz.tv
 staticprocessorsource.review
 statistics4u.net
 steve-patrick-811.life
+steveendow.link
 stfly.me
 stke.xyz
 stmodel.com
@@ -4653,7 +4654,6 @@ taphoa24h.live
 taplink.cc
 tapz.in
 targeterpro.com
-tatjanka31sluts.life
 tautin.id
 tauzn.top
 tawk.link
@@ -4700,6 +4700,7 @@ teratai888.ink
 terbar.ink
 terijoss.com
 terp.icu
+texas88register.com
 texas88vvip.org
 texasbisa.org
 texn.cc
@@ -5534,6 +5535,7 @@ wkf.ms
 wl.co
 wm0.co
 wmeqx.com
+wmg.click
 wmojo.com
 wn.nr
 wndhj.top

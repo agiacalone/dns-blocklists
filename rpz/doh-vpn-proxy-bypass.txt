@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749135600 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749175320 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2025 15:00 UTC
-; Version: 2025.0605.1500.47
+; Last modified: 06 Jun 2025 02:02 UTC
+; Version: 2025.0606.0202.32
 ; Syntax: RPZ
-; Number of entries: 9696
+; Number of entries: 9708
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1664,6 +1664,8 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2600,6 +2602,8 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3552,8 +3556,6 @@ thebestvpn.com CNAME .
 *.thebestvpn.com CNAME .
 ixl-tw6f.thebrittainlawfirm.com CNAME .
 *.ixl-tw6f.thebrittainlawfirm.com CNAME .
-thisisnotagamewebsite.thebrittainlawfirm.com CNAME .
-*.thisisnotagamewebsite.thebrittainlawfirm.com CNAME .
 theclickcheck.com CNAME .
 *.theclickcheck.com CNAME .
 thecodeil.com CNAME .
@@ -4616,6 +4618,16 @@ dns.janl.eu CNAME .
 *.dns.janl.eu CNAME .
 dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
+child.joindns4.eu CNAME .
+*.child.joindns4.eu CNAME .
+child-noads.joindns4.eu CNAME .
+*.child-noads.joindns4.eu CNAME .
+noads.joindns4.eu CNAME .
+*.noads.joindns4.eu CNAME .
+protective.joindns4.eu CNAME .
+*.protective.joindns4.eu CNAME .
+unfiltered.joindns4.eu CNAME .
+*.unfiltered.joindns4.eu CNAME .
 dns1.klcd.eu CNAME .
 *.dns1.klcd.eu CNAME .
 dns2.klcd.eu CNAME .
@@ -5308,6 +5320,8 @@ dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
 theproxy.ink CNAME .
 *.theproxy.ink CNAME .
+dns.tracker.ink CNAME .
+*.dns.tracker.ink CNAME .
 learnbridge.institute CNAME .
 *.learnbridge.institute CNAME .
 bannana.web-doge.42web.io CNAME .
@@ -6982,10 +6996,6 @@ surfall.net CNAME .
 *.surfall.net CNAME .
 surfshark.net CNAME .
 *.surfshark.net CNAME .
-popteeee-oawhnefoua-foaebaouef.swanndvr.net CNAME .
-*.popteeee-oawhnefoua-foaebaouef.swanndvr.net CNAME .
-popteeeeee-sajoiwejfo-huhu.swanndvr.net CNAME .
-*.popteeeeee-sajoiwejfo-huhu.swanndvr.net CNAME .
 ramm-ume-pro.swanndvr.net CNAME .
 *.ramm-ume-pro.swanndvr.net CNAME .
 rammerhead-10.swanndvr.net CNAME .
@@ -8796,6 +8806,8 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

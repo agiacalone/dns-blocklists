@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749135480 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749175200 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2025 14:58 UTC
-; Version: 2025.0605.1458.59
+; Last modified: 06 Jun 2025 02:00 UTC
+; Version: 2025.0606.0200.45
 ; Syntax: RPZ
-; Number of entries: 2872
+; Number of entries: 2890
 ;
 polisitogel.accountant CNAME .
 *.polisitogel.accountant CNAME .
@@ -466,6 +466,8 @@ edgy-dns.com CNAME .
 *.edgy-dns.com CNAME .
 dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
+dns.efficientdocuments.com CNAME .
+*.dns.efficientdocuments.com CNAME .
 dns.enzonix.com CNAME .
 *.dns.enzonix.com CNAME .
 dns.flwagners.com CNAME .
@@ -584,6 +586,8 @@ msr177.com CNAME .
 *.msr177.com CNAME .
 ns.mtsoln.com CNAME .
 *.ns.mtsoln.com CNAME .
+dns.mzjtechnology.com CNAME .
+*.dns.mzjtechnology.com CNAME .
 dns.nguyendn.com CNAME .
 *.dns.nguyendn.com CNAME .
 dns.nhtsky.com CNAME .
@@ -1080,6 +1084,16 @@ dns.janl.eu CNAME .
 *.dns.janl.eu CNAME .
 dns.jiyi.eu CNAME .
 *.dns.jiyi.eu CNAME .
+child.joindns4.eu CNAME .
+*.child.joindns4.eu CNAME .
+child-noads.joindns4.eu CNAME .
+*.child-noads.joindns4.eu CNAME .
+noads.joindns4.eu CNAME .
+*.noads.joindns4.eu CNAME .
+protective.joindns4.eu CNAME .
+*.protective.joindns4.eu CNAME .
+unfiltered.joindns4.eu CNAME .
+*.unfiltered.joindns4.eu CNAME .
 dns1.klcd.eu CNAME .
 *.dns1.klcd.eu CNAME .
 dns2.klcd.eu CNAME .
@@ -1328,6 +1342,8 @@ vpn.technicule.info CNAME .
 *.vpn.technicule.info CNAME .
 dns.kxy.ink CNAME .
 *.dns.kxy.ink CNAME .
+dns.tracker.ink CNAME .
+*.dns.tracker.ink CNAME .
 dns.bitservices.io CNAME .
 *.dns.bitservices.io CNAME .
 dns.guard.io CNAME .
@@ -2568,6 +2584,8 @@ dns.sy.st CNAME .
 *.dns.sy.st CNAME .
 home-server.store CNAME .
 *.home-server.store CNAME .
+dns.fizz.studio CNAME .
+*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 crypto.sx CNAME .

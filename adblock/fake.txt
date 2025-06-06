@@ -5,10 +5,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jun 2025 09:55 UTC
-! Version: 2025.0605.0955.26
+! Last modified: 05 Jun 2025 21:06 UTC
+! Version: 2025.0605.2106.12
 ! Syntax: AdBlock
-! Number of entries: 14559
+! Number of entries: 14532
 !
 ||01crypto.com^
 ||1001clothing.eu^
@@ -5912,6 +5912,7 @@
 ||heizoel-easy.de^
 ||heizoel-fast.de^
 ||heizoel-held.de^
+||heizoel-jetzt.de^
 ||heizoel-portal.de^
 ||heizoel-premium.de^
 ||heizoel-solutions.net^
@@ -7326,6 +7327,9 @@
 ||kundendienstline.de^
 ||kundigenbei.at^
 ||kunstfurzuhause.com^
+||kunstlaufweg.de^
+||kunstpfadfinder.de^
+||kunstpfadkarte.de^
 ||kunsttourweg.de^
 ||kunstumweg.de^
 ||kunstverlauf.de^
@@ -9350,6 +9354,7 @@
 ||ocycling.com^
 ||odlorabatt.com^
 ||oel-direkt.de^
+||oelpreisfinder.de^
 ||oesterreichischeapotheke.com^
 ||ofenbrnholz.com^
 ||ofendeutschland.com^
@@ -11467,7 +11472,6 @@
 ||shopathleticshoe.com^
 ||shopazo.net^
 ||shopbagwallet.com^
-||shopbootsdeutschland.top^
 ||shopbusinessshirt.com^
 ||shopcdy.online^
 ||shop.shopcider.com^
@@ -11524,7 +11528,6 @@
 ||shoppedonline.com^
 ||shoppenny.de^
 ||shopperiumx.com^
-||shopperssplus.com^
 ||shopping-mag.de^
 ||shopping-paradise.net^
 ||shopping-seks.de^
@@ -11546,11 +11549,9 @@
 ||shopskisnowboard.com^
 ||shopsnowski.com^
 ||shoptee.de^
-||shoptoolszone.com^
 ||shopvalentira.com^
 ||shopvaley.com^
 ||shopvertex.site^
-||shopvillage.shop^
 ||shopwatit.com^
 ||shopwaxsales.com^
 ||shopwesternhats.com^
@@ -11566,7 +11567,6 @@
 ||showerroomshops.com^
 ||shownicear.shop^
 ||shredd-marketing.de^
-||shubese.com^
 ||shuitterlily.net^
 ||shuttars.com^
 ||shuttleockstore.com^
@@ -11650,7 +11650,6 @@
 ||skitnicemk.best^
 ||skrum.at^
 ||skyquaddrone.com^
-||skyrro.com^
 ||skyvek.de^
 ||sl-handel24.de^
 ||slamlook.com^
@@ -11717,7 +11716,6 @@
 ||sneakersberlin.de^
 ||sneakersgermanyonline.com^
 ||sneakerveja.com^
-||sneakerz2020.com^
 ||sneakwearlab.com^
 ||sneawin.com^
 ||sngartenbau.de^
@@ -11833,8 +11831,6 @@
 ||sourceforsport.com^
 ||sowarmlife.com^
 ||sowaswillichauch.de^
-||sp-offers-c.org^
-||sp-offers-d.org^
 ||spaccej.com^
 ||space-tennis.com^
 ||spacebuds.de^
@@ -12022,7 +12018,6 @@
 ||stclik.com^
 ||stealthgamechanger.com^
 ||steelite-au.com^
-||stehaufe.de^
 ||stehaufede.shop^
 ||steinberg-modehaus.de^
 ||steinbrink-verkauf.de^
@@ -12141,7 +12136,6 @@
 ||strahlerdeck.com^
 ||strapology.co^
 ||straps-shop.com^
-||strassenvogel-waren.de^
 ||strategic-expansion.com^
 ||strategiessolution.com^
 ||stratego-ipo.net^
@@ -12153,7 +12147,6 @@
 ||strawberryjamshop.com^
 ||strawberrymilkshop.com^
 ||streakk.io^
-||streetmi.com^
 ||streetsynergies.com^
 ||streibl-garten.de^
 ||streichduft.de^
@@ -12285,7 +12278,6 @@
 ||supereuroshop.online^
 ||superfaditem.com^
 ||superficialk.com^
-||superfitnl.com^
 ||superfitnorge.com^
 ||superfitnz.com^
 ||superfitportugal.com^
@@ -12346,7 +12338,6 @@
 ||surfneue.com^
 ||surfrabatt.de^
 ||surfside-summer.store^
-||surly-bike.com^
 ||suscripcion-commitment.com^
 ||suszy.shop^
 ||sute-tech.de^
@@ -12394,11 +12385,9 @@
 ||swixfabrikverkauf.com^
 ||swixski.de^
 ||swkautopecas.com^
-||cfd.swkinvest.com^
 ||swmotechmoto.com^
 ||swstore1.xyz^
 ||sxiuer.com^
-||sxjmzw.shop^
 ||sydpark.de^
 ||syloviadistri.com^
 ||syltbildergalerie.shop^
@@ -12416,7 +12405,6 @@
 ||the-garden-pavilions-of-sobranie-russian.eshop.t-online.de^
 ||t4trade.com^
 ||tabexofficial.com^
-||tableteonline.com^
 ||tabletopdeo.de^
 ||tablets-today.org^
 ||tablets-world.com^
@@ -12429,7 +12417,6 @@
 ||tafelfarben.de^
 ||tagfloorlamp.de^
 ||tagkitchenware.de^
-||tagscha.top^
 ||taiga-handel.de^
 ||taiga-wutz.de^
 ||taige24.de^
@@ -12451,7 +12438,6 @@
 ||talentnexuspro-de.com^
 ||talents-orbit.online^
 ||talents-peak.com^
-||talents-sourcenow.com^
 ||talentspfad.online^
 ||igk.talentway-at.com^
 ||talentxperts.com^
@@ -12464,7 +12450,6 @@
 ||tanjanoll.shop^
 ||tanrasi.com^
 ||tapetenweltde.com^
-||tapmaguiremark.com^
 ||target-solar.de^
 ||target-speichern.de^
 ||tarmei.com^
@@ -12548,7 +12533,6 @@
 ||teewunder.com^
 ||tefaal.com^
 ||shop.tegeler.com^
-||tehltu.com^
 ||tehsasave.com^
 ||teichmann-fashion.de^
 ||teichwunder.com^
@@ -12565,7 +12549,6 @@
 ||temala.de^
 ||temperaent.com^
 ||temptlife.com^
-||temude.com^
 ||ten-estate.com^
 ||tenddaily.com^
 ||tengoa.com^
@@ -12590,7 +12573,6 @@
 ||terragaming.com^
 ||terrapro.cn^
 ||terzio23.de^
-||tescouk.net^
 ||teslabonus.org^
 ||teslacoin.io^
 ||teslarea.com^
@@ -12651,7 +12633,6 @@
 ||thebagus.com^
 ||thebalancingmom.com^
 ||thebellabelle.com^
-||thebigmart.shop^
 ||thebikeparts.com^
 ||thebitindex.ai^
 ||ge.thebloomcar.com^
@@ -12674,7 +12655,6 @@
 ||thegenuineleather.com^
 ||thegiftone.com^
 ||thehikingshoe.com^
-||thehokaoneone.com^
 ||thehuggy.de^
 ||thejbweld.com^
 ||thejobsitetool.com^
@@ -12688,7 +12668,6 @@
 ||themdbuilding.com^
 ||themusicianhouse.com^
 ||thenetfarmacia.com^
-||thenorthfacehamburg.de^
 ||theodore-furniture.com^
 ||theoffbeatgirl.com^
 ||theopecasautomotiva.com^
@@ -12816,7 +12795,6 @@
 ||tipoza.de^
 ||tippsfurkaufhauser.com^
 ||tiraloshop.com^
-||tischede.com^
 ||tischeset.com^
 ||tischestore.com^
 ||tischlampenstore.com^
@@ -12884,7 +12862,6 @@
 ||toolbaseus.com^
 ||toolburndy.com^
 ||tooldepartmentstore.com^
-||tooledbrand.com^
 ||toolefficient.com^
 ||toolfield-limit.com^
 ||toolhouseoffer.com^
@@ -12896,7 +12873,6 @@
 ||tools-total.com^
 ||toolsalezone.com^
 ||toolsde.com^
-||toolsequipme.com^
 ||toolshype.com^
 ||toolsiteportable.com^
 ||toolsmodern.com^
@@ -12919,14 +12895,12 @@
 ||top-business-deals.com^
 ||top-home24.com^
 ||top-housegoods.com^
-||top-notchchicgeneral.com^
 ||top-rasenmaeher.com^
 ||top-sh-op.com^
 ||top-shelfstore.shop^
 ||top-velos.com^
 ||top-werkzeugeverkaufen.com^
 ||topalis-kyc-gmbh.info^
-||topautoteile.com^
 ||topbrennstoffe.de^
 ||topcollectibleshop.com^
 ||topdiags.shop^
@@ -13065,7 +13039,6 @@
 ||transparentw.com^
 ||trapstaraustria.at^
 ||traumfloorshop.com^
-||traumwiese24.de^
 ||traumwolke.shop^
 ||traunsberger-garten.de^
 ||traunsbergergarten.de^

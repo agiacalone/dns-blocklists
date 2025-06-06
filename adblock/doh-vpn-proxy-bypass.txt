@@ -6,10 +6,10 @@
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 05 Jun 2025 15:00 UTC
-! Version: 2025.0605.1500.47
+! Last modified: 06 Jun 2025 02:02 UTC
+! Version: 2025.0606.0202.32
 ! Syntax: AdBlock
-! Number of entries: 4848
+! Number of entries: 4854
 !
 ||003153.xyz^
 ||ns.00dani.me^
@@ -1346,6 +1346,7 @@
 ||educationdean.us^
 ||adguard.ef67daisuki.club^
 ||tor.eff.org^
+||dns.efficientdocuments.com^
 ||scifi0.eigenlicht.us^
 ||hole.elbschloss.xyz^
 ||elearning.electronicajck.com^
@@ -1501,6 +1502,7 @@
 ||fishproxy.com^
 ||fitnessdepotprices.com^
 ||fixproxy.com^
+||dns.fizz.studio^
 ||gothgirlsareawesome.flamex.hm^
 ||flarquix.xyz^
 ||flashpull.com^
@@ -2156,6 +2158,11 @@
 ||adguard.johanliebert.top^
 ||johneldenring.lol^
 ||johnkellyprivate.com^
+||child.joindns4.eu^
+||child-noads.joindns4.eu^
+||noads.joindns4.eu^
+||protective.joindns4.eu^
+||unfiltered.joindns4.eu^
 ||joker81fansbase.site^
 ||opencdn.jomodns.com^
 ||jongserver.xyz^
@@ -2631,6 +2638,7 @@
 ||area51.mywire.org^
 ||fwgw.orangepipc.mywire.org^
 ||mzhlhrfr8z.info^
+||dns.mzjtechnology.com^
 ||dns.mzrme.cn^
 ||n0.eu^
 ||dns.n23.io^
@@ -3906,8 +3914,6 @@
 ||surtshark.com^
 ||dns.sv-zauner.at^
 ||dns.svoi.dev^
-||popteeee-oawhnefoua-foaebaouef.swanndvr.net^
-||popteeeeee-sajoiwejfo-huhu.swanndvr.net^
 ||ramm-ume-pro.swanndvr.net^
 ||rammerhead-10.swanndvr.net^
 ||swapip.com^
@@ -3973,7 +3979,6 @@
 ||thebestproxy.info^
 ||thebestvpn.com^
 ||ixl-tw6f.thebrittainlawfirm.com^
-||thisisnotagamewebsite.thebrittainlawfirm.com^
 ||dns.thebuckners.org^
 ||theclickcheck.com^
 ||thecodeil.com^
@@ -4112,6 +4117,7 @@
 ||home.sso.toythieves.com^
 ||portal.sso.toythieves.com^
 ||tpymainx01.ru^
+||dns.tracker.ink^
 ||tradeadspace.info^
 ||linewize.tradekinginternational.com^
 ||trafflink.xyz^

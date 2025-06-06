@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749117660 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749157920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2025 10:01 UTC
-; Version: 2025.0605.1001.43
+; Last modified: 05 Jun 2025 21:12 UTC
+; Version: 2025.0605.2112.32
 ; Syntax: RPZ
-; Number of entries: 11752
+; Number of entries: 11756
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -272,8 +272,6 @@ pdxint.at CNAME .
 *.pdxint.at CNAME .
 posted.at CNAME .
 *.posted.at CNAME .
-shortr.at CNAME .
-*.shortr.at CNAME .
 shorturl.at CNAME .
 *.shorturl.at CNAME .
 tprurl.at CNAME .
@@ -846,6 +844,8 @@ lifeandtime.charity CNAME .
 *.lifeandtime.charity CNAME .
 gacha.christmas CNAME .
 *.gacha.christmas CNAME .
+fields.church CNAME .
+*.fields.church CNAME .
 aka.ci CNAME .
 *.aka.ci CNAME .
 cin.ci CNAME .
@@ -900,6 +900,8 @@ shorturl.click CNAME .
 *.shorturl.click CNAME .
 urlshort.click CNAME .
 *.urlshort.click CNAME .
+wmg.click CNAME .
+*.wmg.click CNAME .
 cle.clinic CNAME .
 *.cle.clinic CNAME .
 anchorurl.cloud CNAME .
@@ -2670,6 +2672,8 @@ l.prageru.com CNAME .
 *.l.prageru.com CNAME .
 pragmaticurl.com CNAME .
 *.pragmaticurl.com CNAME .
+prendre-rendezvous.com CNAME .
+*.prendre-rendezvous.com CNAME .
 privad0.com CNAME .
 *.privad0.com CNAME .
 profeelo.com CNAME .
@@ -2804,6 +2808,8 @@ rtvote.com CNAME .
 *.rtvote.com CNAME .
 rupilinks.com CNAME .
 *.rupilinks.com CNAME .
+ruplink.com CNAME .
+*.ruplink.com CNAME .
 rushgiving.com CNAME .
 *.rushgiving.com CNAME .
 rwecv.com CNAME .
@@ -3044,6 +3050,8 @@ www.temporary-url.com CNAME .
 *.www.temporary-url.com CNAME .
 terijoss.com CNAME .
 *.terijoss.com CNAME .
+texas88register.com CNAME .
+*.texas88register.com CNAME .
 tfushort.com CNAME .
 *.tfushort.com CNAME .
 tgdgacor.com CNAME .
@@ -3730,8 +3738,6 @@ qrco.de CNAME .
 *.qrco.de CNAME .
 s04.de CNAME .
 *.s04.de CNAME .
-shortma.de CNAME .
-*.shortma.de CNAME .
 shrtco.de CNAME .
 *.shrtco.de CNAME .
 sikk.de CNAME .
@@ -5246,6 +5252,8 @@ makemyl.ink CNAME .
 *.makemyl.ink CNAME .
 njfl.ink CNAME .
 *.njfl.ink CNAME .
+prel.ink CNAME .
+*.prel.ink CNAME .
 rcl.ink CNAME .
 *.rcl.ink CNAME .
 rool.ink CNAME .
@@ -6302,6 +6310,8 @@ larryherndon115inc.life CNAME .
 *.larryherndon115inc.life CNAME .
 lillebrordahlstrom.life CNAME .
 *.lillebrordahlstrom.life CNAME .
+linelive.life CNAME .
+*.linelive.life CNAME .
 littlecheck9.life CNAME .
 *.littlecheck9.life CNAME .
 littlehedgehogs.life CNAME .
@@ -6488,8 +6498,6 @@ sweaver.life CNAME .
 *.sweaver.life CNAME .
 tammy-jo33.life CNAME .
 *.tammy-jo33.life CNAME .
-tatjanka31sluts.life CNAME .
-*.tatjanka31sluts.life CNAME .
 taythi.life CNAME .
 *.taythi.life CNAME .
 teeny.life CNAME .
@@ -6812,6 +6820,8 @@ sonoran.link CNAME .
 *.sonoran.link CNAME .
 spotify.link CNAME .
 *.spotify.link CNAME .
+steveendow.link CNAME .
+*.steveendow.link CNAME .
 supr.link CNAME .
 *.supr.link CNAME .
 szag.link CNAME .
@@ -8020,8 +8030,6 @@ shortsfly.me CNAME .
 *.shortsfly.me CNAME .
 shorturls.me CNAME .
 *.shorturls.me CNAME .
-shtn.me CNAME .
-*.shtn.me CNAME .
 shw.me CNAME .
 *.shw.me CNAME .
 short.silex.me CNAME .
@@ -9280,8 +9288,6 @@ qsl.pw CNAME .
 *.qsl.pw CNAME .
 rebrand.pw CNAME .
 *.rebrand.pw CNAME .
-short24.pw CNAME .
-*.short24.pw CNAME .
 u.shxj.pw CNAME .
 *.u.shxj.pw CNAME .
 sura.pw CNAME .
@@ -10080,8 +10086,6 @@ shrturl.site CNAME .
 *.shrturl.site CNAME .
 signatureclub.site CNAME .
 *.signatureclub.site CNAME .
-sloto89.site CNAME .
-*.sloto89.site CNAME .
 terasherelinks.site CNAME .
 *.terasherelinks.site CNAME .
 tt5k.site CNAME .

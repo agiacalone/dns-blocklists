@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 14:37 UTC
-# Version: 2025.0605.1437.25
+# Last modified: 06 Jun 2025 01:39 UTC
+# Version: 2025.0606.0139.28
 # Syntax: Domains (without subdomains)
-# Number of entries: 10052
+# Number of entries: 10032
 #
 0123456789nonexistent.com
 0123movie.net
@@ -667,6 +667,7 @@ amcomputers.org
 americansoccerarchives.com
 amrbd.com
 an1.com
+an1build.com
 an1modapk.com
 anbudom.net
 andr.net
@@ -2670,6 +2671,7 @@ duboku.net
 duboku.tv
 duboku.vip
 cutscloud.duckdns.org
+joczo.duckdns.org
 kamikazee.duckdns.org
 thinking.duckdns.org
 tr4ck3r.duckdns.org
@@ -5530,6 +5532,7 @@ modtoco.com
 modw.net
 modxda.com
 modyolo.com
+modzod.com
 modzozo.com
 moe4sale.in
 tracker.moeblog.cn
@@ -7506,7 +7509,6 @@ shokweb.com
 shopdoc.ru
 showbox.media
 showboxmovies.net
-showflix.xyz
 showrss.info
 showtimebd.com
 shubt.net
@@ -7641,7 +7643,6 @@ soccerstreamlinks.com
 soccerstreams.app
 soccerstreams.football
 soccerstreams.net
-soccerstreams100.io
 soccerstreamshd.com
 soccerworldcup.me
 socialplug.io
@@ -7669,7 +7670,6 @@ softwarebits.net
 softwarecrackworks.com
 softwareheritage.org
 softwarehomes.in
-softwarez.best
 softwarezon.com
 softzspot.com
 sokroflix.org
@@ -7680,7 +7680,6 @@ solamovies.cc
 solarion.hu
 solarmovie.app
 solarmovie.cr
-solarmovie.do
 solarmovie.fm
 solarmovie.fun
 solarmovie.ink
@@ -7754,7 +7753,6 @@ sport365.sx
 sportbit.org
 sportend.com
 sporthd.live
-sporthd.me
 sportlemon.be
 sportlemon.com
 sportlemon.live
@@ -7772,7 +7770,6 @@ sportsbay.org
 sportsbay.sx
 sportsbay.top
 sportschamp.fun
-sportsfeed24.com
 sportshub.stream
 sportsleading.online
 sportslive.me
@@ -7782,7 +7779,6 @@ v3.sportsonline.sx
 sportstream.tv
 sportstreamshd.com
 sportsurge.app
-sportsurge.club
 sportsurge.net
 sportyhunter.com
 sportzonline.pw
@@ -7800,7 +7796,6 @@ sserial.net
 107.189.10.20.sslip.io
 ssonlinebd.com
 ssrmovies.com
-ssrmovies.meme
 ssrmovies.win
 sssinsta.com
 sssinstagram.com
@@ -7964,7 +7959,6 @@ streamingcommunity.xyz
 streamingcommunity.yachts
 streamingdivx.ch
 streaminggratuit.cc
-streaminggratuit.rip
 streamingsenzalimiti.net
 streamingseries.cam
 streamingseries.rip
@@ -7987,7 +7981,6 @@ streamkiste.space
 streamkiste.taxi
 streamlairtv.com
 streamlive.to
-streamlivetv.site
 streamlord.com
 streamm4u.com
 streamm4u.net
@@ -8072,14 +8065,11 @@ supertela.live
 supertorrents.org
 supertvaovivo.live
 supertvaovivo.tv
-suprbay.org
 supremesecurityteam.com
 surrealmoviez.info
 susflix.tv
-sushbo.com
 tracker.sushirave.net
 susmovies.lol
-suspic.com
 suteki-yume.net
 suzihaza.com
 sverigeplay.tv
@@ -8107,7 +8097,6 @@ t-ru.org
 t2bot.ru
 warezfr.t2u.com
 t3nnis.tv
-t411.ch
 t411.in
 t411.io
 t411.me
@@ -8137,9 +8126,7 @@ tantifilm.co
 tantifilm.coach
 tantifilm.com
 tantifilm.cool
-tantifilm.cyou
 tantifilm.delivery
-tantifilm.energy
 tantifilm.eu
 tantifilm.fm
 tantifilm.fyi
@@ -8245,7 +8232,6 @@ tfpdl.se
 tfpdl.to
 tfreeca22.com
 tgx.rs
-tgx.sb
 th3-studio.net
 thagoat.rocks
 the-eye.eu
@@ -8313,7 +8299,6 @@ theodoric.fr
 tracker.theoks.net
 theoldcomputer.com
 thepb.cyou
-thepeerhub.com
 thepirate.live
 thepirate-bay.org
 thepirate-bayproxy.com
@@ -8555,7 +8540,6 @@ torrent9.biz
 torrent9.blue
 torrent9.fm
 torrent9.gg
-torrent9.is
 torrent9.ph
 torrent9.pl
 torrent9.sh
@@ -8579,7 +8563,6 @@ torrentchannel.com
 torrentchile.org
 torrentcity.net
 torrentcity.pl
-torrentclub.space
 torrentday.com
 torrentdb.li
 torrentdia.com
@@ -8649,7 +8632,6 @@ torrentline.net
 torrentlite.org
 torrentlocomotive.com
 torrentmac.net
-torrentmafya.net
 torrentmaniacs.org
 torrentmas.com
 torrentmatrix.com
@@ -8724,7 +8706,6 @@ torrentspain.com
 torrentspy.com
 torrentsrus.com
 alpha.torrenttracker.nl
-torrentturk.com
 torrenttyphoon.com
 torrentube.net
 torrenturkey.com
@@ -8825,7 +8806,6 @@ transmissionbt.com
 trantor.is
 triahgames.com
 tribalmixes.com
-tricitytorrents.com
 triptorrents.com
 tracker.tritan.gg
 tronott.tv

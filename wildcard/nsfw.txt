@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 14:39 UTC
-# Version: 2025.0605.1439.41
+# Last modified: 06 Jun 2025 01:41 UTC
+# Version: 2025.0606.0141.42
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 102323
+# Number of entries: 102274
 #
 *.0-24sexcams.com
 *.0-porno.com
@@ -2213,7 +2213,6 @@
 *.99pyue.buzz
 *.99re.cc
 *.99re.com
-*.99re.online
 *.99sar.com
 *.99xing.cc
 *.99xxxtube.com
@@ -2782,6 +2781,7 @@
 *.adult-maniacs.com
 *.adult-match-dating.com
 *.adult-materials.com
+*.adult-member-content.com
 *.adult-milfs.com
 *.adult-movies.cc
 *.adult-movies.pro
@@ -2800,6 +2800,7 @@
 *.adult-prime.com
 *.adult-publications.com
 *.adult-retro.com
+*.adult-select.com
 *.adult-sex-games.com
 *.adult-sex-gamess.com
 *.adult-sex-pictures.org
@@ -5116,7 +5117,6 @@
 *.amaturesex.net
 *.amaturetube.com
 *.amaturpicsteen.site
-*.amau.ru
 *.amauta-international.com
 *.amayaescorts.in
 *.amazing-babes.com
@@ -6581,7 +6581,6 @@
 *.arabsxsex.com
 *.arabsxsexx.com
 *.arabtnt.com
-*.arabtoons.net
 *.arabvideo.icu
 *.arabvideo.org
 *.arabwebcams.com
@@ -7175,6 +7174,7 @@
 *.asianmatures.net
 *.asianmilf.name
 *.asianmilfhub.com
+*.asianmilfpics.info
 *.asianmilfxxx.com
 *.asianmodel.com
 *.asianmom.pro
@@ -7805,6 +7805,7 @@
 *.erotiku.atozline.net
 *.matome-duma.atozline.net
 *.r18.atozline.net
+*.sex-videos.atozline.net
 *.urejyo.atozline.net
 *.vali-ero.atozline.net
 *.atporntube.com
@@ -11493,7 +11494,6 @@
 *.binorsemok.net
 *.bioescorts.com
 *.biohazardbitches.com
-*.bionestraff.pro
 *.bioporno.com
 *.biozdravi.eu
 *.bipasharoy.com
@@ -12927,6 +12927,7 @@
 *.bongacams.video
 *.bongacams.xxx
 *.bongacams-ru.com
+*.bongacams-ru.net
 *.bongacams1.com
 *.bongacams11.com
 *.bongacams12.com
@@ -15729,6 +15730,7 @@
 *.cassie4mayor.com
 *.cassiescatstore.com
 *.cassinellimuscle.com
+*.casta-ru.net
 *.castedeurope.com
 *.castexotic.com
 *.castfetish.com
@@ -19286,6 +19288,7 @@
 *.hqporner.com.es
 *.hqporno.com.br
 *.huergo.com.mx
+*.hungriahiphop.com.br
 *.hushescorts.com.au
 *.ilhadoprazer.com.br
 *.incekescorts10.com.tr
@@ -23964,6 +23967,7 @@
 *.dreamclub.nz
 *.dreamdivas.in
 *.dreameducation.net
+*.dreamerconcepts.org
 *.dreamescorts.in
 *.dreamfilth.com
 *.dreamgf.ai
@@ -24140,6 +24144,7 @@
 *.dubai-escorts.org
 *.dubai-escorts-callgirls.com
 *.dubai-escortsagency.com
+*.dubai-massage-uae.com
 *.dubai-peaches.com
 *.dubai-stars.com
 *.dubaiadultescorts.com
@@ -25526,6 +25531,7 @@
 *.erogames.to
 *.eroganso.com
 *.erogarga.com
+*.erogaroku.com
 *.erogazo-sekurosu.com
 *.erogazofile.com
 *.erogazoo555.com
@@ -27273,6 +27279,7 @@
 *.evoolikngibhd.shop
 *.evoolikngicfe.shop
 *.evoolikngixyq.shop
+*.evoolikngqred.shop
 *.evoolipxnamex.shop
 *.evoolipxngtkm.shop
 *.evoolipxnpdpq.shop
@@ -31384,7 +31391,6 @@
 *.freepornxnxxxvideos.site
 *.freepornxplace.com
 *.freepornxxx.pro
-*.freepornxxx.site
 *.freepornxxx.su
 *.freepornxxxhd.net
 *.freepornxxxvids.com
@@ -37252,6 +37258,7 @@
 *.hawttt.com
 *.hay-sex.pro
 *.hayadit.com
+*.hayat-schutz.de
 *.hayav.com
 *.hayhd.net
 *.hayjav.net
@@ -41673,6 +41680,7 @@
 *.hyggefactory.org
 *.hyggeligtreff.com
 *.hyip24.net
+*.hypehub.com
 *.hyperdreams.com
 *.hyperxxporn.com
 *.hyperxxporn.net
@@ -41704,6 +41712,7 @@
 *.hz-hentai.com
 *.hz-hentai.ru
 *.hzywhw.com
+*.i.af
 *.i-34.com
 *.i-analporn.com
 *.i-asianporn.com
@@ -44078,6 +44087,7 @@
 *.spacerock99.itch.io
 *.spicelagoon.itch.io
 *.spicy-pumpkin.itch.io
+*.spodvohom-games.itch.io
 *.squeaky-doelly.itch.io
 *.squirclegames.itch.io
 *.stancarter.itch.io
@@ -49845,6 +49855,7 @@
 *.lithree.com
 *.litlists.com
 *.litprocess.ru
+*.little-czech-girls.com
 *.littleapril.com
 *.littleasians.com
 *.littlebailey.com
@@ -49897,6 +49908,7 @@
 *.live-porn-sex-cam.com
 *.live-pornmovies.com
 *.live-sex.cam
+*.live-sex.fr
 *.live-sex-cam.video
 *.live-sex-cam-girls.net
 *.live-sex-cam-girls.stream
@@ -52404,6 +52416,7 @@
 *.matureasshole.com
 *.matureasspics.com
 *.matureasspics.info
+*.matureattract.com
 *.matureattractions.com
 *.matureaz.com
 *.maturebabesporn.com
@@ -55504,6 +55517,7 @@
 *.mrmancams.com
 *.mrmockle.com
 *.mrnoegyi.xyz
+*.mrpacks.com
 *.mrpay9pornn.com
 *.mrpeculiart.com
 *.mrpinks.com
@@ -56281,6 +56295,7 @@
 *.mykocam.com
 *.mykonoscallgirls.com
 *.mykonosescorts.com
+*.mykonosgirls.com
 *.myla.com
 *.myladies.com
 *.myladyboycupid.com
@@ -61411,6 +61426,7 @@
 *.passionaproximite.com
 *.passionateallure.com
 *.passionateneighbors.com
+*.passiondesire.com
 *.passiondolls.com
 *.passionelocale.com
 *.passionepiedi.com
@@ -63720,6 +63736,7 @@
 *.porn-accounts.com
 *.porn-adventures.com
 *.porn-ai-list.top
+*.porn-ai-top.top
 *.porn-app.com
 *.porn-arab.net
 *.porn-arab-xxx.ink
@@ -64971,6 +64988,7 @@
 *.pornhab.fyi
 *.pornhab.pro
 *.pornhail.com
+*.pornhamateur.fr
 *.pornhamster.net
 *.pornhan.mobi
 *.pornhao.com
@@ -66115,6 +66133,7 @@
 *.porno365.partners
 *.porno365.photo
 *.porno365.pics
+*.porno365.pink
 *.porno365.pl
 *.porno365.place
 *.porno365.plus
@@ -66496,6 +66515,7 @@
 *.pornocell.com
 *.pornocelt.com
 *.pornochan.com
+*.pornocharts.com
 *.pornochat.cam
 *.pornochat.moscow
 *.pornochat24.ru
@@ -69244,6 +69264,7 @@
 *.pornxp.tube
 *.pornxp.tv
 *.pornxp.video
+*.pornxp.watch
 *.pornxp.website
 *.pornxp.xyz
 *.pornxpert.com
@@ -74569,6 +74590,7 @@
 *.rupornovideos.com
 *.rupornox.com
 *.rupshikarai.in
+*.ruralescorts.com
 *.rurukan.org
 *.rus-ozvuchka.ru
 *.rus-porn365.ru
@@ -75433,6 +75455,7 @@
 *.scattubes.com
 *.scatvideos.club
 *.scatvids.club
+*.scatville.com
 *.scatvip.com
 *.scatvipfile.com
 *.scatxtube.com
@@ -76416,6 +76439,7 @@
 *.sex-roliki.net
 *.sex-room.by
 *.sex-room.ru
+*.sex-ru.net
 *.sex-ru.vip
 *.sex-rus.com
 *.sex-russia.online
@@ -79004,7 +79028,6 @@
 *.sexporndot.com
 *.sexpornfucks.com
 *.sexpornhat.com
-*.sexpornhot.com
 *.sexpornhouse.com
 *.sexpornlist.com
 *.sexpornlist.net
@@ -79197,6 +79220,7 @@
 *.sexs18.com
 *.sexs1818.net
 *.sexsachsenanhalt.com
+*.sexsaga.top
 *.sexsagar.com
 *.sexsalami.com
 *.sexsale.bg
@@ -79244,7 +79268,6 @@
 *.sexshop-krasnoyarsk.ru
 *.sexshop-novosibirsk.ru
 *.sexshop-srbija.com
-*.sexshop-xl.ru
 *.sexshop1.ru
 *.sexshop101.ru
 *.sexshop112.com
@@ -79281,7 +79304,6 @@
 *.sexshows18.com
 *.sexsi.cam
 *.sexsi-pay.life
-*.sexsic.ru
 *.sexsieunhan.com
 *.sexsieunhan.pro
 *.sexsilver.net
@@ -79315,7 +79337,6 @@
 *.sexsogoliki.com
 *.sexsohbet.info
 *.sexsoncharolais.com
-*.sexsosedka.com
 *.sexsosedka.fans
 *.sexsosedka.link
 *.sexsosedka.net
@@ -79356,7 +79377,6 @@
 *.sexstoriesplus.com
 *.sexstoriespost.com
 *.sexstoriesvilla.com
-*.sexstorm.cc
 *.sexstoryinhindi.in
 *.sexstoryking.com
 *.sexstream.com
@@ -79373,6 +79393,7 @@
 *.sexsub.cyou
 *.sexsub.tube
 *.sexsub10.com
+*.sexsub11.com
 *.sexsub123.net
 *.sexsub2.com
 *.sexsub3.com
@@ -79537,7 +79558,6 @@
 *.sextop.ink
 *.sextop.net
 *.sextop.rocks
-*.sextop.tube
 *.sextop.uk
 *.sextop.video
 *.sextop001.net
@@ -79594,7 +79614,6 @@
 *.sextop1x.mobi
 *.sextop1x.pro
 *.sextop1xx.net
-*.sextop1xz.net
 *.sextop1yz.com
 *.sextop1yz.net
 *.sextop1z.fun
@@ -79780,7 +79799,6 @@
 *.sextutu.com
 *.sextuyen.com
 *.sextuyenchon.app
-*.sextuyenchon.com
 *.sextuyenchon.org
 *.sextuyenchon.pro
 *.sextuyenchon.xyz
@@ -79941,7 +79959,6 @@
 *.sexvideo-xxx.xyz
 *.sexvideo10.com
 *.sexvideo10.pro
-*.sexvideo100.pro
 *.sexvideo101.pro
 *.sexvideo101cn.com
 *.sexvideo103cn.com
@@ -80053,7 +80070,6 @@
 *.sexvidxxx.org
 *.sexvidzhub.com
 *.sexviet.art
-*.sexviet.blog
 *.sexviet.cloud
 *.sexviet.fan
 *.sexviet.info
@@ -80103,7 +80119,6 @@
 *.sexviethay.net
 *.sexviethay.org
 *.sexviethay.pro
-*.sexviethay.xyz
 *.sexvietmobi.com
 *.sexvietmoi.mobi
 *.sexvietmoi.xyz
@@ -80244,7 +80259,6 @@
 *.sexvn2.blog
 *.sexvn2.net
 *.sexvn2.vip
-*.sexvn2024.pro
 *.sexvn3.blog
 *.sexvn3x.fun
 *.sexvn3x.org
@@ -80353,9 +80367,7 @@
 *.sexxcup.com
 *.sexxem.online
 *.sexxgals.com
-*.sexxhab.com
 *.sexxhanquoc.com
-*.sexxhanquoc.pro
 *.sexxhay.info
 *.sexxhay69.com
 *.sexxhd.net
@@ -80456,7 +80468,6 @@
 *.sexxxmsk.com
 *.sexxxmurmansk.life
 *.sexxxnhatban.com
-*.sexxxnsk.com
 *.sexxxnsk.net
 *.sexxxnsk.one
 *.sexxxnsk.vip
@@ -80627,7 +80638,6 @@
 *.sexy24hr3.com
 *.sexy24hrs.com
 *.sexy24hrz.com
-*.sexy3dcomics.club
 *.sexy60plus.com
 *.sexy69.co
 *.sexy6tube.com
@@ -80662,7 +80672,6 @@
 *.sexyasiangirl.xyz
 *.sexyasians.net
 *.sexyasianteenspics.com
-*.sexyasianvideos.vip
 *.sexyasoy.com
 *.sexyassladies.com
 *.sexyauto168.site
@@ -80797,6 +80806,7 @@
 *.sexyfuck.me
 *.sexyfuck.net
 *.sexyfuckgames.com
+*.sexyfun.nl
 *.sexyfunadvice.com
 *.sexyfunworld.com
 *.sexyfur.com
@@ -80867,13 +80877,11 @@
 *.sexyin.com
 *.sexyincest.com
 *.sexyindiafilms.com
-*.sexyindianfuck.com
 *.sexyindianporn.pro
 *.sexyindianporno.com
 *.sexyindianporntube.com
 *.sexyindians.mobi
 *.sexyindiansex.com
-*.sexyindianxxx.com
 *.sexyinmtl.com
 *.sexyinstagirls.com
 *.sexyintights.com
@@ -80977,7 +80985,6 @@
 *.sexyplumpbabes.com
 *.sexyplus.biz
 *.sexypoisk.com
-*.sexypops.cc
 *.sexyporn.click
 *.sexyporn.tv
 *.sexyporn69.com
@@ -81012,7 +81019,6 @@
 *.sexyrostov.top
 *.sexysabor.com
 *.sexysaffron.com
-*.sexysandwichnaarden.nl
 *.sexysapphire.online
 *.sexysat-tv.com
 *.sexysatu.com
@@ -81084,7 +81090,6 @@
 *.sexyteensonline.com
 *.sexyteensphotos.com
 *.sexyteensxxx.net
-*.sexytelki-msk.com
 *.sexytelki-msk.net
 *.sexytelkimsk.net
 *.sexytelky-msk.com
@@ -81115,7 +81120,6 @@
 *.sexyvanessa.com
 *.sexyversecomics.com
 *.sexyvibes.nl
-*.sexyvid.cc
 *.sexyvidea.eu
 *.sexyvideo.click
 *.sexyvideo.fans
@@ -81937,7 +81941,6 @@
 *.shwup.com
 *.shwyfd.com
 *.shxjt.com
-*.shxkedu.com
 *.shyandnaked.com
 *.shyasianporn.com
 *.blog.shyaway.com
@@ -81947,7 +81950,6 @@
 *.shylaphotography.com
 *.shylastylezxxx.com
 *.shyoufei.com
-*.shyqyc.com
 *.shyteacherspet.com
 *.shyteen.tv
 *.shyteenporn.com
@@ -81960,7 +81962,6 @@
 *.sibelkekilli.com
 *.siberia113.ru
 *.sibirem.ru
-*.sibirki.net
 *.sibirki.su
 *.sibiryachka-kras.ru
 *.siblingsex.xyz
@@ -81986,8 +81987,6 @@
 *.sieucapvippro.com
 *.sieudam.biz
 *.sieudam.tv
-*.sieudamsexvietnam.com
-*.sieudamsexvn.com
 *.sieudamtv.com
 *.sieukhung.ca
 *.sieukhung.co
@@ -82102,6 +82101,7 @@
 *.simpleescorts.in
 *.simplegay.date
 *.simplenu.com
+*.simplenudes.org
 *.simpleporntube.com
 *.simply-adult.com
 *.simply-cosplay.com
@@ -82148,7 +82148,6 @@
 *.sin.dating
 *.sin.ro
 *.sin-temptation.com
-*.sin3dporn.club
 *.sincanburada.com
 *.sincaneskort.xyz
 *.sincankadin.com
@@ -82274,7 +82273,6 @@
 *.sirnakeskort.xyz
 *.sirporno.pro
 *.sirporno.xxx
-*.sirpornogratis.xxx
 *.sirsfap.com
 *.sis.la
 *.sis.porn
@@ -82924,7 +82922,6 @@
 *.snkrside.com
 *.snnbw.com
 *.snoalingerie.com
-*.snolixpic.com
 *.snowball-project.eu
 *.wh.sntckm.com
 *.sntniva-2.ru
@@ -82971,9 +82968,6 @@
 *.soctheol.ru
 *.soderganki.ru
 *.soderzhanki.su
-*.sodesifuck.com
-*.sodesisex.com
-*.sodesixxx.com
 *.sodesixxxvideos.com
 *.sodoll.com
 *.sodomise.net
@@ -83008,8 +83002,6 @@
 *.softcorexxxporn.com
 *.softuses.com
 *.sofuckingsexy.com
-*.sofuckvideos.com
-*.soganlikescort.com
 *.sogatinhas.net
 *.sogayboy.com
 *.sogayxxx.com
@@ -83035,7 +83027,6 @@
 *.soindianporn.com
 *.soindianporntube.com
 *.soindianxvideos.com
-*.soindianxxx.com
 *.soiree-coquine.net
 *.sojoob.com
 *.sok.click
@@ -83060,7 +83051,6 @@
 *.solobeauty.com
 *.solocunts.com
 *.sologirladdict.com
-*.sologirlpussy.com
 *.soloindependientes.com
 *.cint.solokeeper.online
 *.sololigar.com
@@ -83078,7 +83068,6 @@
 *.solorubias.com
 *.soloscenes.com
 *.solosoxxx.com
-*.solosuck.com
 *.soloteengirls.net
 *.soloteenpics.com
 *.solotouch.com
@@ -83214,8 +83203,6 @@
 *.sosalkino.sex
 *.sosalkino.tv
 *.sosalkino.xyz
-*.sosexmovies.com
-*.sosextube.com
 *.sosexygirl.com
 *.soshit.com
 *.sosi55.com
@@ -83285,9 +83272,6 @@
 *.southspanking.com
 *.soviamirza.com
 *.sovmestnye24.ru
-*.soxnxx.com
-*.soxxxhub.com
-*.soxxxmovs.com
 *.soyezcoquin.com
 *.soyjaks.party
 *.soyoungteens.com
@@ -83316,7 +83300,6 @@
 *.spacesmen.ru
 *.spacompanhantes.net
 *.spainbdsm.com
-*.spaleela.com
 *.spalnik.xyz
 *.spama.com
 *.spama.sa
@@ -83376,7 +83359,6 @@
 *.spankingshame.com
 *.spankingstraightboys.com
 *.spankingtgp.com
-*.spankingthem.com
 *.spankingtraeume.de
 *.spankingtube.com
 *.spankingtwinks.com
@@ -83759,7 +83741,6 @@
 *.stacyburke.com
 *.stacytheartist.com
 *.stacyvandenbergboobs.com
-*.staditalia.com
 *.stadtgarten-erfurt.de
 *.stagcollective.com
 *.staggstreet.com
@@ -83962,7 +83943,6 @@
 *.stocking-mania.com
 *.stocking-porn.com
 *.stocking-tease.com
-*.stocking-tgp.net
 *.stockingbrats.com
 *.stockings.pics
 *.stockings-fantasy.com
@@ -84667,7 +84647,6 @@
 *.suprematica.ru
 *.supreme-porn.com
 *.supremebabes.com
-*.supremexh.world
 *.suptube.com
 *.suragbureau.com
 *.suratbabes.com
@@ -84695,7 +84674,6 @@
 *.susanav168.com
 *.susanayn.com
 *.susdeseos.com
-*.sushikoi.mx
 *.sushiporntube.com
 *.susi.live
 *.susiewildin.com
@@ -84787,7 +84765,6 @@
 *.sweetandcasual.com
 *.sweetapatel.com
 *.sweetasian.pro
-*.sweetbabyescorts.com
 *.sweetbigboobstube.com
 *.sweetblowjob.com
 *.sweetbody.top
@@ -84836,7 +84813,6 @@
 *.sweetporn.mobi
 *.sweetporn.org
 *.sweetpornhub.com
-*.sweetporno.in
 *.sweetporno.link
 *.sweetporno.net
 *.sweetpornx.com
@@ -84979,9 +84955,7 @@
 *.sxyprn.com
 *.sxyprn.fun
 *.sxyprn.icu
-*.sxyprn.mobi
 *.sxyprn.net
-*.sxyprn.pro
 *.sxyprn.top
 *.sxyprn.tube
 *.sxyprn.vip
@@ -85341,7 +85315,6 @@
 *.tamil-porn-videos.com
 *.tamil-porno.com
 *.tamil-sex.org
-*.tamil-xnxx.xyz
 *.tamila.com
 *.tamilantelevision.com
 *.tamilauntysex.org
@@ -85615,7 +85588,6 @@
 *.te-en.net
 *.te-teen.com
 *.teach2wait.com
-*.teacher-fucker.com
 *.teacherfucksteens.com
 *.teacherpics.com
 *.teacherporn1.com
@@ -85721,7 +85693,6 @@
 *.teen-sex-pictures.com
 *.teen-sex-porn.pro
 *.teen-sex-tv.com
-*.teen-sex-videos.net
 *.teen-sex-videos.pro
 *.teen-sexvideos.org
 *.teen-sexy.com
@@ -85730,7 +85701,6 @@
 *.teen-shots.com
 *.teen-solo.com
 *.teen-spread-pussy.com
-*.teen-star-magazine.com
 *.teen-teacher.com
 *.teen-teen.net
 *.teen-tube.mobi
@@ -85825,7 +85795,6 @@
 *.teencoreclub.com
 *.teencorefilms.com
 *.teencorezine.com
-*.teencouplesporn.com
 *.teencreeper.com
 *.teencum.tv
 *.teencumdumps.com
@@ -85948,7 +85917,6 @@
 *.teenlist.net
 *.teenlist.top
 *.teenlittle.com
-*.teenlovedreams.com
 *.teenloverclub.com
 *.teenlovestube.com
 *.teenlustzone.top
@@ -86082,7 +86050,6 @@
 *.teenporntube.mobi
 *.teenporntube.xxx
 *.teenporntubea.com
-*.teenporntuber.com
 *.teenporntubes.com
 *.teenporntv.net
 *.teenpornvideo.fun
@@ -86187,7 +86154,6 @@
 *.teensexlive.cc
 *.teensexmania.com
 *.teensexmania.ws
-*.teensexmix.biz
 *.teensexmix.com
 *.teensexmix.net
 *.teensexmix.org
@@ -86232,7 +86198,6 @@
 *.teenshomemade.com
 *.teenshomeporn.com
 *.teensinasia.com
-*.teensinstockings.net
 *.teensinthewoods.com
 *.teensinwetpanties.com
 *.teensleak.com
@@ -87085,7 +87050,6 @@
 *.theevex.com
 *.thefablife.com
 *.thefaceofindia.in
-*.thefamilyguyporn.com
 *.thefamilysextube.com
 *.thefantazy.com
 *.thefap.net
@@ -87338,7 +87302,6 @@
 *.theomegaproject.org
 *.theoralslut.com
 *.theorgasmiclife.com
-*.theotherboard.com
 *.theotherlivvy.com
 *.theothertentacle.com
 *.theoverlookhotel.com
@@ -87711,7 +87674,6 @@
 *.thothd.to
 *.thotheaven.com
 *.thothub.ch
-*.thothub.in
 *.thothub.info
 *.thothub.is
 *.thothub.lol
@@ -87722,13 +87684,11 @@
 *.thothub.su
 *.thothub.to
 *.thothub.today
-*.thothub.tube
 *.thothub.vip
 *.thothub.win
 *.thothub-leaked.com
 *.thotjerk.com
 *.thotleaked.com
-*.thotleaks.in
 *.thotleaks.tv
 *.thotmax.com
 *.thotpacks.xyz
@@ -87833,7 +87793,6 @@
 *.thundergirls.com
 *.thunderplace.org
 *.thundersarena.com
-*.thutaswaison.xyz
 *.tia-tanaka.com
 *.tiacyrusxx.com
 *.tiamanhwa.com
@@ -87852,7 +87811,6 @@
 *.tiava.top
 *.tiava.tv
 *.tiava.work
-*.tiava1.com
 *.tiavaporn.club
 *.tiavastube.com
 *.tibet-club.ru
@@ -88075,7 +88033,6 @@
 *.tits.xyz
 *.tits-bigtits.com
 *.tits-guru.net
-*.tits-porn.vip
 *.tits2.top
 *.tits3.com
 *.tits4.top
@@ -88149,7 +88106,6 @@
 *.tj-clf.com
 *.tjav.tv
 *.tjdolany.net
-*.tjhcjscl.com
 *.tjlanzhi.com
 *.tjldktv.com
 *.tjmbw.com
@@ -88473,7 +88429,6 @@
 *.topasianp.com
 *.topasianporn.mobi
 *.topasianpornmovies.com
-*.topasianporno.com
 *.topasiansporn.com
 *.topasianteens.com
 *.topasianvideo.com
@@ -88482,7 +88437,6 @@
 *.topbadgirlxxxxxx.life
 *.topbadgirlxxxxxx.online
 *.topbadgirlxxxxxx.pro
-*.topbangaloreescortservice.com
 *.topbdsmporn.com
 *.topbdsmtube.com
 *.topbigtitsporn.com
@@ -88511,7 +88465,6 @@
 *.topcreators.net
 *.topdamas.com
 *.topdelhigirls.com
-*.topdesifuck.com
 *.topdesiporn.pro
 *.topdesisexstories.com
 *.topdevices.info
@@ -88694,7 +88647,6 @@
 *.toprealincestvideos.com
 *.toprips.com
 *.toprupornovideos.click
-*.toprupornovideos.link
 *.toprupornovideos.top
 *.toprussianescort.com
 *.toprustarsx.com
@@ -88773,14 +88725,12 @@
 *.topwebmodels.com
 *.topwebteens.com
 *.topworldescort.com
-*.topxflix.com
 *.topxnxx.com
 *.topxxnxporn.com
 *.topxxx.vip
 *.topxxx69.com
 *.topxxxhd.com
 *.topxxxhindi.com
-*.topxxxhub.com
 *.topxxxmovs.com
 *.topxxxpornvids.com
 *.topxxxsiteslist.com
@@ -88797,7 +88747,6 @@
 *.torbe.es
 *.torchemada.net
 *.torfile.org
-*.toriaezu-namade.com
 *.toriblack.com
 *.toriblack.mobi
 *.toricooperauthor.com
@@ -88892,7 +88841,6 @@
 *.toytoplist.com
 *.toywithme.com
 *.tozimak.ru
-*.tpolice.com
 *.tporn.cc
 *.tporn.org
 *.tporn.tube
@@ -89305,7 +89253,6 @@
 *.travestiscam.es
 *.travestisclub.com
 *.travestiscordoba.com
-*.travestisex.com
 *.travestisfans.com
 *.travestismexico.com
 *.travestisohbet.net
@@ -91908,10 +91855,11 @@
 *.vid-mg.com
 *.vid-xm.com
 *.vid123.net
+*.ablink.emails.vida.com
+*.ablink.info.vida.com
 *.vidalebal.fans
 *.vidamora.com
 *.vidcams.com
-*.tr21.vide365.com
 *.videakia.eu
 *.videaletoltes.com
 *.videarn.com
@@ -91992,6 +91940,7 @@
 *.videobrasileirinhas.net
 *.videobrasileiro.com
 *.videobunch.com
+*.videocallsex.net
 *.videocallxxx.com
 *.videocasalinghigratis.com
 *.videocelebrities.eu
@@ -94115,6 +94064,7 @@
 *.webcam-sites.net
 *.webcam-teen.net
 *.webcam-telefon-sex.net
+*.webcam-telefonsex.one
 *.webcam-whoring.com
 *.webcam-xxx.eu
 *.webcam24chat.com
@@ -98562,6 +98512,7 @@
 *.xxx-red-tube.online
 *.xxx-retro-xxx.com
 *.xxx-ru.com
+*.xxx-ru.net
 *.xxx-sborniki.ru
 *.xxx-scenes.com
 *.xxx-seks.net

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 15:00 UTC
-# Version: 2025.0605.1500.47
+# Last modified: 06 Jun 2025 02:02 UTC
+# Version: 2025.0606.0202.32
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4848
+# Number of entries: 4854
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1345,6 +1345,7 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
+local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1500,6 +1501,7 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
+local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2155,6 +2157,11 @@ local=/vpn.jogjacloud.com/
 local=/adguard.johanliebert.top/
 local=/johneldenring.lol/
 local=/johnkellyprivate.com/
+local=/child.joindns4.eu/
+local=/child-noads.joindns4.eu/
+local=/noads.joindns4.eu/
+local=/protective.joindns4.eu/
+local=/unfiltered.joindns4.eu/
 local=/joker81fansbase.site/
 local=/opencdn.jomodns.com/
 local=/jongserver.xyz/
@@ -2630,6 +2637,7 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
+local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -3905,8 +3913,6 @@ local=/surprise.pics/
 local=/surtshark.com/
 local=/dns.sv-zauner.at/
 local=/dns.svoi.dev/
-local=/popteeee-oawhnefoua-foaebaouef.swanndvr.net/
-local=/popteeeeee-sajoiwejfo-huhu.swanndvr.net/
 local=/ramm-ume-pro.swanndvr.net/
 local=/rammerhead-10.swanndvr.net/
 local=/swapip.com/
@@ -3972,7 +3978,6 @@ local=/reallycoolmathblahblahblah.the-schmidt-family.org/
 local=/thebestproxy.info/
 local=/thebestvpn.com/
 local=/ixl-tw6f.thebrittainlawfirm.com/
-local=/thisisnotagamewebsite.thebrittainlawfirm.com/
 local=/dns.thebuckners.org/
 local=/theclickcheck.com/
 local=/thecodeil.com/
@@ -4111,6 +4116,7 @@ local=/towervpn.com/
 local=/home.sso.toythieves.com/
 local=/portal.sso.toythieves.com/
 local=/tpymainx01.ru/
+local=/dns.tracker.ink/
 local=/tradeadspace.info/
 local=/linewize.tradekinginternational.com/
 local=/trafflink.xyz/
