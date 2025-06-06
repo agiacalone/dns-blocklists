@@ -38617,8 +38617,6 @@ analytics.getpostman.com CNAME .
 *.analytics.getpostman.com CNAME .
 getprofilematch.com CNAME .
 *.getprofilematch.com CNAME .
-getpublica.com CNAME .
-*.getpublica.com CNAME .
 getpushmonkey.com CNAME .
 *.getpushmonkey.com CNAME .
 getqonfi.com CNAME .
@@ -109871,8 +109869,6 @@ naverwebtoon-phinf.pstatic.net CNAME .
 *.naverwebtoon-phinf.pstatic.net CNAME .
 searchad-phinf.pstatic.net CNAME .
 *.searchad-phinf.pstatic.net CNAME .
-ssl.pstatic.net CNAME .
-*.ssl.pstatic.net CNAME .
 tvetamovie.pstatic.net CNAME .
 *.tvetamovie.pstatic.net CNAME .
 psylist.net CNAME .

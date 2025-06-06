@@ -50522,7 +50522,6 @@
 *.events.getpostman.com
 *.getprocrack.com
 *.getprofilematch.com
-*.getpublica.com
 *.getpush.net
 *.getpushmonkey.com
 *.getqonfi.com
@@ -92522,7 +92521,6 @@
 *.naverpa-phinf.pstatic.net
 *.naverwebtoon-phinf.pstatic.net
 *.searchad-phinf.pstatic.net
-*.ssl.pstatic.net
 *.tvetamovie.pstatic.net
 *.pb3.pstatp.com
 *.sf1-pitaya-tos.pstatp.com

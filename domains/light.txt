@@ -46787,16 +46787,6 @@ to.getnitropack.com
 widgets.getpocket.com
 analytics.getpostman.com
 getprofilematch.com
-getpublica.com
-pbc.getpublica.com
-pblog-eu.getpublica.com
-pblog-vmap.getpublica.com
-pbs.getpublica.com
-pbs-eu.getpublica.com
-prebid-log.getpublica.com
-stream-us-east-1.getpublica.com
-sync.getpublica.com
-usersync.getpublica.com
 ga.getresponse.com
 ga2.getresponse.com
 getrockerbox.com
@@ -69218,7 +69208,6 @@ ad-creative.pstatic.net
 naverpa-phinf.pstatic.net
 naverwebtoon-phinf.pstatic.net
 searchad-phinf.pstatic.net
-ssl.pstatic.net
 tvetamovie.pstatic.net
 pb3.pstatp.com
 sf1-ttcdn-tos.pstatp.com

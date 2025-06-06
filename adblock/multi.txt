@@ -50808,7 +50808,6 @@
 ||analytics.getpostman-stage.com^
 ||getprofilematch.com^
 ||getprofilesources.com^
-||getpublica.com^
 ||analytics.getresponse.com^
 ||ga.getresponse.com^
 ||ga2.getresponse.com^
@@ -89854,7 +89853,6 @@
 ||naverpa-phinf.pstatic.net^
 ||naverwebtoon-phinf.pstatic.net^
 ||searchad-phinf.pstatic.net^
-||ssl.pstatic.net^
 ||tvetamovie.pstatic.net^
 ||dm.pstatp.com^
 ||pb3.pstatp.com^

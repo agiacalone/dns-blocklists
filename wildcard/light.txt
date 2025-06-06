@@ -17953,7 +17953,6 @@
 *.widgets.getpocket.com
 *.analytics.getpostman.com
 *.getprofilematch.com
-*.getpublica.com
 *.ga.getresponse.com
 *.ga2.getresponse.com
 *.getrockerbox.com
@@ -31696,7 +31695,6 @@
 *.naverpa-phinf.pstatic.net
 *.naverwebtoon-phinf.pstatic.net
 *.searchad-phinf.pstatic.net
-*.ssl.pstatic.net
 *.tvetamovie.pstatic.net
 *.pb3.pstatp.com
 *.sf1-ttcdn-tos.pstatp.com

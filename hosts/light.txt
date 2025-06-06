@@ -46787,16 +46787,6 @@
 0.0.0.0 widgets.getpocket.com
 0.0.0.0 analytics.getpostman.com
 0.0.0.0 getprofilematch.com
-0.0.0.0 getpublica.com
-0.0.0.0 pbc.getpublica.com
-0.0.0.0 pblog-eu.getpublica.com
-0.0.0.0 pblog-vmap.getpublica.com
-0.0.0.0 pbs.getpublica.com
-0.0.0.0 pbs-eu.getpublica.com
-0.0.0.0 prebid-log.getpublica.com
-0.0.0.0 stream-us-east-1.getpublica.com
-0.0.0.0 sync.getpublica.com
-0.0.0.0 usersync.getpublica.com
 0.0.0.0 ga.getresponse.com
 0.0.0.0 ga2.getresponse.com
 0.0.0.0 getrockerbox.com
@@ -69218,7 +69208,6 @@
 0.0.0.0 naverpa-phinf.pstatic.net
 0.0.0.0 naverwebtoon-phinf.pstatic.net
 0.0.0.0 searchad-phinf.pstatic.net
-0.0.0.0 ssl.pstatic.net
 0.0.0.0 tvetamovie.pstatic.net
 0.0.0.0 pb3.pstatp.com
 0.0.0.0 sf1-ttcdn-tos.pstatp.com

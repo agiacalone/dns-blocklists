@@ -26227,7 +26227,6 @@ spocs.getpocket.com
 widgets.getpocket.com
 analytics.getpostman.com
 getprofilematch.com
-getpublica.com
 getpush.net
 getpushmonkey.com
 getqonfi.com
@@ -50207,7 +50206,6 @@ ad-creative.pstatic.net
 naverpa-phinf.pstatic.net
 naverwebtoon-phinf.pstatic.net
 searchad-phinf.pstatic.net
-ssl.pstatic.net
 tvetamovie.pstatic.net
 pb3.pstatp.com
 sf1-ttcdn-tos.pstatp.com
