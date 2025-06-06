@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 21:12 UTC
-# Version: 2025.0605.2112.32
+# Last modified: 06 Jun 2025 08:12 UTC
+# Version: 2025.0606.0812.23
 # Syntax: Domains (without subdomains)
-# Number of entries: 5878
+# Number of entries: 5876
 #
 0.gp
 00oo.lol
@@ -2672,6 +2672,7 @@ liltext.com
 limiteds.live
 lin.ee
 lin.io
+lin.st
 lin-k.cc
 lin-k.eu
 lin-k.me
@@ -3225,6 +3226,7 @@ myshorturls.com
 mysp.ac
 mysurl.com
 mytd.cc
+mytiktok.life
 mytinycheck9.life
 mytoluwalemi.life
 mytorus.live
@@ -3427,6 +3429,7 @@ ok2.com
 okachi.info
 okachi.life
 okcvw.sbs
+okebio.com
 okeegas.win
 okshort.net
 okt.to
@@ -4821,9 +4824,11 @@ tipeos.com
 tisfri.se
 titaniumlinks.com
 titleagentmarketing.com
+titok.website
 tiurl.link
 tixxh.com
 tj.wtf
+tj-bet88.store
 tjazih.com
 tklinks.com
 tktwb.tw
@@ -4999,7 +5004,6 @@ twurl.nl
 tx0.org
 txdl.top
 txhih.sbs
-txtr.cc
 txul.cn
 ty.gy
 tylervisionary.live
@@ -5007,7 +5011,6 @@ u.nu
 u.to
 u-rl.li
 u0c.net
-u2l.io
 u301.com
 u3l.co
 u6e.de
@@ -5299,7 +5302,6 @@ vineland.dj
 vip-gacha99.info
 vipgacor77.net
 viprupiah138.net
-vipshortener.com
 vipslot4d.site
 viptango77.net
 viraln.co
@@ -5450,7 +5452,6 @@ webrc.net
 webseoexpert.life
 webshort.org
 webshortner.com
-webuji4d.life
 webyank4d.live
 webz.cc
 wec.li
@@ -5509,7 +5510,6 @@ whoel.se
 whr.tn
 whs.link
 whxce.sbs
-whyiwu.com
 wi.se
 wideo.fr
 widyh.com
@@ -5518,7 +5518,6 @@ s.wikicharlie.cl
 peercertification.wildalwhite.com
 wilsonlopez0404inc.life
 win.gs
-win7.life
 windows69.live
 winlynk.com
 shortener.winplaybox.in
@@ -5527,7 +5526,6 @@ wipp.me
 wishct.live
 wit.to
 witchny.live
-withtask.com
 wiuqz.com
 wjib.top
 wjsxb.com
@@ -5630,7 +5628,6 @@ xgam.es
 xgd.in
 xi.ht
 xib.me
-xip.li
 xiqi.us
 xjroy.com
 xjyus.sbs
@@ -5875,6 +5872,7 @@ zsote.com
 zti.me
 zugco.sbs
 zuki.ie
+zum.bi
 zuplo.link
 zurb.us
 zurins.uk

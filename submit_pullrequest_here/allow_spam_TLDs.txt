@@ -69,6 +69,7 @@ popdog.click
 qr-code.click
 ravelin.click
 wmg.click
+baby-beamup.club
 digipres.club
 hd-olimpo.club
 mbcherohub.club
@@ -120,6 +121,7 @@ e.foundation
 grapheneos.foundation
 jp.foundation
 player.foundation
+strem.fun
 apollo.fyi
 better.fyi
 genderdysphoria.fyi

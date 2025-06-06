@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jun 2025 01:39 UTC
-# Version: 2025.0606.0139.28
+# Last modified: 06 Jun 2025 12:34 UTC
+# Version: 2025.0606.1234.19
 # Syntax: Domains (without subdomains)
-# Number of entries: 10032
+# Number of entries: 10022
 #
 0123456789nonexistent.com
 0123movie.net
@@ -2671,7 +2671,6 @@ duboku.net
 duboku.tv
 duboku.vip
 cutscloud.duckdns.org
-joczo.duckdns.org
 kamikazee.duckdns.org
 thinking.duckdns.org
 tr4ck3r.duckdns.org
@@ -7080,6 +7079,7 @@ redditnhlstreams.com
 redditsoccerstreams.org
 redditsoccerstreams.tv
 redditsoccerstreams.xyz
+redditsport.cc
 redecanais.zip
 redecanaistv.zip
 ica1616.redirectme.net
@@ -8950,7 +8950,6 @@ ufs.pt
 piracitoplista.ugu.pl
 uhdbits.org
 uhdmovies.dad
-uhdmovies.fans
 uhdmovies.fyi
 uhdmovies.us
 uhdmv.org
@@ -9206,7 +9205,6 @@ uscene.net
 usch.ru
 usemeplz.com
 usenet.farm
-usenet.wtf
 usenet-4all.pw
 usenet-crawler.com
 usenetexpress.com
@@ -9301,7 +9299,6 @@ vidcloud.icu
 vidcloud.us
 vidcloud1.com
 vidcloud9.com
-vidclouds.icu
 vidembed.net
 videobin.co
 videocop.com
@@ -9384,7 +9381,6 @@ voir-seriestreaming.org
 voirdrama.org
 voirfilm.vip
 voirfilms.al
-voirfilms.io
 voirfilms.tel
 voirfilms.ws
 voirfilmstreaming.online
@@ -9440,7 +9436,6 @@ wannabefansubs.net
 wantdownloads.net
 wapfun.us
 bdix.wapka.me
-xfilmywap.wapkiz.com
 films.waploaded.com
 waplog.net
 wappaero.com
@@ -9484,7 +9479,6 @@ warezlander.com
 warezload.net
 warezlover.xyz
 warezm.com
-warezmac.com
 warezmaster.com
 warezok.net
 warezomen.com
@@ -9603,7 +9597,6 @@ webstats4u.com
 webstress.net
 webstresser.biz
 webstresser.co
-webstresser.com
 webtor.io
 webtorrent.io
 tracker.webtorrent.dev
@@ -9671,10 +9664,8 @@ worldboxingvideoarchive.com
 worldbytez.com
 worldcupfootball.me
 worldfree4u.moe
-worldfree4u.pm
 worldmags.net
 worldofcracksoft.com
-worldofp2p.net
 worldofpcgames.co
 worldofpcgames.com
 worldsrc.net
@@ -9754,7 +9745,6 @@ xn--firstrowsport-8xe.eu
 budvartrekker.xn-s.eu
 hd-hu.xn-s.eu
 xoomtv.xyz
-tterm.xorg.pl
 xpau.se
 xplorenetbd.com
 xpress.ltd

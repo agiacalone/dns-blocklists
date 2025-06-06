@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749157920 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749197520 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 05 Jun 2025 21:12 UTC
-; Version: 2025.0605.2112.32
+; Last modified: 06 Jun 2025 08:12 UTC
+; Version: 2025.0606.0812.23
 ; Syntax: RPZ
-; Number of entries: 11756
+; Number of entries: 11752
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -362,6 +362,8 @@ read.bi CNAME .
 *.read.bi CNAME .
 scr.bi CNAME .
 *.scr.bi CNAME .
+zum.bi CNAME .
+*.zum.bi CNAME .
 cutit.bid CNAME .
 *.cutit.bid CNAME .
 short.bid CNAME .
@@ -760,8 +762,6 @@ tovgo.cc CNAME .
 *.tovgo.cc CNAME .
 twurl.cc CNAME .
 *.twurl.cc CNAME .
-txtr.cc CNAME .
-*.txtr.cc CNAME .
 ub0.cc CNAME .
 *.ub0.cc CNAME .
 uich.cc CNAME .
@@ -2610,6 +2610,8 @@ ojopm.com CNAME .
 *.ojopm.com CNAME .
 ok2.com CNAME .
 *.ok2.com CNAME .
+okebio.com CNAME .
+*.okebio.com CNAME .
 omxhp.com CNAME .
 *.omxhp.com CNAME .
 onion.com CNAME .
@@ -3322,8 +3324,6 @@ at.vibe.com CNAME .
 *.at.vibe.com CNAME .
 vigilink.com CNAME .
 *.vigilink.com CNAME .
-vipshortener.com CNAME .
-*.vipshortener.com CNAME .
 virl.com CNAME .
 *.virl.com CNAME .
 url.virtualstr8pnp.com CNAME .
@@ -3386,16 +3386,12 @@ go.weplayholding.com CNAME .
 *.go.weplayholding.com CNAME .
 whatsappconsulta.com CNAME .
 *.whatsappconsulta.com CNAME .
-whyiwu.com CNAME .
-*.whyiwu.com CNAME .
 widyh.com CNAME .
 *.widyh.com CNAME .
 peercertification.wildalwhite.com CNAME .
 *.peercertification.wildalwhite.com CNAME .
 winlynk.com CNAME .
 *.winlynk.com CNAME .
-withtask.com CNAME .
-*.withtask.com CNAME .
 wiuqz.com CNAME .
 *.wiuqz.com CNAME .
 wjsxb.com CNAME .
@@ -5504,8 +5500,6 @@ tlsn.io CNAME .
 *.tlsn.io CNAME .
 tpc.io CNAME .
 *.tpc.io CNAME .
-u2l.io CNAME .
-*.u2l.io CNAME .
 ubm.io CNAME .
 *.ubm.io CNAME .
 ugp.io CNAME .
@@ -6030,8 +6024,6 @@ wec.li CNAME .
 *.wec.li CNAME .
 wed.li CNAME .
 *.wed.li CNAME .
-xip.li CNAME .
-*.xip.li CNAME .
 xpr.li CNAME .
 *.xpr.li CNAME .
 d.yzh.li CNAME .
@@ -6382,6 +6374,8 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
+mytiktok.life CNAME .
+*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -6560,14 +6554,10 @@ weberdesign.life CNAME .
 *.weberdesign.life CNAME .
 webseoexpert.life CNAME .
 *.webseoexpert.life CNAME .
-webuji4d.life CNAME .
-*.webuji4d.life CNAME .
 white-horse-dc-58.life CNAME .
 *.white-horse-dc-58.life CNAME .
 wilsonlopez0404inc.life CNAME .
 *.wilsonlopez0404inc.life CNAME .
-win7.life CNAME .
-*.win7.life CNAME .
 work24.life CNAME .
 *.work24.life CNAME .
 world-champions-us.life CNAME .
@@ -10216,6 +10206,8 @@ korta.st CNAME .
 *.korta.st CNAME .
 laco.st CNAME .
 *.laco.st CNAME .
+lin.st CNAME .
+*.lin.st CNAME .
 ls.st CNAME .
 *.ls.st CNAME .
 nyp.st CNAME .
@@ -10248,6 +10240,8 @@ medusa88.store CNAME .
 *.medusa88.store CNAME .
 situsslotzeus.store CNAME .
 *.situsslotzeus.store CNAME .
+tj-bet88.store CNAME .
+*.tj-bet88.store CNAME .
 link.zodia.studio CNAME .
 *.link.zodia.studio CNAME .
 tiny.zodia.studio CNAME .
@@ -11474,6 +11468,8 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
+titok.website CNAME .
+*.titok.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .

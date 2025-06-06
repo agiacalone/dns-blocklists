@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jun 2025 01:58 UTC
-# Version: 2025.0606.0158.59
+# Last modified: 06 Jun 2025 12:54 UTC
+# Version: 2025.0606.1254.30
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 1483
+# Number of entries: 1482
 #
 local=/0000000000000000000000.com/
 local=/0rg.us/
@@ -1376,7 +1376,6 @@ local=/traeumtgerade.de/
 local=/trailsendlodge.org/
 local=/trickip.net/
 local=/trickip.org/
-local=/trieditmyself.com/
 local=/tru.io/
 local=/truthvid.com/
 local=/tscng.org/

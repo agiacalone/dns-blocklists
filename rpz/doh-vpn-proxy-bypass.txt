@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749175320 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749214680 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jun 2025 02:02 UTC
-; Version: 2025.0606.0202.32
+; Last modified: 06 Jun 2025 12:58 UTC
+; Version: 2025.0606.1258.12
 ; Syntax: RPZ
-; Number of entries: 9708
+; Number of entries: 9694
 ;
 unblocked.ac CNAME .
 *.unblocked.ac CNAME .
@@ -1664,8 +1664,6 @@ dns.editechstudio.com CNAME .
 *.dns.editechstudio.com CNAME .
 education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
 *.education-lesson-pre-algebra-lesson68.eduarmor.com CNAME .
-dns.efficientdocuments.com CNAME .
-*.dns.efficientdocuments.com CNAME .
 elearning.electronicajck.com CNAME .
 *.elearning.electronicajck.com CNAME .
 registry.electronicajck.com CNAME .
@@ -2602,8 +2600,6 @@ myvpn.com CNAME .
 *.myvpn.com CNAME .
 mywebtunnel.com CNAME .
 *.mywebtunnel.com CNAME .
-dns.mzjtechnology.com CNAME .
-*.dns.mzjtechnology.com CNAME .
 study.sci.nabim.com CNAME .
 *.study.sci.nabim.com CNAME .
 nanoproxy.com CNAME .
@@ -3696,8 +3692,6 @@ uinlive-time.com CNAME .
 *.uinlive-time.com CNAME .
 webproxy.uk.com CNAME .
 *.webproxy.uk.com CNAME .
-uktvproxy.com CNAME .
-*.uktvproxy.com CNAME .
 ultrabestproxy.com CNAME .
 *.ultrabestproxy.com CNAME .
 ultrafastproxy.com CNAME .
@@ -4038,8 +4032,6 @@ whitehatvpn.com CNAME .
 *.whitehatvpn.com CNAME .
 whoisping.com CNAME .
 *.whoisping.com CNAME .
-whyproxy.com CNAME .
-*.whyproxy.com CNAME .
 widevpn.com CNAME .
 *.widevpn.com CNAME .
 wiefy.com CNAME .
@@ -4068,8 +4060,6 @@ worldgravityapp.com CNAME .
 *.worldgravityapp.com CNAME .
 wossow.com CNAME .
 *.wossow.com CNAME .
-writingessaypros.com CNAME .
-*.writingessaypros.com CNAME .
 ns2.wuyouss.com CNAME .
 *.ns2.wuyouss.com CNAME .
 ns3.wuyouss.com CNAME .
@@ -5924,8 +5914,6 @@ theproxy.me CNAME .
 *.theproxy.me CNAME .
 timetohide.me CNAME .
 *.timetohide.me CNAME .
-tubeunblock.me CNAME .
-*.tubeunblock.me CNAME .
 unblocked.me CNAME .
 *.unblocked.me CNAME .
 unblocked4.me CNAME .
@@ -8806,8 +8794,6 @@ knowurcson.store CNAME .
 *.knowurcson.store CNAME .
 tildenderek.store CNAME .
 *.tildenderek.store CNAME .
-dns.fizz.studio CNAME .
-*.dns.fizz.studio CNAME .
 dns.xuming.studio CNAME .
 *.dns.xuming.studio CNAME .
 proxy.2d.su CNAME .

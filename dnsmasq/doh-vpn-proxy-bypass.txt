@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jun 2025 02:02 UTC
-# Version: 2025.0606.0202.32
+# Last modified: 06 Jun 2025 12:58 UTC
+# Version: 2025.0606.1258.12
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 4854
+# Number of entries: 4847
 #
 local=/003153.xyz/
 local=/ns.00dani.me/
@@ -1345,7 +1345,6 @@ local=/education-lesson-pre-algebra-lesson68.eduarmor.com/
 local=/educationdean.us/
 local=/adguard.ef67daisuki.club/
 local=/tor.eff.org/
-local=/dns.efficientdocuments.com/
 local=/scifi0.eigenlicht.us/
 local=/hole.elbschloss.xyz/
 local=/elearning.electronicajck.com/
@@ -1501,7 +1500,6 @@ local=/fishingandgunoutdoors.com/
 local=/fishproxy.com/
 local=/fitnessdepotprices.com/
 local=/fixproxy.com/
-local=/dns.fizz.studio/
 local=/gothgirlsareawesome.flamex.hm/
 local=/flarquix.xyz/
 local=/flashpull.com/
@@ -2637,7 +2635,6 @@ local=/mywebtunnel.com/
 local=/area51.mywire.org/
 local=/fwgw.orangepipc.mywire.org/
 local=/mzhlhrfr8z.info/
-local=/dns.mzjtechnology.com/
 local=/dns.mzrme.cn/
 local=/n0.eu/
 local=/dns.n23.io/
@@ -4144,7 +4141,6 @@ local=/dns.tryk.app/
 local=/arxthegoat.ts0880.es/
 local=/doh.ibr.cs.tu-bs.de/
 local=/tubeprox.com/
-local=/tubeunblock.me/
 local=/tubeunblock.net/
 local=/tujenasnaszato.xyz/
 local=/tunnelbear.com/
@@ -4182,7 +4178,6 @@ local=/ufreevpn.com/
 local=/ugdsoft.com/
 local=/uinlive-time.com/
 local=/webproxy.uk.com/
-local=/uktvproxy.com/
 local=/ukwebproxy.eu/
 local=/debate.major.ulrik.net/
 local=/ultimatepro.us/
@@ -4681,7 +4676,6 @@ local=/whitehatvpn.com/
 local=/learn.whitespaceairwaves.org/
 local=/whoer.net/
 local=/whoisping.com/
-local=/whyproxy.com/
 local=/dns.wibenson.cloud/
 local=/widevpn.com/
 local=/wiefy.com/
@@ -4725,7 +4719,6 @@ local=/worldwideproxy4u.win/
 local=/wossow.com/
 local=/wproxy.net/
 local=/home.wriedts.de/
-local=/writingessaypros.com/
 local=/wtools.eu/
 local=/ns2.wuyouss.com/
 local=/ns3.wuyouss.com/

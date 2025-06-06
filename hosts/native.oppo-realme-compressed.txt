@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:39 UTC
-# Version: 2025.0524.0039.54
+# Last modified: 06 Jun 2025 10:17 UTC
+# Version: 2025.0606.1017.43
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 50
 #
@@ -54,8 +54,8 @@
 0.0.0.0 httpdns-euex-push.heytapmobile.com httpdns-ocloud.heytapmobile.com httpdns-push.heytapmobile.com mdp-usertrace-in.heytapmobile.com mdp-usertrace-sg.heytapmobile.com obus-dc-eu.heytapmobile.com obus-dc-ru.heytapmobile.com obus-dc-us.heytapmobile.com obus-dc121100-sg.heytapmobile.com
 0.0.0.0 obus-dc2-in.heytapmobile.com obus-dc2-sg.heytapmobile.com obus-dc20123-in.heytapmobile.com obus-dc20123-sg.heytapmobile.com obus-dc20142-sg.heytapmobile.com obus-dc20305-in.heytapmobile.com obus-dc20305-sg.heytapmobile.com obus-dctech-in.heytapmobile.com obus-dctech-sg.heytapmobile.com
 0.0.0.0 obus-jssdk-fr.heytapmobile.com obus-jssdk-in.heytapmobile.com obus-jssdk-sg.heytapmobile.com obus-jssdk-us.heytapmobile.com omes-sec.heytapmobile.com report-in.opay.heytapmobile.com report-sg.opay.heytapmobile.com api-id.play.heytapmobile.com push.heytapmobile.com
-0.0.0.0 dceuex.push.heytapmobile.com dcintl.push.heytapmobile.com dcintl1.push.heytapmobile.com shorteuex.push.heytapmobile.com shortintl.push.heytapmobile.com push-dc-us.heytapmobile.com bsf.sc.heytapmobile.com slb-apisnd-in.heytapmobile.com api-id.theme.heytapmobile.com
-0.0.0.0 report-eu.uc.heytapmobile.com report-in.uc.heytapmobile.com report-sg.uc.heytapmobile.com hizonetech.com www.hizonetech.com ads.oppomobile.com adx.ads.oppomobile.com adx-id.ads.oppomobile.com adx-in.ads.oppomobile.com
-0.0.0.0 bdapi.ads.oppomobile.com bdapi-id.ads.oppomobile.com bdapi-in.ads.oppomobile.com bjdata.ads.oppomobile.com ck.ads.oppomobile.com data.ads.oppomobile.com data-f.ads.oppomobile.com data-id.ads.oppomobile.com data-in.ads.oppomobile.com
-0.0.0.0 dataf.ads.oppomobile.com sapi.ads.oppomobile.com sms.ads.oppomobile.com wifi.ads.oppomobile.com adsfs.oppomobile.com dragate.dc.oppomobile.com dragate-br.dc.oppomobile.com dragate-sg.dc.oppomobile.com predragate.dc.oppomobile.com
-0.0.0.0 dhfs-id.oppomobile.com dhfs-in.oppomobile.com dhfs-th.oppomobile.com dhfs-vn.oppomobile.com dhfsf.oppomobile.com h4g3z1-native.oppo-realme.web.app 
+0.0.0.0 dceuex.push.heytapmobile.com dcintl.push.heytapmobile.com dcintl1.push.heytapmobile.com shorteuex.push.heytapmobile.com shortintl.push.heytapmobile.com push-dc-us.heytapmobile.com bsf.sc.heytapmobile.com slb-apisnd-in.heytapmobile.com sms-ads-in.heytapmobile.com
+0.0.0.0 api-id.theme.heytapmobile.com report-eu.uc.heytapmobile.com report-in.uc.heytapmobile.com report-sg.uc.heytapmobile.com hizonetech.com www.hizonetech.com ads.oppomobile.com adx.ads.oppomobile.com adx-id.ads.oppomobile.com
+0.0.0.0 adx-in.ads.oppomobile.com bdapi.ads.oppomobile.com bdapi-id.ads.oppomobile.com bdapi-in.ads.oppomobile.com bjdata.ads.oppomobile.com ck.ads.oppomobile.com data.ads.oppomobile.com data-f.ads.oppomobile.com data-id.ads.oppomobile.com
+0.0.0.0 data-in.ads.oppomobile.com dataf.ads.oppomobile.com sapi.ads.oppomobile.com sms.ads.oppomobile.com wifi.ads.oppomobile.com adsfs.oppomobile.com dragate.dc.oppomobile.com dragate-br.dc.oppomobile.com dragate-sg.dc.oppomobile.com
+0.0.0.0 predragate.dc.oppomobile.com dhfs-id.oppomobile.com dhfs-in.oppomobile.com dhfs-th.oppomobile.com dhfs-vn.oppomobile.com dhfsf.oppomobile.com h4g3z1-native.oppo-realme.web.app 

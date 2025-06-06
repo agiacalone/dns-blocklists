@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jun 2025 01:39 UTC
-# Version: 2025.0606.0139.28
+# Last modified: 06 Jun 2025 12:34 UTC
+# Version: 2025.0606.1234.19
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10032
+# Number of entries: 10022
 #
 local=/0123456789nonexistent.com/
 local=/0123movie.net/
@@ -2671,7 +2671,6 @@ local=/duboku.net/
 local=/duboku.tv/
 local=/duboku.vip/
 local=/cutscloud.duckdns.org/
-local=/joczo.duckdns.org/
 local=/kamikazee.duckdns.org/
 local=/thinking.duckdns.org/
 local=/tr4ck3r.duckdns.org/
@@ -7080,6 +7079,7 @@ local=/redditnhlstreams.com/
 local=/redditsoccerstreams.org/
 local=/redditsoccerstreams.tv/
 local=/redditsoccerstreams.xyz/
+local=/redditsport.cc/
 local=/redecanais.zip/
 local=/redecanaistv.zip/
 local=/ica1616.redirectme.net/
@@ -8950,7 +8950,6 @@ local=/ufs.pt/
 local=/piracitoplista.ugu.pl/
 local=/uhdbits.org/
 local=/uhdmovies.dad/
-local=/uhdmovies.fans/
 local=/uhdmovies.fyi/
 local=/uhdmovies.us/
 local=/uhdmv.org/
@@ -9206,7 +9205,6 @@ local=/uscene.net/
 local=/usch.ru/
 local=/usemeplz.com/
 local=/usenet.farm/
-local=/usenet.wtf/
 local=/usenet-4all.pw/
 local=/usenet-crawler.com/
 local=/usenetexpress.com/
@@ -9301,7 +9299,6 @@ local=/vidcloud.icu/
 local=/vidcloud.us/
 local=/vidcloud1.com/
 local=/vidcloud9.com/
-local=/vidclouds.icu/
 local=/vidembed.net/
 local=/videobin.co/
 local=/videocop.com/
@@ -9384,7 +9381,6 @@ local=/voir-seriestreaming.org/
 local=/voirdrama.org/
 local=/voirfilm.vip/
 local=/voirfilms.al/
-local=/voirfilms.io/
 local=/voirfilms.tel/
 local=/voirfilms.ws/
 local=/voirfilmstreaming.online/
@@ -9440,7 +9436,6 @@ local=/wannabefansubs.net/
 local=/wantdownloads.net/
 local=/wapfun.us/
 local=/bdix.wapka.me/
-local=/xfilmywap.wapkiz.com/
 local=/films.waploaded.com/
 local=/waplog.net/
 local=/wappaero.com/
@@ -9484,7 +9479,6 @@ local=/warezlander.com/
 local=/warezload.net/
 local=/warezlover.xyz/
 local=/warezm.com/
-local=/warezmac.com/
 local=/warezmaster.com/
 local=/warezok.net/
 local=/warezomen.com/
@@ -9603,7 +9597,6 @@ local=/webstats4u.com/
 local=/webstress.net/
 local=/webstresser.biz/
 local=/webstresser.co/
-local=/webstresser.com/
 local=/webtor.io/
 local=/webtorrent.io/
 local=/tracker.webtorrent.dev/
@@ -9671,10 +9664,8 @@ local=/worldboxingvideoarchive.com/
 local=/worldbytez.com/
 local=/worldcupfootball.me/
 local=/worldfree4u.moe/
-local=/worldfree4u.pm/
 local=/worldmags.net/
 local=/worldofcracksoft.com/
-local=/worldofp2p.net/
 local=/worldofpcgames.co/
 local=/worldofpcgames.com/
 local=/worldsrc.net/
@@ -9754,7 +9745,6 @@ local=/xn--firstrowsport-8xe.eu/
 local=/budvartrekker.xn-s.eu/
 local=/hd-hu.xn-s.eu/
 local=/xoomtv.xyz/
-local=/tterm.xorg.pl/
 local=/xpau.se/
 local=/xplorenetbd.com/
 local=/xpress.ltd/

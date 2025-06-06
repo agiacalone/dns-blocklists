@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 05 Jun 2025 21:12 UTC
-# Version: 2025.0605.2112.32
+# Last modified: 06 Jun 2025 08:12 UTC
+# Version: 2025.0606.0812.23
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5878
+# Number of entries: 5876
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -2672,6 +2672,7 @@ local=/liltext.com/
 local=/limiteds.live/
 local=/lin.ee/
 local=/lin.io/
+local=/lin.st/
 local=/lin-k.cc/
 local=/lin-k.eu/
 local=/lin-k.me/
@@ -3225,6 +3226,7 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
+local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -3427,6 +3429,7 @@ local=/ok2.com/
 local=/okachi.info/
 local=/okachi.life/
 local=/okcvw.sbs/
+local=/okebio.com/
 local=/okeegas.win/
 local=/okshort.net/
 local=/okt.to/
@@ -4821,9 +4824,11 @@ local=/tipeos.com/
 local=/tisfri.se/
 local=/titaniumlinks.com/
 local=/titleagentmarketing.com/
+local=/titok.website/
 local=/tiurl.link/
 local=/tixxh.com/
 local=/tj.wtf/
+local=/tj-bet88.store/
 local=/tjazih.com/
 local=/tklinks.com/
 local=/tktwb.tw/
@@ -4999,7 +5004,6 @@ local=/twurl.nl/
 local=/tx0.org/
 local=/txdl.top/
 local=/txhih.sbs/
-local=/txtr.cc/
 local=/txul.cn/
 local=/ty.gy/
 local=/tylervisionary.live/
@@ -5007,7 +5011,6 @@ local=/u.nu/
 local=/u.to/
 local=/u-rl.li/
 local=/u0c.net/
-local=/u2l.io/
 local=/u301.com/
 local=/u3l.co/
 local=/u6e.de/
@@ -5299,7 +5302,6 @@ local=/vineland.dj/
 local=/vip-gacha99.info/
 local=/vipgacor77.net/
 local=/viprupiah138.net/
-local=/vipshortener.com/
 local=/vipslot4d.site/
 local=/viptango77.net/
 local=/viraln.co/
@@ -5450,7 +5452,6 @@ local=/webrc.net/
 local=/webseoexpert.life/
 local=/webshort.org/
 local=/webshortner.com/
-local=/webuji4d.life/
 local=/webyank4d.live/
 local=/webz.cc/
 local=/wec.li/
@@ -5509,7 +5510,6 @@ local=/whoel.se/
 local=/whr.tn/
 local=/whs.link/
 local=/whxce.sbs/
-local=/whyiwu.com/
 local=/wi.se/
 local=/wideo.fr/
 local=/widyh.com/
@@ -5518,7 +5518,6 @@ local=/s.wikicharlie.cl/
 local=/peercertification.wildalwhite.com/
 local=/wilsonlopez0404inc.life/
 local=/win.gs/
-local=/win7.life/
 local=/windows69.live/
 local=/winlynk.com/
 local=/shortener.winplaybox.in/
@@ -5527,7 +5526,6 @@ local=/wipp.me/
 local=/wishct.live/
 local=/wit.to/
 local=/witchny.live/
-local=/withtask.com/
 local=/wiuqz.com/
 local=/wjib.top/
 local=/wjsxb.com/
@@ -5630,7 +5628,6 @@ local=/xgam.es/
 local=/xgd.in/
 local=/xi.ht/
 local=/xib.me/
-local=/xip.li/
 local=/xiqi.us/
 local=/xjroy.com/
 local=/xjyus.sbs/
@@ -5875,6 +5872,7 @@ local=/zsote.com/
 local=/zti.me/
 local=/zugco.sbs/
 local=/zuki.ie/
+local=/zum.bi/
 local=/zuplo.link/
 local=/zurb.us/
 local=/zurins.uk/

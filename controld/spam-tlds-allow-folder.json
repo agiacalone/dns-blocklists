@@ -204,6 +204,13 @@
       }
     },
     {
+      "PK": "baby-beamup.club",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
       "PK": "bahn.expert",
       "action": {
         "do": 1,
@@ -2907,6 +2914,13 @@
     },
     {
       "PK": "strem.bar",
+      "action": {
+        "do": 1,
+        "status": 1
+      }
+    },
+    {
+      "PK": "strem.fun",
       "action": {
         "do": 1,
         "status": 1
