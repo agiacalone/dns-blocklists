@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 May 2025 22:02 UTC
-# Version: 2025.0531.2202.04
+# Last modified: 07 Jun 2025 00:29 UTC
+# Version: 2025.0607.0029.44
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 226
 #

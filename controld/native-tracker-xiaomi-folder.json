@@ -1807,6 +1807,13 @@
       }
     },
     {
+      "PK": "redirect.pandora.xiaomi.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "register.xmpush.global.xiaomi.com",
       "action": {
         "do": 0,
@@ -2459,13 +2466,6 @@
     },
     {
       "PK": "userid.xiaomi.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "user.pandora.xiaomi.com",
       "action": {
         "do": 0,
         "status": 1

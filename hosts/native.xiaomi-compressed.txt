@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:43 UTC
-# Version: 2025.0524.0043.13
+# Last modified: 07 Jun 2025 00:31 UTC
+# Version: 2025.0607.0031.01
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 54
 #
@@ -55,8 +55,8 @@
 0.0.0.0 c3mini.pandora.xiaomi.com c4.pandora.xiaomi.com appstore.cdn.pandora.xiaomi.com gallery.cdn.pandora.xiaomi.com image.cdn.pandora.xiaomi.com orig.image.cdn.pandora.xiaomi.com mishop.cdn.pandora.xiaomi.com orig.mishop.cdn.pandora.xiaomi.com ota.cdn.pandora.xiaomi.com
 0.0.0.0 package.cdn.pandora.xiaomi.com comc4l7.pandora.xiaomi.com de.pandora.xiaomi.com dvb.pandora.xiaomi.com hook.gitv.pandora.xiaomi.com ptmi.gitv.pandora.xiaomi.com sjs.ptmi.gitv.pandora.xiaomi.com gstat.pandora.xiaomi.com lg-bgp-misc.pandora.xiaomi.com
 0.0.0.0 mantual.pandora.xiaomi.com mi4crawler.pandora.xiaomi.com milink.pandora.xiaomi.com live.miphone.pandora.xiaomi.com misc.pandora.xiaomi.com bsp.misc.pandora.xiaomi.com mishop.pandora.xiaomi.com pull.mitv.pandora.xiaomi.com mob.pandora.xiaomi.com
-0.0.0.0 monitor.pandora.xiaomi.com netcheck.pandora.xiaomi.com ottl7-l2.pandora.xiaomi.com media.pre.pandora.xiaomi.com rtmpott.pandora.xiaomi.com bsp.sasdc.pandora.xiaomi.com shop.pandora.xiaomi.com smarthome.pandora.xiaomi.com stat.pandora.xiaomi.com
-0.0.0.0 bgp.tv.pandora.xiaomi.com mob.tv.pandora.xiaomi.com tvboss.pandora.xiaomi.com tvepg.pandora.xiaomi.com upgrade.pandora.xiaomi.com user.pandora.xiaomi.com w.pandora.xiaomi.com sentry.pay.xiaomi.com tj1.staging.pay.xiaomi.com
+0.0.0.0 monitor.pandora.xiaomi.com netcheck.pandora.xiaomi.com ottl7-l2.pandora.xiaomi.com media.pre.pandora.xiaomi.com redirect.pandora.xiaomi.com rtmpott.pandora.xiaomi.com bsp.sasdc.pandora.xiaomi.com shop.pandora.xiaomi.com smarthome.pandora.xiaomi.com
+0.0.0.0 stat.pandora.xiaomi.com bgp.tv.pandora.xiaomi.com mob.tv.pandora.xiaomi.com tvboss.pandora.xiaomi.com tvepg.pandora.xiaomi.com upgrade.pandora.xiaomi.com w.pandora.xiaomi.com sentry.pay.xiaomi.com tj1.staging.pay.xiaomi.com
 0.0.0.0 tj1.stagingouter.pay.xiaomi.com tj1.test.pay.xiaomi.com preload.xiaomi.com bugreport.pt.xiaomi.com tj1.staging.fintech.pt.xiaomi.com tj1.staging.fund.pt.xiaomi.com tj1.staging.ins.pt.xiaomi.com log.pt.xiaomi.com tj1.master.pt.xiaomi.com
 0.0.0.0 tj1.staging.mifi.pt.xiaomi.com tj1.payment.pt.xiaomi.com monitor.scf.pt.xiaomi.com tj1.scf.pt.xiaomi.com tj1-new.scf.pt.xiaomi.com staging-analyze.pt.xiaomi.com staging.stat.pt.xiaomi.com qiye.xiaomi.com sec.resource.xiaomi.net
 0.0.0.0 sdkconfig.ad.rus.xiaomi.com mistat.rus.xiaomi.com data.mistat.rus.xiaomi.com mlog.search.xiaomi.net api.miui.security.xiaomi.com ssp.xiaomi.com stat.xiaomi.com a.stat.xiaomi.com sec-cdn.static.xiaomi.net

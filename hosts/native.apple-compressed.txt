@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:05 UTC
-# Version: 2025.0524.0005.52
+# Last modified: 07 Jun 2025 00:24 UTC
+# Version: 2025.0607.0024.12
 # Syntax: Hosts compressed (9 per line, including possible subdomains)
 # Number of entries: 33
 #
@@ -31,14 +31,14 @@
 0.0.0.0 r4-iad-ss-static-assets.iad.apple.com r4-iad-ss-static-assets-admin.iad.apple.com r4-iad-ss-static-assets-cm.iad.apple.com r4-iad-ss-user-targeting.iad.apple.com s1-ap-sales-middleware.iad.apple.com s1-ext-searchads.iad.apple.com s1-iad-ap-apps-ad-tester.iad.apple.com s1-iad-device-proxy.iad.apple.com s1-iad-servlet-proxy.iad.apple.com
 0.0.0.0 s1-iad-ss-client-settings.iad.apple.com s1-iad-ss-logging-server.iad.apple.com s1-iad-ss-services-creative.iad.apple.com s1-iad-ss-services-finance.iad.apple.com s1-iad-ss-services-media.iad.apple.com s1-iad-ss-serving-searchads.iad.apple.com s1-iad-ss-sponsored-search.iad.apple.com s1-iad-ss-static-assets.iad.apple.com s1-iad-ss-static-assets-admin.iad.apple.com
 0.0.0.0 s1-iad-ss-static-assets-cm.iad.apple.com s2-ap-sales-middleware.iad.apple.com s2-ext-searchads.iad.apple.com s2-iad-ap-apps-ad-tester.iad.apple.com s2-iad-ss-client-settings.iad.apple.com s2-iad-ss-logging-server.iad.apple.com s2-iad-ss-services-campaign.iad.apple.com s2-iad-ss-services-creative.iad.apple.com s2-iad-ss-services-finance.iad.apple.com
-0.0.0.0 s2-iad-ss-services-media.iad.apple.com s2-iad-ss-static-assets.iad.apple.com s2-iad-ss-static-assets-admin.iad.apple.com s2-iad-ss-static-assets-cm.iad.apple.com s2-iad-ss-user-targeting.iad.apple.com st11p01ad-netscaler005-snip.iad.apple.com st11p01ad-netscaler006-snip.iad.apple.com st11p01ad-netscaler009-pass.iad.apple.com st11p01ad-netscaler013-pass.iad.apple.com
-0.0.0.0 st11p01ad-netscaler014-pass.iad.apple.com sy21p01ad-ext-cloud.iad.apple.com vp2pass-dev.iad.apple.com iadcontent.apple.com iadmoo.apple.com iadsdk.apple.com ca.iadsdk.apple.com cf.iadsdk.apple.com tr.iadsdk.apple.com
-0.0.0.0 iadworkbench.apple.com idiagnostics.apple.com idiagnostics-devices-mdn.apple.com idiagnostics-devices-qa.apple.com idiagnostics-devices-reno.apple.com idiagnostics-ft.apple.com idiagnostics-mdn1.apple.com idiagnostics-qa.apple.com idiagnostics-reno.apple.com
-0.0.0.0 internalcheck.apple.com iphonesubmissions.apple.com iphonesubmissions-old.apple.com partiality.itunes.apple.com launch.apple.com metrics.apple.com msc-dct-prod.msc.apple.com news-app-events.apple.com news-events.apple.com
-0.0.0.0 news-notification-events.apple.com news-sports-events.apple.com notes-analytics-events.apple.com odin-signals.apple.com performance-partners.apple.com phonesubmissions.apple.com prd-usw2-requestattribution-iad.apple.com proxy-skadnetwork.apple.com qa-iad.apple.com
-0.0.0.0 overlord.qa-iad.apple.com radarsubmissions.apple.com sdkintg-iad.apple.com sdkintgiad.apple.com searchads.apple.com securemetrics.apple.com securemvt.apple.com fbs.smoot.apple.com stg-iad.apple.com
-0.0.0.0 overlord.stg-iad.apple.com st11p01ad-iadworkbench.stg-iad.apple.com st11p01ad-overlord.stg-iad.apple.com st11p01ad-uuidws.stg-iad.apple.com st11p01adiadc-origin.stg-iad.apple.com st11p01adiadctest.stg-iad.apple.com st11p01adoo.stg-iad.apple.com stocks-analytics-events.apple.com supportmetrics.apple.com
-0.0.0.0 uxintg-iad.apple.com uxintgiad.apple.com weather-analytics-events.apple.com xp.apple.com xp-cdn.apple.com feedbackws.fe.apple-dns.cn feedbackws.fe2.apple-dns.net me.apple-dns.net probe.me.apple-dns.net
-0.0.0.0 applemediaservices.com cstat.cdn-apple.com feedbackws.icloud.com.cn cdn-xp-ingest.edge.apple experiments.apple.com.edgekey.net iadsdk.apple.com.edgekey.net partiality.itunes.apple.com.edgekey.net xp.apple.com.edgekey.net cstat.apple.com.edgesuite.net
-0.0.0.0 searchads.apple.com.edgesuite.net acfeedbackws.icloud.com feedbackws.icloud.com metrics.icloud.com metrics.mzstatic.com qwapi.com www.qwapi.com marketing.services.apple beacon.shazam.com
-0.0.0.0 h4g3z1-native.apple.web.app 
+0.0.0.0 s2-iad-ss-services-media.iad.apple.com s2-iad-ss-static-assets.iad.apple.com s2-iad-ss-static-assets-admin.iad.apple.com s2-iad-ss-static-assets-cm.iad.apple.com s2-iad-ss-user-targeting.iad.apple.com st11p01ad-data-api-ims.iad.apple.com st11p01ad-netscaler005-snip.iad.apple.com st11p01ad-netscaler006-snip.iad.apple.com st11p01ad-netscaler009-pass.iad.apple.com
+0.0.0.0 st11p01ad-netscaler013-pass.iad.apple.com st11p01ad-netscaler014-pass.iad.apple.com sy21p01ad-ext-cloud.iad.apple.com vg3-dev2cpr.iad.apple.com vp2pass-dev.iad.apple.com iadcontent.apple.com iadmoo.apple.com iadsdk.apple.com ca.iadsdk.apple.com
+0.0.0.0 cf.iadsdk.apple.com tr.iadsdk.apple.com iadworkbench.apple.com idiagnostics.apple.com idiagnostics-devices-mdn.apple.com idiagnostics-devices-qa.apple.com idiagnostics-devices-reno.apple.com idiagnostics-ft.apple.com idiagnostics-mdn1.apple.com
+0.0.0.0 idiagnostics-qa.apple.com idiagnostics-reno.apple.com internalcheck.apple.com iphonesubmissions.apple.com iphonesubmissions-old.apple.com partiality.itunes.apple.com launch.apple.com metrics.apple.com msc-dct-prod.msc.apple.com
+0.0.0.0 news-app-events.apple.com news-events.apple.com news-notification-events.apple.com news-sports-events.apple.com notes-analytics-events.apple.com odin-signals.apple.com performance-partners.apple.com phonesubmissions.apple.com prd-usw2-requestattribution-iad.apple.com
+0.0.0.0 proxy-skadnetwork.apple.com qa-iad.apple.com overlord.qa-iad.apple.com radarsubmissions.apple.com sdkintg-iad.apple.com sdkintgiad.apple.com searchads.apple.com securemetrics.apple.com securemvt.apple.com
+0.0.0.0 fbs.smoot.apple.com stg-iad.apple.com overlord.stg-iad.apple.com st11p01ad-iadworkbench.stg-iad.apple.com st11p01ad-overlord.stg-iad.apple.com st11p01ad-uuidws.stg-iad.apple.com st11p01adiadc-origin.stg-iad.apple.com st11p01adiadctest.stg-iad.apple.com st11p01adoo.stg-iad.apple.com
+0.0.0.0 stocks-analytics-events.apple.com supportmetrics.apple.com uxintg-iad.apple.com uxintgiad.apple.com weather-analytics-events.apple.com xp.apple.com xp-cdn.apple.com feedbackws.fe.apple-dns.cn feedbackws.fe2.apple-dns.net
+0.0.0.0 me.apple-dns.net probe.me.apple-dns.net applemediaservices.com cstat.cdn-apple.com feedbackws.icloud.com.cn cdn-xp-ingest.edge.apple experiments.apple.com.edgekey.net iadsdk.apple.com.edgekey.net partiality.itunes.apple.com.edgekey.net
+0.0.0.0 xp.apple.com.edgekey.net cstat.apple.com.edgesuite.net searchads.apple.com.edgesuite.net acfeedbackws.icloud.com feedbackws.icloud.com metrics.icloud.com metrics.mzstatic.com qwapi.com www.qwapi.com
+0.0.0.0 marketing.services.apple beacon.shazam.com h4g3z1-native.apple.web.app 

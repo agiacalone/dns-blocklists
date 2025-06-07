@@ -5,7 +5,6 @@ http://s3-us-west-1.amazonaws.com/umbrella-static/top-1m.csv.zip
 https://abpvn.com/android/abpvn.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/adguard_popup_filter.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-https://azorult-tracker.net/api/list/domain?format=plain
 https://bl.ossmalta.eu/malta.txt
 https://botvrij.eu/data/ioclist.domain
 https://botvrij.eu/data/ioclist.hostname
@@ -213,7 +212,6 @@ https://raw.githubusercontent.com/easylist/easylistitaly/master/easylistitaly/ea
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt
-https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers.txt
 https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_specific_block_popup.txt

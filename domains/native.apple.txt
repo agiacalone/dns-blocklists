@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:05 UTC
-# Version: 2025.0524.0005.52
+# Last modified: 07 Jun 2025 00:24 UTC
+# Version: 2025.0607.0024.12
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 289
+# Number of entries: 291
 #
 cstat.g.aaplimg.com
 diagassets.g.aaplimg.com
@@ -212,12 +212,14 @@ s2-iad-ss-static-assets.iad.apple.com
 s2-iad-ss-static-assets-admin.iad.apple.com
 s2-iad-ss-static-assets-cm.iad.apple.com
 s2-iad-ss-user-targeting.iad.apple.com
+st11p01ad-data-api-ims.iad.apple.com
 st11p01ad-netscaler005-snip.iad.apple.com
 st11p01ad-netscaler006-snip.iad.apple.com
 st11p01ad-netscaler009-pass.iad.apple.com
 st11p01ad-netscaler013-pass.iad.apple.com
 st11p01ad-netscaler014-pass.iad.apple.com
 sy21p01ad-ext-cloud.iad.apple.com
+vg3-dev2cpr.iad.apple.com
 vp2pass-dev.iad.apple.com
 iadcontent.apple.com
 iadmoo.apple.com

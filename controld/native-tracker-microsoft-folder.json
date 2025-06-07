@@ -477,13 +477,6 @@
       }
     },
     {
-      "PK": "bf-tracker-release-tm.trafficmanager.net",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "bingadseditor.microsoft.com",
       "action": {
         "do": 0,

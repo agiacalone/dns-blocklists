@@ -11,10 +11,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 06 Jun 2025 08:12 UTC
-# Version: 2025.0606.0812.23
+# Last modified: 06 Jun 2025 22:12 UTC
+# Version: 2025.0606.2212.25
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 5876
+# Number of entries: 5878
 #
 local=/0.gp/
 local=/00oo.lol/
@@ -642,6 +642,7 @@ local=/barz.it/
 local=/bayarcuan.com/
 local=/bayareane.ws/
 local=/bb.vg/
+local=/bbb.bz/
 local=/bbc.in/
 local=/bbff.me/
 local=/bbuyyani.life/
@@ -967,6 +968,7 @@ local=/cbsn.ws/
 local=/cbt.gg/
 local=/cc.cc/
 local=/cccc.one/
+local=/ccits.cc/
 local=/ccj.im/
 local=/cctor.link/
 local=/ccurl.in/
@@ -1753,6 +1755,7 @@ local=/fslvi.com/
 local=/fstgo.to/
 local=/fstrk.cc/
 local=/url-shortener.yc.fstrk.io/
+local=/fsu.ro/
 local=/on.ft.com/
 local=/ftim.eu/
 local=/ftnt.net/
@@ -2030,6 +2033,7 @@ local=/hblab.me/
 local=/hbom.ax/
 local=/hbs.me/
 local=/hbtl.co/
+local=/hcibh.com/
 local=/hcizp.top/
 local=/hdd6.com/
 local=/hdslink.com/
@@ -3011,6 +3015,7 @@ local=/menang.win/
 local=/menangbola77.info/
 local=/menofleather.life/
 local=/menofleather.live/
+local=/meraihcuan.com/
 local=/merky.de/
 local=/mesej.la/
 local=/met.bz/
@@ -3226,7 +3231,6 @@ local=/myshorturls.com/
 local=/mysp.ac/
 local=/mysurl.com/
 local=/mytd.cc/
-local=/mytiktok.life/
 local=/mytinycheck9.life/
 local=/mytoluwalemi.life/
 local=/mytorus.live/
@@ -4158,6 +4162,7 @@ local=/sewei.top/
 local=/sf3c.tw/
 local=/sfca.re/
 local=/sfcne.ws/
+local=/sfcsgala.org/
 local=/sforce.co/
 local=/sfty.io/
 local=/sg0.co/
@@ -4824,7 +4829,6 @@ local=/tipeos.com/
 local=/tisfri.se/
 local=/titaniumlinks.com/
 local=/titleagentmarketing.com/
-local=/titok.website/
 local=/tiurl.link/
 local=/tixxh.com/
 local=/tj.wtf/
@@ -5745,7 +5749,6 @@ local=/yourl.ir/
 local=/yourls.best/
 local=/yourls.info/
 local=/yourls.org/
-local=/yourmovie.co/
 local=/yourwish.es/
 local=/yozzc.com/
 local=/ypflx.com/
@@ -5872,7 +5875,6 @@ local=/zsote.com/
 local=/zti.me/
 local=/zugco.sbs/
 local=/zuki.ie/
-local=/zum.bi/
 local=/zuplo.link/
 local=/zurb.us/
 local=/zurins.uk/

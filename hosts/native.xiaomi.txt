@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:43 UTC
-# Version: 2025.0524.0043.13
+# Last modified: 07 Jun 2025 00:31 UTC
+# Version: 2025.0607.0031.01
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 478
 #
@@ -427,6 +427,7 @@
 0.0.0.0 netcheck.pandora.xiaomi.com
 0.0.0.0 ottl7-l2.pandora.xiaomi.com
 0.0.0.0 media.pre.pandora.xiaomi.com
+0.0.0.0 redirect.pandora.xiaomi.com
 0.0.0.0 rtmpott.pandora.xiaomi.com
 0.0.0.0 bsp.sasdc.pandora.xiaomi.com
 0.0.0.0 shop.pandora.xiaomi.com
@@ -437,7 +438,6 @@
 0.0.0.0 tvboss.pandora.xiaomi.com
 0.0.0.0 tvepg.pandora.xiaomi.com
 0.0.0.0 upgrade.pandora.xiaomi.com
-0.0.0.0 user.pandora.xiaomi.com
 0.0.0.0 w.pandora.xiaomi.com
 0.0.0.0 sentry.pay.xiaomi.com
 0.0.0.0 tj1.staging.pay.xiaomi.com

@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:43 UTC
-# Version: 2025.0524.0043.13
+# Last modified: 07 Jun 2025 00:31 UTC
+# Version: 2025.0607.0031.01
 # Syntax: DNSMasq v2.86 or newer
 # Number of entries: 364
 #
@@ -316,6 +316,7 @@ local=/monitor.pandora.xiaomi.com/
 local=/netcheck.pandora.xiaomi.com/
 local=/ottl7-l2.pandora.xiaomi.com/
 local=/media.pre.pandora.xiaomi.com/
+local=/redirect.pandora.xiaomi.com/
 local=/rtmpott.pandora.xiaomi.com/
 local=/bsp.sasdc.pandora.xiaomi.com/
 local=/shop.pandora.xiaomi.com/
@@ -326,7 +327,6 @@ local=/mob.tv.pandora.xiaomi.com/
 local=/tvboss.pandora.xiaomi.com/
 local=/tvepg.pandora.xiaomi.com/
 local=/upgrade.pandora.xiaomi.com/
-local=/user.pandora.xiaomi.com/
 local=/w.pandora.xiaomi.com/
 local=/sentry.pay.xiaomi.com/
 local=/tj1.staging.pay.xiaomi.com/

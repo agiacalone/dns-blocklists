@@ -4,8 +4,8 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 30 May 2025 23:56 UTC
-# Version: 2025.0530.2356.11
+# Last modified: 07 Jun 2025 00:31 UTC
+# Version: 2025.0607.0031.50
 # Syntax: Hosts (including possible subdomains)
 # Number of entries: 254
 #
@@ -164,7 +164,6 @@
 0.0.0.0 ad-server.samsungads.com
 0.0.0.0 ads.samsungads.com
 0.0.0.0 api-dooh.samsungads.com
-0.0.0.0 beacon.samsungads.com
 0.0.0.0 config.samsungads.com
 0.0.0.0 dsp.samsungads.com
 0.0.0.0 events.samsungads.com
@@ -229,6 +228,7 @@
 0.0.0.0 samsungtvads.com
 0.0.0.0 www.samsungtvads.com
 0.0.0.0 business.samsungusa.com
+0.0.0.0 app.business.samsungusa.com
 0.0.0.0 images.business.samsungusa.com
 0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 lbs-samsung.swypeconnect.com

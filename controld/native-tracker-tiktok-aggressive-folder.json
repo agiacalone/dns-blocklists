@@ -2010,6 +2010,13 @@
       }
     },
     {
+      "PK": "mssdk31-normal-zr-useast1a.tiktokv.com",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "mssdk32-normal-zr-alisg.tiktokv.com",
       "action": {
         "do": 0,

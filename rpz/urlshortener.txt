@@ -1,5 +1,5 @@
 $TTL 300
-@ SOA localhost. root.localhost. 1749197520 43200 3600 86400 300
+@ SOA localhost. root.localhost. 1749247920 43200 3600 86400 300
   NS  localhost.
 ;
 ; Title: HaGeZi's Blocklist URL Shortener
@@ -15,10 +15,10 @@ $TTL 300
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: 1 day
-; Last modified: 06 Jun 2025 08:12 UTC
-; Version: 2025.0606.0812.23
+; Last modified: 06 Jun 2025 22:12 UTC
+; Version: 2025.0606.2212.25
 ; Syntax: RPZ
-; Number of entries: 11752
+; Number of entries: 11756
 ;
 gma.abc CNAME .
 *.gma.abc CNAME .
@@ -362,8 +362,6 @@ read.bi CNAME .
 *.read.bi CNAME .
 scr.bi CNAME .
 *.scr.bi CNAME .
-zum.bi CNAME .
-*.zum.bi CNAME .
 cutit.bid CNAME .
 *.cutit.bid CNAME .
 short.bid CNAME .
@@ -460,6 +458,8 @@ urls.by CNAME .
 *.urls.by CNAME .
 zak.by CNAME .
 *.zak.by CNAME .
+bbb.bz CNAME .
+*.bbb.bz CNAME .
 bit.bz CNAME .
 *.bit.bz CNAME .
 bitly.bz CNAME .
@@ -624,6 +624,8 @@ calcol.cc CNAME .
 *.calcol.cc CNAME .
 cc.cc CNAME .
 *.cc.cc CNAME .
+ccits.cc CNAME .
+*.ccits.cc CNAME .
 clickhub.cc CNAME .
 *.clickhub.cc CNAME .
 conta.cc CNAME .
@@ -1466,8 +1468,6 @@ wrctr.co CNAME .
 *.wrctr.co CNAME .
 x.co CNAME .
 *.x.co CNAME .
-yourmovie.co CNAME .
-*.yourmovie.co CNAME .
 yubi.co CNAME .
 *.yubi.co CNAME .
 yyv.co CNAME .
@@ -2148,6 +2148,8 @@ hadsucma.com CNAME .
 *.hadsucma.com CNAME .
 happytobackspace.com CNAME .
 *.happytobackspace.com CNAME .
+hcibh.com CNAME .
+*.hcibh.com CNAME .
 hdd6.com CNAME .
 *.hdd6.com CNAME .
 hdslink.com CNAME .
@@ -2460,6 +2462,8 @@ mdyvah.com CNAME .
 *.mdyvah.com CNAME .
 me-qr.com CNAME .
 *.me-qr.com CNAME .
+meraihcuan.com CNAME .
+*.meraihcuan.com CNAME .
 metro-tmo.com CNAME .
 *.metro-tmo.com CNAME .
 mgomo.com CNAME .
@@ -6374,8 +6378,6 @@ mylovinglife01974.life CNAME .
 *.mylovinglife01974.life CNAME .
 mysales.life CNAME .
 *.mysales.life CNAME .
-mytiktok.life CNAME .
-*.mytiktok.life CNAME .
 mytinycheck9.life CNAME .
 *.mytinycheck9.life CNAME .
 mytoluwalemi.life CNAME .
@@ -8952,6 +8954,8 @@ sdnl.org CNAME .
 *.sdnl.org CNAME .
 925.seiu.org CNAME .
 *.925.seiu.org CNAME .
+sfcsgala.org CNAME .
+*.sfcsgala.org CNAME .
 shikshansagar.org CNAME .
 *.shikshansagar.org CNAME .
 short-url.org CNAME .
@@ -9390,6 +9394,8 @@ curl.ro CNAME .
 *.curl.ro CNAME .
 fi.ro CNAME .
 *.fi.ro CNAME .
+fsu.ro CNAME .
+*.fsu.ro CNAME .
 icks.ro CNAME .
 *.icks.ro CNAME .
 iuu.ro CNAME .
@@ -11468,8 +11474,6 @@ loginsaja.website CNAME .
 *.loginsaja.website CNAME .
 shortened.website CNAME .
 *.shortened.website CNAME .
-titok.website CNAME .
-*.titok.website CNAME .
 03.wf CNAME .
 *.03.wf CNAME .
 fff.wf CNAME .

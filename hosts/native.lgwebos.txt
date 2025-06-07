@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 24 May 2025 00:32 UTC
-# Version: 2025.0524.0032.05
+# Last modified: 07 Jun 2025 00:28 UTC
+# Version: 2025.0607.0028.20
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1172
+# Number of entries: 1173
 #
 0.0.0.0 alphonso.tv
 0.0.0.0 ad-inserter.alphonso.tv
@@ -230,6 +230,7 @@
 0.0.0.0 hzcjehtc7.alphonso.tv
 0.0.0.0 ibniwvetq1.alphonso.tv
 0.0.0.0 icoxpv90.alphonso.tv
+0.0.0.0 insights.alphonso.tv
 0.0.0.0 ioaoyyl3.alphonso.tv
 0.0.0.0 iqzjhctm4.alphonso.tv
 0.0.0.0 iwwwvsed59.alphonso.tv
