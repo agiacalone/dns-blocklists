@@ -4,10 +4,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Jun 2025 00:32 UTC
-# Version: 2025.0607.0032.45
+# Last modified: 07 Jun 2025 10:36 UTC
+# Version: 2025.0607.1036.54
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 14487
+# Number of entries: 14501
 #
 local=/01crypto.com/
 local=/1001clothing.eu/
@@ -751,6 +751,7 @@ local=/artestaes.shop/
 local=/artevive.de/
 local=/arti-ava.de/
 local=/try.articblast.co/
+local=/artificialisens.com/
 local=/artihorizonx.com/
 local=/artisan-galerie.com/
 local=/artizenti.de/
@@ -1361,6 +1362,7 @@ local=/bestefahrrad.de/
 local=/besteholzlager.ch/
 local=/bestekaufhauser24.com/
 local=/bestelektronicshop.de/
+local=/bestellenmedicament.com/
 local=/bestellrezeptfrei.de/
 local=/bestellungapotheke.de/
 local=/bestellungen-rezeptfrei.de/
@@ -1424,6 +1426,7 @@ local=/betakredit.com/
 local=/betonruttler.com/
 local=/betonspot.com/
 local=/betrise-capital.ltd/
+local=/betrisecapitals.ltd/
 local=/bettbezugede.com/
 local=/bettbezugrabatt.com/
 local=/bettenfist.com/
@@ -1684,6 +1687,7 @@ local=/blueboltchargers.com/
 local=/bluehend-land.de/
 local=/bluelock.store/
 local=/blueoceanproject.de/
+local=/bluepeaksfinance.com/
 local=/blueribbon.site/
 local=/bluestyleshop.com/
 local=/blum-film.de/
@@ -1852,6 +1856,7 @@ local=/brennholz-hofmann.de/
 local=/brennholz-netzwerk.de/
 local=/brennholz-pelletspreise.com/
 local=/brennholz-saale.de/
+local=/brennholz-world.at/
 local=/brennholz-zertifikats.de/
 local=/brennholz360.com/
 local=/brennholzbillharz.shop/
@@ -2631,6 +2636,7 @@ local=/useraven.com.br/
 local=/vercc.com.br/
 local=/verdienste.com.de/
 local=/vermontco.com.br/
+local=/wiecel.com.de/
 local=/xqnail.com.au/
 local=/comazoo.com/
 local=/combitranslogistics.com/
@@ -5293,6 +5299,7 @@ local=/glamourparadies.com/
 local=/glanz-mode.de/
 local=/glanzberg-mode.de/
 local=/glanzlampen.com/
+local=/klartnzm.glanzrmvh.click/
 local=/glaprestige.com/
 local=/glas-metall.at/
 local=/glassesde.com/
@@ -5381,6 +5388,7 @@ local=/goldpromocoes.com/
 local=/goldscheideanstalt-seit1970.de/
 local=/de.goldsea.es/
 local=/shop.goldsea.es/
+local=/goldsicher.net/
 local=/goldstollen.de/
 local=/golfapparelsale.com/
 local=/golfersgalore.com/
@@ -6339,6 +6347,7 @@ local=/hybridfahrrader.com/
 local=/hydrip.de/
 local=/hydrogearworld.com/
 local=/hygienecleanshop.com/
+local=/hyip.com/
 local=/hype-handel.de/
 local=/hypelaced.co/
 local=/hypersneakers.online/
@@ -6585,6 +6594,7 @@ local=/inteigral.com/
 local=/inteiograly.com/
 local=/intelilawllp.com/
 local=/intelligents.store/
+local=/intellisynex.com/
 local=/inter-investissement-holding.com/
 local=/interactionm.com/
 local=/interactivecoins.com/
@@ -8291,6 +8301,7 @@ local=/megawire.de/
 local=/mege-tech.de/
 local=/mehsam-transport.com/
 local=/meiergartenbau.de/
+local=/meierwien.at/
 local=/meikemode.de/
 local=/meimiou.store/
 local=/mein.consulting/
@@ -8829,6 +8840,7 @@ local=/my-pawly.com/
 local=/my-pills.biz/
 local=/my-schaschlik.shop/
 local=/my-slide.de/
+local=/my-trip-online.com/
 local=/myalpins.com/
 local=/portal.mybeautyplans.com/
 local=/mybestjudymerch.com/
@@ -9894,6 +9906,7 @@ local=/peculiarit.com/
 local=/peculiarn.com/
 local=/pedalbliss.com/
 local=/pedalfreunde.de/
+local=/pedalyst.com/
 local=/pedbikecozy.com/
 local=/peekcloppenburg-berlin.de/
 local=/peelerrabatt.de/
@@ -10606,6 +10619,7 @@ local=/reciprocalx.com/
 local=/reciprocau.com/
 local=/recognizen.com/
 local=/recollectk.com/
+local=/recovery-office.com/
 local=/recreationt.net/
 local=/rectanglel.com/
 local=/rectcg.shop/
